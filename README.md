@@ -1,10 +1,8 @@
 # Natuurtotem
 
-*Omschrijving van je concept in 1 zin* 
-
-*Projectteam: Naam 1; Naam 2*
-
-Datum 
+“De natuurrobot is een toestel dat helpt openbare plaatsen aantrekkelijker te maken voor kinderen om buiten te spelen.”
+Projectteam: Sterre Van de Velde; Seppe Nijs
+Datum: 24/01/2024
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
