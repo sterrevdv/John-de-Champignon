@@ -1,7 +1,9 @@
 # Natuurtotem
 
 *De natuurrobot is een toestel dat helpt openbare plaatsen aantrekkelijker te maken voor kinderen om buiten te spelen.*
+
 *Projectteam: Sterre Van de Velde; Seppe Nijs*
+
 24/01/2024
 
 ## Samenvatting
