@@ -7,10 +7,12 @@
 24/01/2024
 
 ## Samenvatting
-<p>Om stadsparken en openbare ruimten aantrekkelijker te maken voor kinderen zonder een overmatige focus op mobiele telefoons, hebben we een diepgaand onderzoek uitgevoerd door kinderen, ouders en experts binnen de doelgroep te interviewen. Met behulp van benchmarks en deze interviews hebben we een gestructureerde ideeëngeneratie bereikt. 
+Om stadsparken en openbare ruimten aantrekkelijker te maken voor kinderen zonder een overmatige focus op mobiele telefoons, hebben we een diepgaand onderzoek uitgevoerd door kinderen, ouders en experts binnen de doelgroep te interviewen. Met behulp van benchmarks en deze interviews hebben we een gestructureerde ideeëngeneratie bereikt. 
+
 Onze oplossing is een interactieve speelkast in de vorm van een vriendelijke robot. Deze robot motiveert kinderen om de natuur in te gaan voor opdrachten en punten te verdienen, of stelt spelletjes voor die rekening houden met de omgeving. Dit bevordert buitenspelen en het verbeteren van scores.
+
 De natuurrobot creëert niet alleen een boeiende bezigheid voor kinderen in stadsparken, maar verrijkt ook de parkervaring voor ouders. Kinderen kunnen zich concentreren op buitenspelen, terwijl ouders zich ontspannen op een bank. Het gebruik van de robot elimineert de noodzaak van een mobiele telefoon, waardoor mogelijke afleiding wordt geminimaliseerd. Deze innovatieve benadering zorgt voor een gezonde balans tussen technologie en buitenactiviteiten, waardoor stadsparken een stimulerende omgeving worden voor kinderen om te leren, te spelen en van de natuur te genieten.
-</p>
+
 
 
 ## Introductie
