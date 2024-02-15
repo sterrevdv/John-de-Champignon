@@ -162,3 +162,32 @@ Ulmer, D. (2000, mei 3). Geocashing.
 
 
 ## Bijlagen
+
+Problem interview:
+[Protocol](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764568975555273&cot=14)
+[Conclusie](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764569021971777&cot=14)
+
+Spontaan interview:
+[Info](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764568974682759&cot=14)
+
+Test met groot prototype:
+[Protocol](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764576681095195&cot=14)
+[Video](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764579194533968&cot=14)
+[Conclusie](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764579194943223&cot=14)
+
+Interview Gent:
+[Protocol]
+[Powerpoint]
+[Conclusie]
+
+Intervieuw met klein prototype:
+[Protocol](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764574440245591&cot=14)
+[Conclusie]
+
+Extra bijlagen:
+[Template figma discovery](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764568974345920&cot=14)
+[Template figma definition](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764576649973603&cot=14)
+[Benchmarks](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764569017083817&cot=14)
+[Pitch](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764579193120922&cot=14)
+
+
