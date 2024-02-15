@@ -27,7 +27,7 @@ Enkele “boundary conditions” die een rol spelen in het verhaal worden hier b
 Kort gezegd, de robot moet een interessant en leuk hulpmiddel zijn om kinderen buiten te laten spelen zonder zelf heel de tijd in de belangstelling te staan. 
 
 
-## Methdologie
+## Methodologie
 Dit project werd geleid door “user-centered design”. Dit betekent dat het ontwerpproces geleid werd door de gebruikers aan de hand van gebruikersinterviews en -testen. Momenteel limiteren we ons nog in de “concept development”.  Alles  systeem- en afwerking gericht zal in het tweede semester besproken worden.
 Op figuur 2 is er een tijdlijn te zien waar de ondernomen stappen chronologisch gerangschikt zijn. Deze stappen zijn gegroepeerd onder drie fasen: de onderzoeksfase, de realisatiefase en de testfase.
 
@@ -39,7 +39,7 @@ In de realisatiefase vond er een spontaan interview plaats met een focusgroep (n
 
 ## Discovery
 
-### Doestellingen
+### Doelstellingen
 De onderzoeksfase diende om:
 •	Een beter beeld te creëren over de noden van zowel de doelgroep als de indirecte gebruikers, de ouders en zo het probleem verder te analyseren. 
 
@@ -58,7 +58,7 @@ Definieer de belangrijkste designbeslissingen
 
 ## Definition
 Max. 1000 woorden
-### Doestellingen
+### Doelstellingen
 Wat wilde je bereiken?
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
