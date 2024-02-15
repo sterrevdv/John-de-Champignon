@@ -119,24 +119,44 @@ De tweede test kwam voort uit de gesprekken die in Gent hebben plaatsgevonden. D
 Het doel van de tweede test lag voornamelijk in het achterhalen van de meningen van omstanders, mensen die geen gebruik maken van de robot maar deze wel zien en opmerken in de omgeving. We hebben onderzocht wanneer zij de robot als storend zouden ervaren, welke elementen ze wel of juist niet aanwezig willen zien en hoe belangrijk het voor hen is dat de robot opgaat in de omgeving. Deze aspecten zijn cruciaal, aangezien het uiteindelijke doel is om de natuur een aangename plek te maken voor iedereen. De geïnterviewden vertegenwoordigen diverse figuren in de samenleving, waaronder een leerkracht, natuurliefhebbers en jongvolwassenen.
 ### Resultaten
 De eerste gebruikerstest werd binnen gedaan omdat het samenbrengen van veel kinderen op een specifieke locatie niet makkelijk was binnen deze tijdsperiode, maar het concept is hetzelfde. Uit de test met het grote prototype (figuur 10) bleek dat de kinderen het eerst een raar concept vonden, maar ze reageerden wel positief. De gebruiker was geïnteresseerd en bereid om een kijkje te nemen moest de natuurrobot effectief op de rand van het park verschijnen. Kinderen zijn nog steeds nieuwsgierig naar nieuwe, onbekende dingen. Ook vonden de gebruikers het handig dat er werd gesproken en dat er minimaal gebruik van touchscreen aan te pas komt, het was duidelijk wat ze moesten doen. Het idee dat er competitie bestaat, versterkt de drang om te spelen en punten te verzamelen. 
+
+(quote) 
+
+Uit de tweede test met het kleinere gedetailleerde prototype bleek dat meer als 75% het belangrijk vindt dat de robot niet te opvallend/storend is in de natuur. Hiervoor werd gesuggereerd om de kleuren van de omgeving te gebruiken en het een vriendelijkere vorm te geven. Ook werd er vermeld dat ze deze robot niet willen zien in het midden van een bos, maar eerder op de rand of in een park bij bijvoorbeeld bankjes, een vuilbak … 
+
+(quote)
+
+(qoute)
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Er zijn verschillende belangrijke conclusies getrokken uit deze voorgaand beschreven testen. In de eerste plaats is het van groot belang dat de robot boeiend en vernieuwend genoeg is om de aandacht en nieuwsgierigheid van de gebruikers (kinderen) te wekken. 
+
+Echter, een evenzeer belangrijke bevinding is dat de robot niet te opvallend mag zijn in de omgeving zodat het geen storende factor vormt voor anderen. Er dient een balans te worden gevonden tussen aantrekkelijkheid voor kinderen en het niet verstoren van de omgeving, wat mogelijk is door bewuste keuzes in kleurgebruik en vormgeving. 
+
+Bovendien wordt benadrukt dat het gebruik van touchscreen beperkt moet worden, omdat dit anders de aandacht te veel afleidt van de daadwerkelijke spellen die worden aangeboden. Op figuur 11 is een “hero shot” te zien van het project als “proof of concept”.
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+nog bekijken 
 
 ## Kritische reflectie
-Max. 500 woorden
+De kritische reflectie op het ontwerp van de natuurrobot omvat een diepgaande evaluatie van de uitgevoerde tests en ontvangen feedback. Het doel is om de sterke punten en tekortkomingen van het ontwerp te identificeren en mogelijke verbeteringen aan te geven.
+
+Een cruciaal aspect van de feedback is de noodzaak om de natuurlijke omgeving niet te verstoren. De robot moet zich naadloos in de natuurlijke setting integreren, zonder af te leiden van de schoonheid en sereniteit ervan. Het blijkt dat het initiële ontwerp, dat te hoekig en te 'robotachtig' was, niet overeenkwam met de gewenste esthetiek voor een apparaat dat in de natuur wordt geplaatst. Dit roept vragen op over de vormgeving en de keuze van materialen om een meer organisch en harmonieus uiterlijk te bereiken.
+Een belangrijk inzicht uit de tests is dat de robot aantrekkelijk moet zijn voor kinderen zonder te overheersen. Het gebruik van een miniem touchscreen wordt benadrukt als een geschikte keuze, omdat een te prominent scherm de aandacht van de kinderen zou kunnen afleiden van de spelletjes die de robot voorstelt. Dit benadrukt het evenwicht tussen interactieve functies en het behoud van de focus op buitenactiviteiten.
+
+Een ander punt van zorg is het geluidsniveau van de robot. De feedback suggereert dat de robot niet te luid mag zijn om de rust van de natuur niet te verstoren. Dit roept vragen op over de geluidsproductie van de robot, geluid mag niet te opdringerig zijn, maar eerder subtiel. Hetzelfde geldt voor de verlichting; deze moet niet te opvallend zijn en afgestemd zijn op de omgeving.
+Wat betreft de kleurkeuze wordt benadrukt dat de robot niet mag opvallen in het natuurlijke landschap. Het vermijden van felle en opvallende kleuren wordt aangeraden om de natuurlijke harmonie te behouden. Het ontwerp moet eerder aard-tinten of natuurlijke kleuren gebruiken om een deel uit te maken van de omgeving.
+
+De testresultaten en feedback wijzen op de noodzaak van een heroverweging van het ontwerp, met bijzondere aandacht voor de esthetiek, geluidsproductie, lichtsterkte en kleurkeuze. 
+Tenslotte zal in het tweede semester (figuur 12) verder worden gewerkt aan het prototype, de interface en de software/ systeem. Verdere gebruikerstesten staan ook op de planning.
+
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+
+Columbia University, University of Maryland, & Smithsonian Institution. (sd). Leafsnap.
+Niantic. (2016, Juli 6). Pokémon GO. Opgehaald van Pokémon GO.
+Ulmer, D. (2000, mei 3). Geocashing.
+
+
 
 ## Bijlagen
