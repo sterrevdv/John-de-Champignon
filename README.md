@@ -154,7 +154,9 @@ Tenslotte zal in het tweede semester (figuur 12) verder worden gewerkt aan het p
 ## Bronnen
 
 Columbia University, University of Maryland, & Smithsonian Institution. (sd). Leafsnap.
+
 Niantic. (2016, Juli 6). Pokémon GO. Opgehaald van Pokémon GO.
+
 Ulmer, D. (2000, mei 3). Geocashing.
 
 
