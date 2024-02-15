@@ -41,6 +41,7 @@ In de realisatiefase vond er een spontaan interview plaats met een focusgroep (n
 
 ### Doelstellingen
 De onderzoeksfase diende om:
+
 •	Een beter beeld te creëren over de noden van zowel de doelgroep als de indirecte gebruikers, de ouders en zo het probleem verder te analyseren. 
 
 •	Uitzoeken welke activiteiten de doelgroep heeft, zowel op een scherm als buiten.
