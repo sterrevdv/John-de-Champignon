@@ -38,9 +38,14 @@ De eerste “problem interviews” werden uitgevoerd met 2 kinderen uit de doelg
 In de realisatiefase vond er een spontaan interview plaats met een focusgroep (n=5) waarbij er zonder formaliteiten kon gesproken worden over het onderwerp. Dit gaf meer plaats voor eerlijkheid en kritiek over het onderwerp en het bedachte concept. In de testfase van het project vonden er nog drie interviews plaats waarvan de eerste meer een gebruikerstest was met één van de gemaakte prototypes. Een van de ontwerpers nam plaat in het prototype en speelde als de computer van het product, een soort rollenspel. Verschillende kinderen konden op die manier interageren met het product alsof het ‘echt’ was. Het tweede interview in de testfase vond plaats in Gent met enkele studenten die realistische inzichten gaven over het concept. In het laatste interview werd er rekening gehouden met de nieuwe info van het voorgaande interview. Hierbij werd een kleiner prototype gebruikt en werden de vragen gericht naar de omgeving van de doelgroep.
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+De onderzoeksfase diende om:
+•	Een beter beeld te creëren over de noden van zowel de doelgroep als de indirecte gebruikers, de ouders en zo het probleem verder te analyseren. 
+•	Uitzoeken welke activiteiten de doelgroep heeft, zowel op een scherm als buiten.
+•	Inzicht verwerven over bestaande producten en diensten die het gestelde probleem al (deels) oplossen of er alleszins iets mee te maken hebben.
+•	Voorgaande info toepassen op het project om zo een uniek concept te realiseren. 
+
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
 ### Resultaten
