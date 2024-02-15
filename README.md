@@ -203,5 +203,7 @@ Extra bijlagen:
 
 •	[Pitch](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764579193120922&cot=14)
 
+• [Schetsen, renders en storyboard](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764576594359020&cot=14)
+
 
 
