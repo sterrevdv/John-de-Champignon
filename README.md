@@ -135,6 +135,24 @@ Echter, een evenzeer belangrijke bevinding is dat het product niet te opvallend 
 
 Bovendien wordt benadrukt dat het gebruik van touchscreen beperkt moet worden, omdat dit anders de aandacht te veel afleidt van de daadwerkelijke spellen die worden aangeboden. Op figuur 11 is een “hero shot” te zien van het project als “proof of concept”. 
 
+Hieruit kan er een list of requirements gemaakt worden:
+
+•	er wordt geen gebruik gemaakt van 'extra' fysieke objecten
+
+•	de kinderen moeten aangemoedigd worden
+
+•	het product moet bestand zijn tegen vandalisme
+
+•	gebruik gsm = minimaal
+
+•	het product blijft op vaste locatie staan
+
+•	de spelen die het product voorstelt moeten interessanter zijn dan het interactieve scherm, dus het scherm mag geen afleiding vormen
+
+•	het ontwerp moet passen in de omgeving en aantrekkelijk zijn voor doelgroep
+
+•	het product moet makkelijk te voorzien zijn van elektriciteit
+
 Door deze conclusies stappen we af van het oorspronkelijke idee 'robot' en wordt er overgeschakeld naar een bredere invulling die in semester 2 onderzocht zal worden. 
 
 ## Bill of materials
