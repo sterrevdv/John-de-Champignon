@@ -117,7 +117,8 @@ Om een visueel beeld te geven van het concept zijn er op volgende figuur schetse
 
 
 ## Definition
-‘The rootproblem’ is dat kinderen te veel passief of schermpjes spelen en daardoor te weinig buiten komen. Technologie kan dus een hulpmiddel zijn om buitenspelen aantrekkelijker en leuker te maken. Het probleem en ons doel kan verduidelijkt worden in een ‘How can we’ formulering, namelijk ‘Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen aan de hand van technologie?’. 
+‘The rootproblem’ is dat kinderen te veel passief of schermpjes spelen en daardoor te weinig buiten komen. Technologie kan dus een hulpmiddel zijn om buitenspelen aantrekkelijker en leuker te maken. Het probleem en ons doel kan verduidelijkt worden in een ‘How can we’ formulering, namelijk:
+**‘Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen aan de hand van technologie?’.** 
 ### Doelstellingen
 Bij een eerste gebruikerstest wordt onderzocht hoe de gebruiker reageert op het concept. Bij een tweede test/interview wordt nagegaan hoe mensen van de omgeving (bijvoorbeeld natuurliefhebbers, stadsbewoners, wandelaars…) op het idee reageren dat dit toestel zich op de rand van de natuur (bijvoorbeeld een park, rand van een bos) zal bevinden. Aan de hand van de reactie van de gebruiker wordt het prototype/idee aangepast.
 ### Materiaal & methoden
