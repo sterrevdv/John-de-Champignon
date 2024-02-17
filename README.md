@@ -137,6 +137,7 @@ Het doel van de tweede test lag voornamelijk in het achterhalen van de meningen 
 <img src= "images/groot prototype.jpg" alt= "foto" width="30%">
 <img src= "images/klein prototype.jpg" alt= "foto" width="30%">
 </p>
+
 ### Resultaten
 De eerste gebruikerstest werd binnen gedaan omdat het samenbrengen van veel kinderen op een specifieke locatie niet makkelijk was binnen deze tijdsperiode, maar het concept is hetzelfde. Uit de test met het grote prototype bleek dat de kinderen het eerst een raar concept vonden, maar ze reageerden wel positief. De gebruiker was geïnteresseerd en bereid om een kijkje te nemen moest de natuurtotem effectief op de rand van het park verschijnen. Kinderen zijn nog steeds nieuwsgierig naar nieuwe, onbekende dingen. Ook vonden de gebruikers het handig dat er werd gesproken en dat er minimaal gebruik van touchscreen aan te pas komt, het was duidelijk wat ze moesten doen. Het idee dat er competitie bestaat, versterkt de drang om te spelen en punten te verzamelen. 
 
