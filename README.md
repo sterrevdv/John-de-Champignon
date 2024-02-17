@@ -33,7 +33,7 @@ Kort gezegd, de natuurtotem moet een interessant en leuk hulpmiddel zijn om kind
 Dit project werd geleid door “user-centered design”. Dit betekent dat het ontwerpproces geleid werd door de gebruikers aan de hand van gebruikersinterviews en -testen. Momenteel limiteren we ons nog in de “concept development”.  Alles  systeem- en afwerking gericht zal in het tweede semester besproken worden.
 Hieronder is er een tijdlijn te zien waar de ondernomen stappen chronologisch gerangschikt zijn. Deze stappen zijn gegroepeerd onder drie fasen: de onderzoeksfase, de realisatiefase en de testfase.
 
-<img src= "images/tijdlijn semester 1" alt= "foto">
+<img src= "images/tijdlijn semester 1.jpg" alt= "foto">
 
 Bij de conceptselectie is “Nature Tech and Play” gekozen. Er is hier het meest vrijheid in de conceptualisatie, maar de doelgroep ligt hierbij al redelijk vast: kinderen die te veel op hun schermen zitten en meer buiten moeten komen. Het leeftijdsinterval bij het project ligt tussen 6 en 13 jaar. Zoals eerder vermeld wordt het ontwerpproces geleid door de gebruikers/doelgroep, maar ook enkele indirecte gebruikers. Om nuttige informatie uit deze personen in kwestie te vergaren, werden verschillende soorten interviews op verschillende tijdstippen gepland. 
 
@@ -57,11 +57,11 @@ De onderzoeksfase diende om:
 ### Methodiek en resultaten 
 Door enkele interviews met twee kinderen binnen de doelgroep en hun ouders werden de noden en problemen rond het onderwerp van beide partijen verduidelijkt. Zo wouden de kinderen onder andere een manier om met meerdere mensen het product te gebruiken, eventueel een groepsactiviteit. Bij de ouders stond veiligheid op nummer één. Figuur 3 stelt een verclustering voor van de schermgebonden activiteiten, buitenspeelactiviteiten en de vereisten van de kinderen om buiten te kunnen spelen.
 
-<img src= "images/clusters" alt= "foto">
+<img src= "images/clusters.jpg" alt= "foto">
 
 De interviews gaven ook genoeg inzicht om een persona  (figuur 4) te creëren wat cruciaal is in het ontwerpproces omdat het: helpt bij het begrijpen van echte behoeften en doelen van de doelgroep, begrip creëert voor gebruikersperspectieven, dient als leidraad voor uniforme besluitvorming, als effectief middel fungeert voor het delen van gebruikersinformatie en personalisatie mogelijk maakt.
 
-<img src= "images/persona" alt= "foto">
+<img src= "images/persona.jpg" alt= "foto">
 
 Benchmarking (online) was ook één van de onderzoeksmethoden die werd toegepast. Er werd gezocht naar diensten of producten die kinderen entertainen in de buitenlucht en/ of bezighouden met technologie waarbij ze eventueel ook iets bijleren bij het gebruik. Enkele voorbeelden zijn: Pokémon go, een mobile game waarbij je over heel de wereld pokémon kan vangen en je moet buiten komen om het spel te spelen, geocashing, waarbij je schatten moet gaan zoeken in de natuur met behulp van een app en de interactieve tablets in musea waarbij je al spelend bijleert, enzovoort. Deze en nog vele andere werden onderzocht waarna de problemen en positieve aspecten van elk werden aangetoond en uiteindelijk een conclusie getrokken werd bij elk van de benchmarks. Hierna werd een algemene conclusie van eisen getrokken waar het product mimimaal aan moet voldoen:
 
@@ -85,9 +85,9 @@ Benchmarking (online) was ook één van de onderzoeksmethoden die werd toegepast
 
 Eens dat de doelgroep, problemen, eisen en bestaande concepten aangekaart waren, kon er een nieuw product ontworpen worden. Dit werd gedaan door middel van een morfologische kaart en enkele “knowledge templates” waaronder een “problem-solution matrix” zichtbaar hieronder. 
 
-<img src= "/images/mofologische kaart" alt= "foto">
+<img src= "/images/mofologische kaart.jpg" alt= "foto">
 
-<img src= "/images/problem solution matrix" alt= "foto">
+<img src= "/images/problem solution matrix.jpg" alt= "foto">
 
 ### Motivatie
 Benchmarking werd gekozen omdat het niet alleen vertrouwt is, maar ook omdat het verschillende inzichten geeft op concurrerende producten en hun positieve en negatieve aspecten. Door deze dan te gaan filteren kan er in theorie het perfecte uitgefilterd worden. In praktijk is dit moeilijker. User-en expert interviews gaven visies op het concept. Zo konden eerder gestelde vragen beantwoord worden en dieper ingaan worden op de noden van de doelgroep en indirecte aanhangers (ouders).
@@ -112,7 +112,7 @@ Uit de vele mogelijkheden werd één enkele gefilterd: een speelkast met volgend
 
 Om een visueel beeld te geven van het concept zijn er op figuur 7 schetsen en renders zichtbaar.
 
-<img src= "images/schetsen en renders" alt= "foto">
+<img src= "images/schetsen en renders.jpg" alt= "foto">
 
 
 ## Definition
@@ -132,9 +132,9 @@ De tweede test kwam voort uit de gesprekken die in Gent hebben plaatsgevonden. D
 
 Het doel van de tweede test lag voornamelijk in het achterhalen van de meningen van omstanders, mensen die geen gebruik maken van het product maar deze wel zien en opmerken in de omgeving. We hebben onderzocht wanneer zij de natuurtotem als storend zouden ervaren, welke elementen ze wel of juist niet aanwezig willen zien en hoe belangrijk het voor hen is dat het product opgaat in de omgeving. Deze aspecten zijn cruciaal, aangezien het uiteindelijke doel is om de natuur een aangename plek te maken voor iedereen. De geïnterviewden vertegenwoordigen diverse figuren in de samenleving, waaronder een leerkracht, natuurliefhebbers en jongvolwassenen.
 
-<img src= "images/groot prototype" alt= "foto">
+<img src= "images/groot prototype.jpg" alt= "foto">
 
-<img src= "images/klein prototype" alt= "foto">
+<img src= "images/klein prototype.jpg" alt= "foto">
 
 ### Resultaten
 De eerste gebruikerstest werd binnen gedaan omdat het samenbrengen van veel kinderen op een specifieke locatie niet makkelijk was binnen deze tijdsperiode, maar het concept is hetzelfde. Uit de test met het grote prototype (figuur 10) bleek dat de kinderen het eerst een raar concept vonden, maar ze reageerden wel positief. De gebruiker was geïnteresseerd en bereid om een kijkje te nemen moest de natuurtotem effectief op de rand van het park verschijnen. Kinderen zijn nog steeds nieuwsgierig naar nieuwe, onbekende dingen. Ook vonden de gebruikers het handig dat er werd gesproken en dat er minimaal gebruik van touchscreen aan te pas komt, het was duidelijk wat ze moesten doen. Het idee dat er competitie bestaat, versterkt de drang om te spelen en punten te verzamelen. 
@@ -147,7 +147,7 @@ Uit de tweede test met het kleinere prototype bleek dat meer als 75% het belangr
 
 (qoute)
 
-<img src= "images/gebruikerstest fotos" alt= "foto">
+<img src= "images/gebruikerstest fotos.jpg" alt= "foto">
 
 ### Conclusies & implicaties
 Er zijn verschillende belangrijke conclusies getrokken uit deze voorgaand beschreven testen. In de eerste plaats is het van groot belang dat de natuurtotem boeiend en vernieuwend genoeg is om de aandacht en nieuwsgierigheid van de gebruikers (kinderen) te wekken. 
@@ -156,7 +156,7 @@ Echter, een evenzeer belangrijke bevinding is dat het product niet te opvallend 
 
 Bovendien wordt benadrukt dat het gebruik van touchscreen beperkt moet worden, omdat dit anders de aandacht te veel afleidt van de daadwerkelijke spellen die worden aangeboden. Op figuur 11 is een “hero shot” te zien van het project als “proof of concept”. 
 
-<img src= "images/hero shot" alt= "foto">
+<img src= "images/hero shot.jpg" alt= "foto">
 
 Hieruit kan er een list of requirements gemaakt worden:
 
@@ -196,7 +196,7 @@ Wat betreft de kleurkeuze wordt benadrukt dat het prodcut niet mag opvallen in h
 De testresultaten en feedback wijzen op de noodzaak van een heroverweging van het ontwerp, met bijzondere aandacht voor de esthetiek, geluidsproductie, lichtsterkte en kleurkeuze. 
 Tenslotte zal in het tweede semester (figuur 12) verder worden gewerkt aan het prototype, de interface en de software/ systeem. Verdere gebruikerstesten staan ook op de planning.
 
-<img src= "images/tijdlijn semester 2" alt= "foto">
+<img src= "images/tijdlijn semester 2.jpg" alt= "foto">
 
 
 ## Bronnen
