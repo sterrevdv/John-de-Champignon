@@ -18,26 +18,26 @@ De natuurtotem creëert niet alleen een boeiende bezigheid voor kinderen in stad
 
 
 ## Introductie
-Er is gekozen voor het onderwerp “Nature, Tech and Play”. De probleemstelling ontstond vanuit de 'How can we’ -vraag, specifiek gericht op de uitdaging om openbare plaatsen aantrekkelijker te maken voor kinderen met behulp van technologie. Het gekozen concept is de natuurtotem op een vaste locatie, die fungeert als een helpende hand en inspiratiebron voor buitenspellen voor kinderen.
+Er is gekozen voor het onderwerp “_Nature, Tech and Play_”. De probleemstelling ontstond vanuit de '_How can we_’ -vraag, specifiek gericht op de uitdaging om openbare plaatsen aantrekkelijker te maken voor kinderen met behulp van technologie. Het gekozen concept is de natuurtotem op een vaste locatie, die fungeert als een helpende hand en inspiratiebron voor buitenspellen voor kinderen.
 
-Het overkoepelende doel van dit ontwerpproject is om kinderen aan te moedigen buiten te spelen met behulp van technologie. Dit hoofddoel is onderverdeeld in verschillende doelstellingen. Een eerste aandachtspunt is de “user-interaction”. Het moet toegankelijk zijn voor kinderen en zichzelf intuïtief wijzen op het gebruik. Technologie speelt ook een cruciale rol, het product moet bestand zijn tegen zowel weer als vandalisme. Tegenwoordig moet er ook grondig worden nagedacht over de soorten energie die worden gebruikt en waar deze vandaan komen. Bovendien moet rekening worden gehouden met de omgeving, zodat het geen storende factor wordt voor bijvoorbeeld stadsbewoners of natuurliefhebbers.
+Het overkoepelende doel van dit ontwerpproject is om kinderen aan te moedigen buiten te spelen met behulp van technologie. Dit hoofddoel is onderverdeeld in verschillende doelstellingen. Een eerste aandachtspunt is de “_user-interaction_”. Het moet toegankelijk zijn voor kinderen en zichzelf intuïtief wijzen op het gebruik. Technologie speelt ook een cruciale rol, het product moet bestand zijn tegen zowel weer als vandalisme. Tegenwoordig moet er ook grondig worden nagedacht over de soorten energie die worden gebruikt en waar deze vandaan komen. Bovendien moet rekening worden gehouden met de omgeving, zodat het geen storende factor wordt voor bijvoorbeeld stadsbewoners of natuurliefhebbers.
 
 De ontwikkeling van de natuurtotem vereist een doordachte aanpak om de veelzijdige aspecten van gebruikersbetrokkenheid, technologische duurzaamheid, energiezuinigheid en integratie in de omgeving aan te pakken. Door deze overwegingen te combineren, streeft het project ernaar een waardevolle bijdrage te leveren aan het stimuleren van buitenspelen voor kinderen met behulp van technologie.
 
-Enkele “boundary conditions” die een rol spelen in het verhaal worden hier besproken. Bij het gebruik van de natuurtotem is de gebruiker volledig onafhankelijk van andere technologie zoals een gsm. Ook zullen de spelen meteen kunnen worden gespeeld, dus er is geen nood aan extra voorwerpen of materialen. Het gebruik van het prodcut wordt beperkt tot 1 plek. De natuurtotem zal zich dus niet verplaatsen en de kinderen kunnen zich steeds naar dezelfde plaats begeven om tijd buiten te vertoeven. Bij de “user interface” moet er ook op gelet worden dat er niet overboord gegaan wordt met de interface (eventueel “touch” vermijden). 
+Enkele “_boundary conditions_” die een rol spelen in het verhaal worden hier besproken. Bij het gebruik van de natuurtotem is de gebruiker volledig onafhankelijk van andere technologie zoals een gsm. Ook zullen de spelen meteen kunnen worden gespeeld, dus er is geen nood aan extra voorwerpen of materialen. Het gebruik van het prodcut wordt beperkt tot 1 plek. De natuurtotem zal zich dus niet verplaatsen en de kinderen kunnen zich steeds naar dezelfde plaats begeven om tijd buiten te vertoeven. Bij de “user interface” moet er ook op gelet worden dat er niet overboord gegaan wordt met de interface (eventueel “_touch_” vermijden). 
 
 Kort gezegd, de natuurtotem moet een interessant en leuk hulpmiddel zijn om kinderen buiten te laten spelen zonder zelf heel de tijd in de belangstelling te staan. 
 
 
 ## Methodologie
-Dit project werd geleid door “user-centered design”. Dit betekent dat het ontwerpproces geleid werd door de gebruikers aan de hand van gebruikersinterviews en -testen. Momenteel limiteren we ons nog in de “concept development”.  Alles  systeem- en afwerking gericht zal in het tweede semester besproken worden.
+Dit project werd geleid door “_user-centered design_”. Dit betekent dat het ontwerpproces geleid werd door de gebruikers aan de hand van gebruikersinterviews en -testen. Momenteel limiteren we ons nog in de “_concept development_”.  Alles  systeem- en afwerking gericht zal in het tweede semester besproken worden.
 Hieronder is er een tijdlijn te zien waar de ondernomen stappen chronologisch gerangschikt zijn. Deze stappen zijn gegroepeerd onder drie fasen: de onderzoeksfase, de realisatiefase en de testfase.
 
 <img src= "images/tijdlijn semester 1.jpg" alt= "foto">
 
-Bij de conceptselectie is “Nature Tech and Play” gekozen. Er is hier het meest vrijheid in de conceptualisatie, maar de doelgroep ligt hierbij al redelijk vast: kinderen die te veel op hun schermen zitten en meer buiten moeten komen. Het leeftijdsinterval bij het project ligt tussen 6 en 13 jaar. Zoals eerder vermeld wordt het ontwerpproces geleid door de gebruikers/doelgroep, maar ook enkele indirecte gebruikers. Om nuttige informatie uit deze personen in kwestie te vergaren, werden verschillende soorten interviews op verschillende tijdstippen gepland. 
+Bij de conceptselectie is “_Nature Tech and Play_” gekozen. Er is hier het meest vrijheid in de conceptualisatie, maar de doelgroep ligt hierbij al redelijk vast: kinderen die te veel op hun schermen zitten en meer buiten moeten komen. Het leeftijdsinterval bij het project ligt tussen 6 en 13 jaar. Zoals eerder vermeld wordt het ontwerpproces geleid door de gebruikers/doelgroep, maar ook enkele indirecte gebruikers. Om nuttige informatie uit deze personen in kwestie te vergaren, werden verschillende soorten interviews op verschillende tijdstippen gepland. 
 
-De eerste “problem interviews” werden uitgevoerd met 2 kinderen uit de doelgroep, hun ouders en een expert op vlak van het entertainen van kinderen. Bij deze interviews werden er vragen over het probleem gesteld, zodat er een duidelijk persona kon opgesteld worden en de noden van de kinderen en ouders verduidelijkt konden worden. 
+De eerste “_problem interviews_” werden uitgevoerd met 2 kinderen uit de doelgroep, hun ouders en een expert op vlak van het entertainen van kinderen. Bij deze interviews werden er vragen over het probleem gesteld, zodat er een duidelijk persona kon opgesteld worden en de noden van de kinderen en ouders verduidelijkt konden worden. 
 
 In de realisatiefase vond er een spontaan interview plaats met een focusgroep (n=5) waarbij er zonder formaliteiten kon gesproken worden over het onderwerp. Dit gaf meer plaats voor eerlijkheid en kritiek over het onderwerp en het bedachte concept. In de testfase van het project vonden er nog drie interviews plaats waarvan de eerste meer een gebruikerstest was met één van de gemaakte prototypes. Een van de ontwerpers nam plaat in het prototype en speelde als de computer van het product, een soort rollenspel. Verschillende kinderen konden op die manier interageren met het product alsof het ‘echt’ was. Het tweede interview in de testfase vond plaats in Gent met enkele studenten die realistische inzichten gaven over het concept. In het laatste interview werd er rekening gehouden met de nieuwe info van het voorgaande interview. Hierbij werd een kleiner prototype gebruikt en werden de vragen gericht naar de omgeving van de doelgroep.
 
@@ -79,11 +79,11 @@ Benchmarking (online) was ook één van de onderzoeksmethoden die werd toegepast
 
 •	Indien het doel is om kinderen iets bij te leren moet dit verborgen zijn onder leuke activiteiten.
 
-•	De interface van het product moet simpel genoeg zijn om niet afleidend te zijn bij het spelen of leren. Een slecht voorbeeld hiervan zijn sommige tablets in musea waarbij kinderen gefascineerd zijn door het “touch” aspect en in het wilde gewoon op knopjes drukken zonder doel.
+•	De interface van het product moet simpel genoeg zijn om niet afleidend te zijn bij het spelen of leren. Een slecht voorbeeld hiervan zijn sommige tablets in musea waarbij kinderen gefascineerd zijn door het “_touch_” aspect en in het wilde gewoon op knopjes drukken zonder doel.
 
 •	Een soort beloning geven bij het gebruik van het product.
 
-Eens dat de doelgroep, problemen, eisen en bestaande concepten aangekaart waren, kon er een nieuw product ontworpen worden. Dit werd gedaan door middel van een morfologische kaart en enkele “knowledge templates” waaronder een “problem-solution matrix” zichtbaar hieronder. 
+Eens dat de doelgroep, problemen, eisen en bestaande concepten aangekaart waren, kon er een nieuw product ontworpen worden. Dit werd gedaan door middel van een morfologische kaart en enkele “_knowledge templates_” waaronder een “_problem-solution matrix_” zichtbaar hieronder. 
 
 <img src= "images/morfologische kaart.jpg" alt= "foto">
 
@@ -117,7 +117,7 @@ Om een visueel beeld te geven van het concept zijn er op volgende figuur schetse
 
 
 ## Definition
-‘The rootproblem’ is dat kinderen te veel passief of schermpjes spelen en daardoor te weinig buiten komen. Technologie kan dus een hulpmiddel zijn om buitenspelen aantrekkelijker en leuker te maken. Het probleem en ons doel kan verduidelijkt worden in een ‘How can we’ formulering, namelijk:
+‘_The rootproblem_’ is dat kinderen te veel passief of schermpjes spelen en daardoor te weinig buiten komen. Technologie kan dus een hulpmiddel zijn om buitenspelen aantrekkelijker en leuker te maken. Het probleem en ons doel kan verduidelijkt worden in een ‘_How can we_’ formulering, namelijk:
 **‘Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen aan de hand van technologie?’**. 
 ### Doelstellingen
 Bij een eerste gebruikerstest wordt onderzocht hoe de gebruiker reageert op het concept. Bij een tweede test/interview wordt nagegaan hoe mensen van de omgeving (bijvoorbeeld natuurliefhebbers, stadsbewoners, wandelaars…) op het idee reageren dat dit toestel zich op de rand van de natuur (bijvoorbeeld een park, rand van een bos) zal bevinden. Aan de hand van de reactie van de gebruiker wordt het prototype/idee aangepast.
@@ -163,7 +163,7 @@ Er zijn verschillende belangrijke conclusies getrokken uit deze voorgaand beschr
 
 Echter, een evenzeer belangrijke bevinding is dat het product niet te opvallend mag zijn in de omgeving zodat het geen storende factor vormt voor anderen. Er dient een balans te worden gevonden tussen aantrekkelijkheid voor kinderen en het niet verstoren van de omgeving, wat mogelijk is door bewuste keuzes in kleurgebruik en vormgeving. 
 
-Bovendien wordt benadrukt dat het gebruik van touchscreen beperkt moet worden, omdat dit anders de aandacht te veel afleidt van de daadwerkelijke spellen die worden aangeboden. Hieronder wordt een “hero shot” te voorgesteld van het project als “proof of concept”. 
+Bovendien wordt benadrukt dat het gebruik van touchscreen beperkt moet worden, omdat dit anders de aandacht te veel afleidt van de daadwerkelijke spellen die worden aangeboden. Hieronder wordt een “_hero shot_” te voorgesteld van het project als “_proof of concept_”. 
 
 <img src= "images/hero shot.png" alt= "foto">
 
