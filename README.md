@@ -85,9 +85,9 @@ Benchmarking (online) was ook één van de onderzoeksmethoden die werd toegepast
 
 Eens dat de doelgroep, problemen, eisen en bestaande concepten aangekaart waren, kon er een nieuw product ontworpen worden. Dit werd gedaan door middel van een morfologische kaart en enkele “knowledge templates” waaronder een “problem-solution matrix” zichtbaar hieronder. 
 
-<img src= "images/mofologische kaart" alt= "foto">
+<img src= "/images/mofologische kaart" alt= "foto">
 
-<img src= "images/problem solution matrix" alt= "foto">
+<img src= "/images/problem solution matrix" alt= "foto">
 
 ### Motivatie
 Benchmarking werd gekozen omdat het niet alleen vertrouwt is, maar ook omdat het verschillende inzichten geeft op concurrerende producten en hun positieve en negatieve aspecten. Door deze dan te gaan filteren kan er in theorie het perfecte uitgefilterd worden. In praktijk is dit moeilijker. User-en expert interviews gaven visies op het concept. Zo konden eerder gestelde vragen beantwoord worden en dieper ingaan worden op de noden van de doelgroep en indirecte aanhangers (ouders).
