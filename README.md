@@ -85,9 +85,9 @@ Benchmarking (online) was ook één van de onderzoeksmethoden die werd toegepast
 
 Eens dat de doelgroep, problemen, eisen en bestaande concepten aangekaart waren, kon er een nieuw product ontworpen worden. Dit werd gedaan door middel van een morfologische kaart en enkele “_knowledge templates_” waaronder een “_problem-solution matrix_” zichtbaar hieronder. 
 
-<img src= "images/morfologische kaart.jpg" alt= "foto" width="40%">
+<img src= "images/morfologische kaart.jpg" alt= "foto" width="80%">
 
-<img src= "/images/problem solution matrix.jpg" alt= "foto" width="40%">
+<img src= "/images/problem solution matrix.jpg" alt= "foto" width="80%">
 
 
 ### Motivatie
