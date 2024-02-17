@@ -118,7 +118,7 @@ Om een visueel beeld te geven van het concept zijn er op volgende figuur schetse
 
 ## Definition
 ‘The rootproblem’ is dat kinderen te veel passief of schermpjes spelen en daardoor te weinig buiten komen. Technologie kan dus een hulpmiddel zijn om buitenspelen aantrekkelijker en leuker te maken. Het probleem en ons doel kan verduidelijkt worden in een ‘How can we’ formulering, namelijk:
-**‘Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen aan de hand van technologie?’.** 
+**‘Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen aan de hand van technologie?’**. 
 ### Doelstellingen
 Bij een eerste gebruikerstest wordt onderzocht hoe de gebruiker reageert op het concept. Bij een tweede test/interview wordt nagegaan hoe mensen van de omgeving (bijvoorbeeld natuurliefhebbers, stadsbewoners, wandelaars…) op het idee reageren dat dit toestel zich op de rand van de natuur (bijvoorbeeld een park, rand van een bos) zal bevinden. Aan de hand van de reactie van de gebruiker wordt het prototype/idee aangepast.
 ### Materiaal & methoden
@@ -133,11 +133,10 @@ Bij het tweede, kleinere prototype (onderstaande linkse figuur) is er al een mee
 De tweede test kwam voort uit de gesprekken die in Gent hebben plaatsgevonden. Daar werd als belangrijke feedback benadrukt dat niet alleen rekening moet worden gehouden met de hoofdgebruiker, maar ook met de omgeving waar de het product zich zal bevinden. Deze inzichten zijn voortgekomen uit het gebruik van een PESTEL-diagram. Met deze informatie zijn we aan de slag gegaan en hebben we op basis van het kleinere prototype een vergelijkbaar interview uitgevoerd met verschillende personen.
 
 Het doel van de tweede test lag voornamelijk in het achterhalen van de meningen van omstanders, mensen die geen gebruik maken van het product maar deze wel zien en opmerken in de omgeving. We hebben onderzocht wanneer zij de natuurtotem als storend zouden ervaren, welke elementen ze wel of juist niet aanwezig willen zien en hoe belangrijk het voor hen is dat het product opgaat in de omgeving. Deze aspecten zijn cruciaal, aangezien het uiteindelijke doel is om de natuur een aangename plek te maken voor iedereen. De geïnterviewden vertegenwoordigen diverse figuren in de samenleving, waaronder een leerkracht, natuurliefhebbers en jongvolwassenen.
-
+<p>
 <img src= "images/groot prototype.jpg" alt= "foto" width="30%">
-
 <img src= "images/klein prototype.jpg" alt= "foto" width="30%">
-
+</p>
 ### Resultaten
 De eerste gebruikerstest werd binnen gedaan omdat het samenbrengen van veel kinderen op een specifieke locatie niet makkelijk was binnen deze tijdsperiode, maar het concept is hetzelfde. Uit de test met het grote prototype bleek dat de kinderen het eerst een raar concept vonden, maar ze reageerden wel positief. De gebruiker was geïnteresseerd en bereid om een kijkje te nemen moest de natuurtotem effectief op de rand van het park verschijnen. Kinderen zijn nog steeds nieuwsgierig naar nieuwe, onbekende dingen. Ook vonden de gebruikers het handig dat er werd gesproken en dat er minimaal gebruik van touchscreen aan te pas komt, het was duidelijk wat ze moesten doen. Het idee dat er competitie bestaat, versterkt de drang om te spelen en punten te verzamelen. 
 
