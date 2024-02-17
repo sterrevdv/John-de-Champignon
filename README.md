@@ -140,23 +140,20 @@ Het doel van de tweede test lag voornamelijk in het achterhalen van de meningen 
 ### Resultaten
 De eerste gebruikerstest werd binnen gedaan omdat het samenbrengen van veel kinderen op een specifieke locatie niet makkelijk was binnen deze tijdsperiode, maar het concept is hetzelfde. Uit de test met het grote prototype bleek dat de kinderen het eerst een raar concept vonden, maar ze reageerden wel positief. De gebruiker was geïnteresseerd en bereid om een kijkje te nemen moest de natuurtotem effectief op de rand van het park verschijnen. Kinderen zijn nog steeds nieuwsgierig naar nieuwe, onbekende dingen. Ook vonden de gebruikers het handig dat er werd gesproken en dat er minimaal gebruik van touchscreen aan te pas komt, het was duidelijk wat ze moesten doen. Het idee dat er competitie bestaat, versterkt de drang om te spelen en punten te verzamelen. 
 
-<p>
+
 > _“Mijn tablet is leuk, ik verveel mij nooit”_
-> 
-> ~kind 9 jaar </p>
+> ~kind 9 jaar 
 
 
 Uit de tweede test met het kleinere prototype bleek dat meer als 75% het belangrijk vindt dat het product niet te opvallend/storend is in de natuur. Hiervoor werd gesuggereerd om de kleuren van de omgeving te gebruiken en het een vriendelijkere vorm te geven. Ook werd er vermeld dat ze het product niet willen zien in het midden van een bos, maar eerder op de rand of in een park bij bijvoorbeeld bankjes, een vuilbak … 
 
-<p>
->_“De natuur is ons gegeven om te samen in te leven”_
->
->~natuurliefhebber </p>
 
-<p>
+>_“De natuur is ons gegeven om te samen in te leven”_
+>~natuurliefhebber 
+
+
 >_“Een extra toevoeging is leuk, zolang de omgeving niet te menselijk wordt’_
->
->~jongvolwassene </p>
+>~jongvolwassene 
 
 
 <img src= "images/gebruikerstest fotos.jpg" alt= "foto">
