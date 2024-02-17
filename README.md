@@ -55,11 +55,11 @@ De onderzoeksfase diende om:
 •	Voorgaande info toepassen op het project om zo een uniek concept te realiseren. 
 
 ### Methodiek en resultaten 
-Door enkele interviews met twee kinderen binnen de doelgroep en hun ouders werden de noden en problemen rond het onderwerp van beide partijen verduidelijkt. Zo wouden de kinderen onder andere een manier om met meerdere mensen het product te gebruiken, eventueel een groepsactiviteit. Bij de ouders stond veiligheid op nummer één. Figuur 3 stelt een verclustering voor van de schermgebonden activiteiten, buitenspeelactiviteiten en de vereisten van de kinderen om buiten te kunnen spelen.
+Door enkele interviews met twee kinderen binnen de doelgroep en hun ouders werden de noden en problemen rond het onderwerp van beide partijen verduidelijkt. Zo wouden de kinderen onder andere een manier om met meerdere mensen het product te gebruiken, eventueel een groepsactiviteit. Bij de ouders stond veiligheid op nummer één. Onderstaande afbeelding stelt een verclustering voor van de schermgebonden activiteiten, buitenspeelactiviteiten en de vereisten van de kinderen om buiten te kunnen spelen.
 
 <img src= "images/clusters.jpg" alt= "foto">
 
-De interviews gaven ook genoeg inzicht om een persona  (figuur 4) te creëren wat cruciaal is in het ontwerpproces omdat het: helpt bij het begrijpen van echte behoeften en doelen van de doelgroep, begrip creëert voor gebruikersperspectieven, dient als leidraad voor uniforme besluitvorming, als effectief middel fungeert voor het delen van gebruikersinformatie en personalisatie mogelijk maakt.
+De interviews gaven ook genoeg inzicht om een persona (onderstaande figuur) te creëren wat cruciaal is in het ontwerpproces omdat het: helpt bij het begrijpen van echte behoeften en doelen van de doelgroep, begrip creëert voor gebruikersperspectieven, dient als leidraad voor uniforme besluitvorming, als effectief middel fungeert voor het delen van gebruikersinformatie en personalisatie mogelijk maakt.
 
 <img src= "images/persona.jpg" alt= "foto">
 
@@ -111,7 +111,7 @@ Uit de vele mogelijkheden werd één enkele gefilterd: een speelkast met volgend
 
 •	Punten worden samen verdiend en het is de bedoeling dat verschillende steden tegen elkaar spelen om zo een beloning, bijvoorbeeld een upgrade aan het speeltuig, te krijgen.
 
-Om een visueel beeld te geven van het concept zijn er op figuur 7 schetsen en renders zichtbaar.
+Om een visueel beeld te geven van het concept zijn er op volgende figuur schetsen en renders zichtbaar.
 
 <img src= "images/schetsen en renders.jpg" alt= "foto">
 
@@ -123,22 +123,22 @@ Bij een eerste gebruikerstest wordt onderzocht hoe de gebruiker reageert op het 
 ### Materiaal & methoden
 Twee prototypes werden ontwikkeld vanwege de uitvoering van twee verschillende soorten tests. Eerst wordt de test met betrekking tot het levensgrote prototype besproken, gevolgd door de beschrijving van de test met het kleinere tweede prototype.
 
-Het eerste prototype (figuur 8) is ontworpen om het gebruik van de natuurtotem te illustreren. We construeerden een doos, die de grootte van het product nabootst, waar een van ons in ging zitten. De doos is hoofdzakelijk vervaardigd uit karton, met een uitgesneden opening op ooghoogte van het scherm. Om de illusie van het scherm te versterken, werd er een plastic folie over geplaatst. Voor een soepele uitvoering van de test bestaat de doos uit twee delen. Voor de uitwerking van de vorm hebben we ons beperkt tot een balk, omdat dit de meest efficiënte vorm was om het prototype te verplaatsen en af te breken. 
+Het eerste prototype (onderstaande rechtse figuur) is ontworpen om het gebruik van de natuurtotem te illustreren. We construeerden een doos, die de grootte van het product nabootst, waar een van ons in ging zitten. De doos is hoofdzakelijk vervaardigd uit karton, met een uitgesneden opening op ooghoogte van het scherm. Om de illusie van het scherm te versterken, werd er een plastic folie over geplaatst. Voor een soepele uitvoering van de test bestaat de doos uit twee delen. Voor de uitwerking van de vorm hebben we ons beperkt tot een balk, omdat dit de meest efficiënte vorm was om het prototype te verplaatsen en af te breken. 
 
 De persoon in de doos bootste de handelingen van het product na. De gebruiker kon aangeven welke activiteit hij wilde doen en ontving vervolgens instructies via een scherm (in dit geval een iPad) en auditief (de persoon in de doos sprak). De kinderen voerden de opdrachten uit en ontvingen feedback van de natuurtotem. Na afloop zaten we kort samen met de kinderen om te bespreken wat hun mening was over deze ervaring.
 
-Bij het tweede, kleinere prototype (figuur 9) is er al een meer gedetailleerde weergave van het toekomstige ontwerp. Het is snel in elkaar gezet, zodat de gebruiker gemakkelijk feedback en suggesties durft te geven, zonder gehinderd te worden door een te afgewerkt product. Het prototype is ter plaatse aanpasbaar, bijvoorbeeld door de armen op een andere manier te bevestigen, het scherm te veranderen of bedieningsknoppen op een andere plaats te positioneren. Ook dit prototype is nog in de vorm van een balk. 
+Bij het tweede, kleinere prototype (onderstaande linkse figuur) is er al een meer gedetailleerde weergave van het toekomstige ontwerp. Het is snel in elkaar gezet, zodat de gebruiker gemakkelijk feedback en suggesties durft te geven, zonder gehinderd te worden door een te afgewerkt product. Het prototype is ter plaatse aanpasbaar, bijvoorbeeld door de armen op een andere manier te bevestigen, het scherm te veranderen of bedieningsknoppen op een andere plaats te positioneren. Ook dit prototype is nog in de vorm van een balk. 
 
 De tweede test kwam voort uit de gesprekken die in Gent hebben plaatsgevonden. Daar werd als belangrijke feedback benadrukt dat niet alleen rekening moet worden gehouden met de hoofdgebruiker, maar ook met de omgeving waar de het product zich zal bevinden. Deze inzichten zijn voortgekomen uit het gebruik van een PESTEL-diagram. Met deze informatie zijn we aan de slag gegaan en hebben we op basis van het kleinere prototype een vergelijkbaar interview uitgevoerd met verschillende personen.
 
 Het doel van de tweede test lag voornamelijk in het achterhalen van de meningen van omstanders, mensen die geen gebruik maken van het product maar deze wel zien en opmerken in de omgeving. We hebben onderzocht wanneer zij de natuurtotem als storend zouden ervaren, welke elementen ze wel of juist niet aanwezig willen zien en hoe belangrijk het voor hen is dat het product opgaat in de omgeving. Deze aspecten zijn cruciaal, aangezien het uiteindelijke doel is om de natuur een aangename plek te maken voor iedereen. De geïnterviewden vertegenwoordigen diverse figuren in de samenleving, waaronder een leerkracht, natuurliefhebbers en jongvolwassenen.
 
-<img src= "images/groot prototype.jpg" alt= "foto">
+<img src= "images/groot prototype.jpg" alt= "foto" width="30%">
 
-<img src= "images/klein prototype.jpg" alt= "foto">
+<img src= "images/klein prototype.jpg" alt= "foto" width="30%">
 
 ### Resultaten
-De eerste gebruikerstest werd binnen gedaan omdat het samenbrengen van veel kinderen op een specifieke locatie niet makkelijk was binnen deze tijdsperiode, maar het concept is hetzelfde. Uit de test met het grote prototype (figuur 10) bleek dat de kinderen het eerst een raar concept vonden, maar ze reageerden wel positief. De gebruiker was geïnteresseerd en bereid om een kijkje te nemen moest de natuurtotem effectief op de rand van het park verschijnen. Kinderen zijn nog steeds nieuwsgierig naar nieuwe, onbekende dingen. Ook vonden de gebruikers het handig dat er werd gesproken en dat er minimaal gebruik van touchscreen aan te pas komt, het was duidelijk wat ze moesten doen. Het idee dat er competitie bestaat, versterkt de drang om te spelen en punten te verzamelen. 
+De eerste gebruikerstest werd binnen gedaan omdat het samenbrengen van veel kinderen op een specifieke locatie niet makkelijk was binnen deze tijdsperiode, maar het concept is hetzelfde. Uit de test met het grote prototype bleek dat de kinderen het eerst een raar concept vonden, maar ze reageerden wel positief. De gebruiker was geïnteresseerd en bereid om een kijkje te nemen moest de natuurtotem effectief op de rand van het park verschijnen. Kinderen zijn nog steeds nieuwsgierig naar nieuwe, onbekende dingen. Ook vonden de gebruikers het handig dat er werd gesproken en dat er minimaal gebruik van touchscreen aan te pas komt, het was duidelijk wat ze moesten doen. Het idee dat er competitie bestaat, versterkt de drang om te spelen en punten te verzamelen. 
 
 (quote) 
 
@@ -155,7 +155,7 @@ Er zijn verschillende belangrijke conclusies getrokken uit deze voorgaand beschr
 
 Echter, een evenzeer belangrijke bevinding is dat het product niet te opvallend mag zijn in de omgeving zodat het geen storende factor vormt voor anderen. Er dient een balans te worden gevonden tussen aantrekkelijkheid voor kinderen en het niet verstoren van de omgeving, wat mogelijk is door bewuste keuzes in kleurgebruik en vormgeving. 
 
-Bovendien wordt benadrukt dat het gebruik van touchscreen beperkt moet worden, omdat dit anders de aandacht te veel afleidt van de daadwerkelijke spellen die worden aangeboden. Op figuur 11 is een “hero shot” te zien van het project als “proof of concept”. 
+Bovendien wordt benadrukt dat het gebruik van touchscreen beperkt moet worden, omdat dit anders de aandacht te veel afleidt van de daadwerkelijke spellen die worden aangeboden. Hieronder wordt een “hero shot” te voorgesteld van het project als “proof of concept”. 
 
 <img src= "images/hero shot.png" alt= "foto">
 
@@ -195,7 +195,7 @@ Een ander punt van zorg is het geluidsniveau van het product. De feedback sugger
 Wat betreft de kleurkeuze wordt benadrukt dat het prodcut niet mag opvallen in het natuurlijke landschap. Het vermijden van felle en opvallende kleuren wordt aangeraden om de natuurlijke harmonie te behouden. Het ontwerp moet eerder aard-tinten of natuurlijke kleuren gebruiken om een deel uit te maken van de omgeving.
 
 De testresultaten en feedback wijzen op de noodzaak van een heroverweging van het ontwerp, met bijzondere aandacht voor de esthetiek, geluidsproductie, lichtsterkte en kleurkeuze. 
-Tenslotte zal in het tweede semester (figuur 12) verder worden gewerkt aan het prototype, de interface en de software/ systeem. Verdere gebruikerstesten staan ook op de planning.
+Tenslotte zal in het tweede semester verder worden gewerkt aan het prototype, de interface en de software/ systeem. Verdere gebruikerstesten staan ook op de planning. De tijdlijn wordt hieronder weergegeven.
 
 <img src= "images/tijdlijn semester 2.jpg" alt= "foto">
 
