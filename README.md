@@ -156,7 +156,9 @@ Hieruit kan er een list of requirements gemaakt worden:
 Door deze conclusies stappen we af van het oorspronkelijke idee 'robot' en wordt er overgeschakeld naar een bredere invulling die in semester 2 onderzocht zal worden. 
 
 ## Bill of materials
-nog bekijken 
+•	verf
+
+•	
 
 ## Kritische reflectie
 De kritische reflectie op het ontwerp van de natuurtotem omvat een diepgaande evaluatie van de uitgevoerde tests en ontvangen feedback. Het doel is om de sterke punten en tekortkomingen van het ontwerp te identificeren en mogelijke verbeteringen aan te geven.
