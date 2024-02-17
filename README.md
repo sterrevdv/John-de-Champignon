@@ -166,7 +166,7 @@ Echter, een evenzeer belangrijke bevinding is dat het product niet te opvallend 
 
 Bovendien wordt benadrukt dat het gebruik van touchscreen beperkt moet worden, omdat dit anders de aandacht te veel afleidt van de daadwerkelijke spellen die worden aangeboden. Hieronder wordt een “_hero shot_” te voorgesteld van het project als “_proof of concept_”. 
 
-<img src= "images/hero shot.png" alt= "foto">
+<img src= "images/hero shot.png" alt= "foto" width="30%">
 
 Hieruit kan er een list of requirements gemaakt worden:
 
