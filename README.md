@@ -13,7 +13,7 @@ Onze oplossing is een interactieve speelkast in een nog onbekende, maar aantrekk
 
 De natuurtotem creëert niet alleen een boeiende bezigheid voor kinderen in stadsparken, maar verrijkt ook de parkervaring voor ouders. Kinderen kunnen zich concentreren op buitenspelen, terwijl ouders zich ontspannen op een bank. Het gebruik hiervan elimineert de noodzaak van een mobiele telefoon, waardoor mogelijke afleiding wordt geminimaliseerd. Deze innovatieve benadering zorgt voor een gezonde balans tussen technologie en buitenactiviteiten, waardoor stadsparken een stimulerende omgeving worden voor kinderen om te leren, te spelen en van de natuur te genieten.
 
-<img src="foto map github/render robot 1" alt="Afbeelding">
+<img src="data:foto map github/render robot 1" alt="Afbeelding">
 
 
 
