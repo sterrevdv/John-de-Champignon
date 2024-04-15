@@ -1,4 +1,4 @@
-# Natuurtotem
+# John de Champignon
 
 *De natuurtotem is een toestel dat helpt openbare plaatsen aantrekkelijker te maken voor kinderen om buiten te spelen.*
 
