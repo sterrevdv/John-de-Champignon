@@ -212,11 +212,13 @@ Tenslotte zal in het tweede semester verder worden gewerkt aan het prototype, de
 
 ## Semester 2 
 ### Samenvatting visie 
+Het uiteindelijke product is gemaakt in de vorm van een grote paddenstoel met een scherm en een kleine paddenstoel die dienst doet als draai-en drukknop. De doelgroep zijn hoofdzakelijk kinderen tussen 9 en 12 jaar oud. Het product zal te vinden zijn in parken, op pleintjes, bij speeltuinen... Het doel van dit product is kinderen (terug) de magie van de natuur laten ontdekken. Het product geeft hen inspiratie voor spelen, begeleidt hun in zoekopdrachten en als ze het even rustiger aan willen doen kunnen ze genieten van een luisterverhaal. John de champignon heeft als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers. 
 ### Methodologie 
 (foto miro ontwerpmethodologie inzetten) 
+De research naar de doelgroep, hun painpoints, goals... werd vooral uitgevoerd in semester 1. In semester 2 wordt er meer gefocused op design & prototype. Eerst wordt er een low-fidelity prototype gemaakt (hoepel die draaiknop voorstelt + bordje dat het scherm voorstelt). Hiermee wordt de antropometrietest afgenomen. In het park wordt er gewerkt aan een 2e prototype. Het prototype wordt geupgraded naar een paddenstoel met vorm en kleur en een simplistisch, maar werkend scherm. Hiermee wordt het expert interview afgenomen. Later wordt het niveau naar een eerder high-fidelity getrokken. Het programma in protopie wordt verfijnd en de feedback van vorige testen wordt geimplementeerd. Gebruikerstest 2 wordt met dit prototype afgenomen. Hieruit worden keuzes in vraag gesteld en/ of bevestigd en wordt er een laatste test uitgevoerd met de gebruiker (gebruikerstest 3) die helpt met de laatste keuzes maken en onderbouwen. 
 ## Develop (sem2)
-### Develop 1 
-antropometrie
+### Develop 1 antropometrie
+####
 ### Develop 2 
 #### Spontane test in het park 
 #### Expert interviews
