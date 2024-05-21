@@ -8,7 +8,7 @@
 ## Overzicht 
 Dit verslag bestaat uit 2 grote delen, namelijk semester 1 en semester 2. Bij elk deel worden de methodologie en verschillende testen alsook conclusies en iteraties besproken. Op het einde van semester 1 volgt een kritische reflectie. Op het einde van semester 2 volgt er een algemene kritische reflectie over het hele traject. 
 ## Semester 1
-### Samenvatting visie semester 1
+### Samenvatting visie 
 Om stadsparken en openbare ruimten aantrekkelijker te maken voor kinderen zonder een overmatige focus op mobiele telefoons, hebben we een diepgaand onderzoek uitgevoerd door kinderen, ouders en experts binnen de doelgroep te interviewen. Met behulp van benchmarks en deze interviews hebben we een gestructureerde ideeëngeneratie bereikt. 
 
 Onze oplossing is een interactieve speelkast in een nog onbekende, maar aantrekkelijke en mooie vorm. Dit product motiveert kinderen om de natuur in te gaan voor opdrachten en punten te verdienen, of stelt spelletjes voor die rekening houden met de omgeving. Dit bevordert buitenspelen en het verbeteren van scores.
@@ -19,7 +19,7 @@ De natuurtotem creëert niet alleen een boeiende bezigheid voor kinderen in stad
 
 
 
-### Introductie semester 1
+### Introductie 
 Er is gekozen voor het onderwerp “_Nature, Tech and Play_”. De probleemstelling ontstond vanuit de '_How can we_’ -vraag, specifiek gericht op de uitdaging om openbare plaatsen aantrekkelijker te maken voor kinderen met behulp van technologie. Het gekozen concept is de natuurtotem op een vaste locatie, die fungeert als een helpende hand en inspiratiebron voor buitenspellen voor kinderen.
 
 Het overkoepelende doel van dit ontwerpproject is om kinderen aan te moedigen buiten te spelen met behulp van technologie. Dit hoofddoel is onderverdeeld in verschillende doelstellingen. Een eerste aandachtspunt is de “_user-interaction_”. Het moet toegankelijk zijn voor kinderen en zichzelf intuïtief wijzen op het gebruik. Technologie speelt ook een cruciale rol, het product moet bestand zijn tegen zowel weer als vandalisme. Tegenwoordig moet er ook grondig worden nagedacht over de soorten energie die worden gebruikt en waar deze vandaan komen. Bovendien moet rekening worden gehouden met de omgeving, zodat het geen storende factor wordt voor bijvoorbeeld stadsbewoners of natuurliefhebbers.
@@ -31,7 +31,7 @@ Enkele “_boundary conditions_” die een rol spelen in het verhaal worden hier
 Kort gezegd, de natuurtotem moet een interessant en leuk hulpmiddel zijn om kinderen buiten te laten spelen zonder zelf heel de tijd in de belangstelling te staan. 
 
 
-### Methodologie semester 1
+### Methodologie
 Dit project werd geleid door “_user-centered design_”. Dit betekent dat het ontwerpproces geleid werd door de gebruikers aan de hand van gebruikersinterviews en -testen. Momenteel limiteren we ons nog in de “_concept development_”.  Alles  systeem- en afwerking gericht zal in het tweede semester besproken worden.
 Hieronder is er een tijdlijn te zien waar de ondernomen stappen chronologisch gerangschikt zijn. Deze stappen zijn gegroepeerd onder drie fasen: de onderzoeksfase, de realisatiefase en de testfase.
 
@@ -43,7 +43,7 @@ De eerste “_problem interviews_” werden uitgevoerd met 2 kinderen uit de doe
 
 In de realisatiefase vond er een spontaan interview plaats met een focusgroep (n=5) waarbij er zonder formaliteiten kon gesproken worden over het onderwerp. Dit gaf meer plaats voor eerlijkheid en kritiek over het onderwerp en het bedachte concept. In de testfase van het project vonden er nog drie interviews plaats waarvan de eerste meer een gebruikerstest was met één van de gemaakte prototypes. Een van de ontwerpers nam plaat in het prototype en speelde als de computer van het product, een soort rollenspel. Verschillende kinderen konden op die manier interageren met het product alsof het ‘echt’ was. Het tweede interview in de testfase vond plaats in Gent met enkele studenten die realistische inzichten gaven over het concept. In het laatste interview werd er rekening gehouden met de nieuwe info van het voorgaande interview. Hierbij werd een kleiner prototype gebruikt en werden de vragen gericht naar de omgeving van de doelgroep.
 
-## Discovery
+## Discovery (sem 1)
 
 ### Doelstellingen
 De onderzoeksfase diende om:
@@ -118,7 +118,7 @@ Om een visueel beeld te geven van het concept zijn er op volgende figuur schetse
 <img src= "images/schetsen en renders.jpg" alt= "foto">
 
 
-## Definition
+## Definition (sem1)
 ‘_The rootproblem_’ is dat kinderen te veel passief of schermpjes spelen en daardoor te weinig buiten komen. Technologie kan dus een hulpmiddel zijn om buitenspelen aantrekkelijker en leuker te maken. Het probleem en ons doel kan verduidelijkt worden in een ‘_How can we_’ formulering, namelijk:
 **‘Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen aan de hand van technologie?’**. 
 ### Doelstellingen
@@ -196,7 +196,7 @@ Normaliter gingen de materialen toegepast zijn op het ontwerp van de robot, maar
 Bij deze is het moeilijk om hier een definitieve uitspraak over te doen. Een volledige bill of materials zal in het verloop van het tweede semester worden aangemaakt.
 
 
-## Kritische reflectie
+## Kritische reflectie semester 1
 De kritische reflectie op het ontwerp van de natuurtotem omvat een diepgaande evaluatie van de uitgevoerde tests en ontvangen feedback. Het doel is om de sterke punten en tekortkomingen van het ontwerp te identificeren en mogelijke verbeteringen aan te geven.
 
 Een cruciaal aspect van de feedback is de noodzaak om de natuurlijke omgeving niet te verstoren. Het product moet zich naadloos in de natuurlijke setting integreren, zonder af te leiden van de schoonheid en sereniteit ervan. Het blijkt dat het initiële ontwerp, dat te hoekig en te 'robotachtig' was, niet overeenkwam met de gewenste esthetiek voor een apparaat dat in de natuur wordt geplaatst. Dit roept vragen op over de vormgeving en de keuze van materialen om een meer organisch en harmonieus uiterlijk te bereiken.
@@ -210,8 +210,20 @@ Tenslotte zal in het tweede semester verder worden gewerkt aan het prototype, de
 
 <img src= "images/tijdlijn semester 2.jpg" alt= "foto">
 
-## Develop 
-
+## Semester 2 
+### Samenvatting visie 
+### Methodologie 
+(foto miro ontwerpmethodologie inzetten) 
+## Develop (sem2)
+### Develop 1 
+antropometrie
+### Develop 2 
+#### Spontane test in het park 
+#### Expert interviews
+#### Gebruikerstest 2
+### Develop 3
+luisterverhalen 
+## Kritische reflectie
 ## Bronnen
 
 Columbia University, University of Maryland, & Smithsonian Institution. (sd). Leafsnap.
