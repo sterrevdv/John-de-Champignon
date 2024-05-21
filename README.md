@@ -320,6 +320,19 @@ Wij willen vooral testen met jullie hoe jullie interactie is met het product. Wa
 (Indien het niet lukt, krijgen ze subtiele hints) 
 
 #### Materiaal & methoden 
+De vorm en uiterlijk van de champignon is volledig gemaakt, maar staat nog open voor veranderingen en aanpassingen. Het scherm dat geïllustreerd wordt aan de hand van de Ipad past erin. Het programma dat via Protopie gemaakt is, is meer en beter uitgewerkt (rekening houdend met het expert interview en het spontaan interview). Alles is te bedienen door de kinderen (adhv de 2 arduino nano’s met bluotooth + protopieconnect). 
+
+Enkele functies zijn geprogrammeerd dat ze handmatig in het commando scherm kunnen worden ingegeven door ons om zo het testen eenvoudiger en veelzijdiger te maken (zoals bv de terugknop). Deze werd fictief op de paddenstoel geplakt zodat de kinderen het wel kunnen ervaren om met de terugknop te werken. Het voordeel is dat dit niet veel extra programmeerwerk vraagt, maar wel veel inzichten kan meegeven tijdens het testen.  
+
+Een extra aspect aan deze test is audio. Er wordt een Bluetooth box naast de champignon gelegd. Deze wordt verbonden met de gsm en zo kunnen vooraf opgenomen instructies en deuntjes worden afgespeeld. 
+
+
+De test bestaat uit meerdere fasen die in elkaar overlopen. Eerst vindt de uitleg over ons product, concept en project plaats zodat er context geschept wordt voor de kinderen (1). Daarna is het aan hen. Ze proberen te achterhalen hoe het product werkt en hoe het bediend kan worden (2) . Wanneer ze dit doorhebben kan het spelen beginnen. De kinderen kunnen alle functies testen, zoveel ze wensen (3). Achteraf volgt er nog gesprekje van +- 20 minuten waarin we hen vragen stellen en zij aan ons. Zo kunnen we onze ideeën uitwisselen en tot nieuwe inzichten komen (4). 
+
+De kinderen gebruiken het product en zoeken uit hoe het werkt zonder onze uitleg. Wij evalueren hoe gemakkelijk de interacties gaan en achteraf worden er nog vragen gesteld, vooral ‘wat’ en ‘waarom’. Enkele mogelijke veranderen hebben we al visueel op zak zoals audio toevoegen en  pijl toevoegen op de draaiende champignon om dit meteen opnieuw te kunnen ondervragen. 
+
+Er wordt eerst getest zonder audio, naar mate de test vordert zal er audio aan toegevoegd worden om de beide interacties waar te nemen. 
+
 #### Resultaten 
 #### Conclusies & implicaties
 ### Develop 3
