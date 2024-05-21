@@ -1,6 +1,6 @@
 # John de Champignon
 
-*De natuurtotem is een toestel dat helpt openbare plaatsen aantrekkelijker te maken voor kinderen om buiten te spelen.*
+*John de champignon heeft als doel een natuurvriend vol weetjes te zijn, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal voor zijn gebruikers.*
 
 *Projectteam: Sterre Van de Velde; Seppe Nijs*
 
@@ -309,7 +309,16 @@ De drukknop was nog niet aanwezig in de test, maar er werd wel ondervraagd op we
 #### Resultaten 
 #### Conclusies & implicaties
 #### Gebruikerstest 2
+In gebruikerstest 2 wordt er getest met 4 personen uit de doelgroep, 2 jongens en 2 meisjes. Deze proef vindt plaats in Bergelputten, een park in Moorsele, wat een realistische plaats kan zijn voor ons product. 
 #### Doelstellingen
+Het doel van deze test is aftoetsen of de gemaakte keuzes een succes zijn. De feedback van de vorige testen is meegenomen en geimplementeerd in het prototype voor gebruikerstest 2. Er zal gelet worden op de interactie van de gebruiker met het product, hoe vlot dit gaat, wat er beter kan. De ouders krijgen een informed consent aangeboden en de kinderen een beetje uitleg over het project. Er wordt vermeld wat het doel is van ons product, kinderen helpen buitenspelen en e.v. verveling tegengaan. Dit aan de hand van technologie, maar zo min mogelijk in combinatie met de gsm. Het doel van deze test wordt ook meegedeeld met de testpersonen.  
+
+‘We hebben een vereenvoudigde, maar wel uitgewerkt prototype gemaakt zowel qua vorm als qua programma (protopie). Jullie zullen verschillende opties zien die je kan kiezen zoals bv een spelletje. Het is simplistisch gemaakt, dat wil zeggen dat het echte product later bv meer spelletjes zal hebben. Er zullen meer opties zijn om uit te kiezen. 
+
+Wij willen vooral testen met jullie hoe jullie interactie is met het product. Wat jullie goed vinden en wat beter kan, wat stroef verloopt en wat vlot verloopt.’
+“Het is de bedoeling dat jullie het product gaan gebruiken zonder dat wij iets van uitleg geven over de werking ervan.”
+(Indien het niet lukt, krijgen ze subtiele hints) 
+
 #### Materiaal & methoden 
 #### Resultaten 
 #### Conclusies & implicaties
