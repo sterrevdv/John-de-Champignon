@@ -218,13 +218,36 @@ Het uiteindelijke product is gemaakt in de vorm van een grote paddenstoel met ee
 De research naar de doelgroep, hun painpoints, goals... werd vooral uitgevoerd in semester 1. In semester 2 wordt er meer gefocused op design & prototype. Eerst wordt er een low-fidelity prototype gemaakt (hoepel die draaiknop voorstelt + bordje dat het scherm voorstelt). Hiermee wordt de antropometrietest afgenomen. In het park wordt er gewerkt aan een 2e prototype. Het prototype wordt geupgraded naar een paddenstoel met vorm en kleur en een simplistisch, maar werkend scherm. Hiermee wordt het expert interview afgenomen. Later wordt het niveau naar een eerder high-fidelity getrokken. Het programma in protopie wordt verfijnd en de feedback van vorige testen wordt geimplementeerd. Gebruikerstest 2 wordt met dit prototype afgenomen. Hieruit worden keuzes in vraag gesteld en/ of bevestigd en wordt er een laatste test uitgevoerd met de gebruiker (gebruikerstest 3) die helpt met de laatste keuzes maken en onderbouwen. 
 ## Develop (sem2)
 ### Develop 1 antropometrie
-####
+#### Doelstellingen
+Het doel van de antropometrietest is achterhalen wat de ideale hoogte en plek is van het scherm en de draaiknop voor de gebruiker. Het scherm moet leesbaar zijn voor de gebruiker. De draaiknop dient om het scherm te bedienen. Deze moet ook op een hoogte hangen dat het aangenaam is voor de gebruiker om te bezigen. 
+#### Materiaal & methoden 
+Het concept wordt op een zeer simplistische manier voorgesteld aan de hand van een hoepel, wat touw en een bordje. Er worden enkele touwen aan de hoepel gehangen, de onderzoekers houden de touwen in 1 hand vast zodat de hoepel horizontaal komt te hangen boven de grond. Dit stelt de draaibeweging voor. Het scherm wordt voorgesteld aan de hand van een stukje karton met een gezichtje. Een boom wordt gebruikt om het bordje op hoogte te hangen en het gevoel te creeëren dat het een aaneenhangend product is.  
+Deze test wordt afgenomen met enkele kinderen van de chiro (N=6). Er wordt een uitleg gegeven over het project, wat het doel is en wat er bereikt wil worden. 
+#### Resultaten 
+
+#### Conclusies & implicaties
 ### Develop 2 
 #### Spontane test in het park 
+#### Doelstellingen
+#### Materiaal & methoden 
+#### Resultaten 
+#### Conclusies & implicaties
 #### Expert interviews
+#### Doelstellingen
+#### Materiaal & methoden 
+#### Resultaten 
+#### Conclusies & implicaties
 #### Gebruikerstest 2
+#### Doelstellingen
+#### Materiaal & methoden 
+#### Resultaten 
+#### Conclusies & implicaties
 ### Develop 3
 luisterverhalen 
+#### Doelstellingen
+#### Materiaal & methoden 
+#### Resultaten 
+#### Conclusies & implicaties
 ## Kritische reflectie
 ## Bronnen
 
@@ -244,7 +267,7 @@ Problem interview:
 
 •	[Conclusie](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764569021971777&cot=14)
 
-Spontaan interview:
+Spontaan interview semester 1:
 
 •	[Info](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764568974682759&cot=14)
 
