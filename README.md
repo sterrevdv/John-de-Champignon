@@ -215,6 +215,7 @@ Tenslotte zal in het tweede semester verder worden gewerkt aan het prototype, de
 Het uiteindelijke product is gemaakt in de vorm van een grote paddenstoel met een scherm en een kleine paddenstoel die dienst doet als draai-en drukknop. De doelgroep zijn hoofdzakelijk kinderen tussen 9 en 12 jaar oud. Het product zal te vinden zijn in parken, op pleintjes, bij speeltuinen... Het doel van dit product is kinderen (terug) de magie van de natuur laten ontdekken. Het product geeft hen inspiratie voor spelen, begeleidt hun in zoekopdrachten en als ze het even rustiger aan willen doen kunnen ze genieten van een luisterverhaal. John de champignon heeft als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers. 
 ### Methodologie 
 (foto miro ontwerpmethodologie inzetten) 
+
 De research naar de doelgroep, hun painpoints, goals... werd vooral uitgevoerd in semester 1. In semester 2 wordt er meer gefocused op design & prototype. Eerst wordt er een low-fidelity prototype gemaakt (hoepel die draaiknop voorstelt + bordje dat het scherm voorstelt). Hiermee wordt de antropometrietest afgenomen. In het park wordt er gewerkt aan een 2e prototype. Het prototype wordt geupgraded naar een paddenstoel met vorm en kleur en een simplistisch, maar werkend scherm. Hiermee wordt het expert interview afgenomen. Later wordt het niveau naar een eerder high-fidelity getrokken. Het programma in protopie wordt verfijnd en de feedback van vorige testen wordt geimplementeerd. Gebruikerstest 2 wordt met dit prototype afgenomen. Hieruit worden keuzes in vraag gesteld en/ of bevestigd en wordt er een laatste test uitgevoerd met de gebruiker (gebruikerstest 3) die helpt met de laatste keuzes maken en onderbouwen. 
 ## Develop (sem2)
 ### Develop 1 antropometrie
@@ -232,18 +233,18 @@ De gebruikers voeren het experiment uit.
 De gebruiker (N=6) plaatst het scherm op haar ideale ooghoogte. 
 
  
-Figuur 4: Emma                                                                    Figuur 5: Marylou
+Figuur : Emma                                                                    Figuur : Marylou
 
 
 Vervolgens wordt er een sticker geplakt op de boom ter hoogte van de bovenkant van het scherm om alle hoogtes van de deelnemers bij te houden. 
 
 Deze hoogtes werden gemeten en hieruit het gemiddelde bepaald. De gemiddelde hoogte is 140cm. Dit is hoger dan de waarde uit de database van DINBelg. De gemiddelde ooghoogte van een 10-jarige is 128cm. Het verschil zit hem in de afstand van de gebruiker tot het scherm. Indien de gebruiker verder staat, mag het scherm een pak hoger dan de ooghoogte opgemeten zoals in dinbelg. 
 
->Marylou: _‘Als je niet op het scherm moet drukken, maakt het me niet zoveel uit’_.
+>Marylou:   _‘Als je niet op het scherm moet drukken, maakt het me niet zoveel uit’_.
 
 
 
-Figuur 6: grootste en kleinste van de groep
+Figuur : grootste en kleinste van de groep
 
 
 De tweede vraag van dit deel gaat over de drukknop. Er wordt meegedeeld dat er gebruik kan gemaakt worden van een drukknop. De vraag die aan hen gesteld wordt is ‘Waar zou je de drukknop plaatsen en waarom?’. 
@@ -284,14 +285,18 @@ Er werd vervolgens aan de testpersonen gevraagd waarom ze bepaalde keuzes maakte
 
 De gebruiker vindt het aangenamer als de draaiknop lager staat. De redenen hiervoor zijn dat ze graag veel kracht zetten en dat het makkelijker is om kracht te zetten als het wat lager staat. Dit kan herkent worden als vooral een physical requirement.
 
-‘Hoog is moeilijk’
+>_‘Hoog is moeilijk’_
 
-‘Beter te laag dan te hoog’
+>_‘Beter te laag dan te hoog’_
 
-‘Ik zet graag veel kracht’
+>_‘Ik zet graag veel kracht’_
 
 #### Conclusies & implicaties
-Er worden grotendeels visual en physical requirements waargenomen. Het scherm moet een goede hoogte zijn zodat bv de nek of rug niet pijndoet als ze ernaar kijken en het moet ook gewoonweg zichtbaar zijn. Het scherm zal iets hoger dan de gemiddelde ooghoogte worden geplaatst. De gemiddelde ooghoogte van een 10-jarige is 128cm, terug te vinden in de database van DINBelg.
+Er worden grotendeels visual en physical requirements waargenomen. Het scherm moet een goede hoogte zijn zodat bv de nek of rug niet pijndoet als ze ernaar kijken en het moet ook gewoonweg zichtbaar zijn. Het scherm zal iets hoger dan de gemiddelde ooghoogte worden geplaatst. De gemiddelde ooghoogte van een 10-jarige is 128cm, terug te vinden in de database van DINBelg. 
+
+Het hangt af van gebruiker tot gebruiker hoe hoog/laag zij de draaiknop wensen, maar wij moeten hier een gemiddelde in nemen (design for the mean). Daarom kiezen wij een waarde die iets hoger is dan de gemiddelde vuigsthoogte van een 10-jarige Belg. Iets hoger dan 61cm, wat terug te vinden is in de database van DINBelg. 
+
+De drukknop was nog niet aanwezig in de test, maar er werd wel ondervraagd op welk plek zij deze zouden zetten. Het idee om de draaiknop te combineren met de drukknop klinkt gunstig, dus daarom wordt er daarop verdergegaan in de volgende testen. 
 ### Develop 2 
 #### Spontane test in het park 
 #### Doelstellingen
