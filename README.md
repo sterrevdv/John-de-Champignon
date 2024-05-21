@@ -5,8 +5,10 @@
 *Projectteam: Sterre Van de Velde; Seppe Nijs*
 
 24/01/2024
-
-## Samenvatting
+## Overzicht 
+Dit verslag bestaat uit 2 grote delen, namelijk semester 1 en semester 2. Bij elk deel worden de methodologie en verschillende testen alsook conclusies en iteraties besproken. Op het einde van semester 1 volgt een kritische reflectie. Op het einde van semester 2 volgt er een algemene kritische reflectie over het hele traject. 
+## Semester 1
+### Samenvatting visie semester 1
 Om stadsparken en openbare ruimten aantrekkelijker te maken voor kinderen zonder een overmatige focus op mobiele telefoons, hebben we een diepgaand onderzoek uitgevoerd door kinderen, ouders en experts binnen de doelgroep te interviewen. Met behulp van benchmarks en deze interviews hebben we een gestructureerde ideeëngeneratie bereikt. 
 
 Onze oplossing is een interactieve speelkast in een nog onbekende, maar aantrekkelijke en mooie vorm. Dit product motiveert kinderen om de natuur in te gaan voor opdrachten en punten te verdienen, of stelt spelletjes voor die rekening houden met de omgeving. Dit bevordert buitenspelen en het verbeteren van scores.
@@ -17,7 +19,7 @@ De natuurtotem creëert niet alleen een boeiende bezigheid voor kinderen in stad
 
 
 
-## Introductie
+### Introductie semester 1
 Er is gekozen voor het onderwerp “_Nature, Tech and Play_”. De probleemstelling ontstond vanuit de '_How can we_’ -vraag, specifiek gericht op de uitdaging om openbare plaatsen aantrekkelijker te maken voor kinderen met behulp van technologie. Het gekozen concept is de natuurtotem op een vaste locatie, die fungeert als een helpende hand en inspiratiebron voor buitenspellen voor kinderen.
 
 Het overkoepelende doel van dit ontwerpproject is om kinderen aan te moedigen buiten te spelen met behulp van technologie. Dit hoofddoel is onderverdeeld in verschillende doelstellingen. Een eerste aandachtspunt is de “_user-interaction_”. Het moet toegankelijk zijn voor kinderen en zichzelf intuïtief wijzen op het gebruik. Technologie speelt ook een cruciale rol, het product moet bestand zijn tegen zowel weer als vandalisme. Tegenwoordig moet er ook grondig worden nagedacht over de soorten energie die worden gebruikt en waar deze vandaan komen. Bovendien moet rekening worden gehouden met de omgeving, zodat het geen storende factor wordt voor bijvoorbeeld stadsbewoners of natuurliefhebbers.
@@ -29,7 +31,7 @@ Enkele “_boundary conditions_” die een rol spelen in het verhaal worden hier
 Kort gezegd, de natuurtotem moet een interessant en leuk hulpmiddel zijn om kinderen buiten te laten spelen zonder zelf heel de tijd in de belangstelling te staan. 
 
 
-## Methodologie
+### Methodologie semester 1
 Dit project werd geleid door “_user-centered design_”. Dit betekent dat het ontwerpproces geleid werd door de gebruikers aan de hand van gebruikersinterviews en -testen. Momenteel limiteren we ons nog in de “_concept development_”.  Alles  systeem- en afwerking gericht zal in het tweede semester besproken worden.
 Hieronder is er een tijdlijn te zien waar de ondernomen stappen chronologisch gerangschikt zijn. Deze stappen zijn gegroepeerd onder drie fasen: de onderzoeksfase, de realisatiefase en de testfase.
 
@@ -208,6 +210,7 @@ Tenslotte zal in het tweede semester verder worden gewerkt aan het prototype, de
 
 <img src= "images/tijdlijn semester 2.jpg" alt= "foto">
 
+## Develop 
 
 ## Bronnen
 
