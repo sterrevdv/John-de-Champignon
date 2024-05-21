@@ -451,28 +451,31 @@ Figure : Plutchik's Wheel of Emotions met stippen van de gebruikers
 
 Gebruiker 1: blijdschap 
 	Ik speel spelletjes dus ik ben blij. Het is leuk om buiten te spelen.
+ 
 Gebruiker 2: verwachting + bewondering
 Als ik de paddenstoel voor het eerst zie verwacht ik iets omdat er een ipad bij is. Het ziet er wel cool uit. Ik vind het ook wel mooi en het lijkt een beetje op een sprookje (bewondering). 
+
 Gebruiker 3: verrassing
 Ik verwacht geen paddenstoel in een park daarom ben ik ook wel verrast bij het zien van het product. 
+
 Gebruiker 4: afleiding 
 Als ik zou passeren leidt de paddenstoel mij af omdat het er zo speciaal uit ziet. Ik wil gaan kijken wat het is. 
 
 #### Conclusies & implicaties
 
 De test is geslaagd. De gebruiker is al zeer tevreden van het product, maar wil nog enkele dingen / verduidelijkingen toevoegen zoals:
-•	Pijl op de kleine paddenstoel
-•	(eventueel) bordje met uitleg
-•	achtergrondmuziek die uit de paddenstoel komt
-•	Luisterverhaal => dit wordt in de volgende test getest
-•	De paddenstoel dichtbij een bankje 
+- Pijl op de kleine paddenstoel
+- (eventueel) bordje met uitleg
+- achtergrondmuziek die uit de paddenstoel komt
+- Luisterverhaal => dit wordt in de volgende test getest
+- De paddenstoel dichtbij een bankje 
 
 Verschillende keuzes die gemaakt waren, zijn met deze test bevestigd, namelijk:
-•	De vorm + kleuren 
-•	Audio toevoegen 
-•	De interface op protopie
-•	Het gebruiken van een draaiknop + drukknop in plaats van een touchscreen 
-•	Het gebruik van een terugknop die zich ook op de kleine paddenstoel bevindt
+- De vorm + kleuren 
+- Audio toevoegen 
+- De interface op protopie
+- Het gebruiken van een draaiknop + drukknop in plaats van een touchscreen 
+- Het gebruik van een terugknop die zich ook op de kleine paddenstoel bevindt
 
 Er is 1 element dat eruit springt en dat zijn luisterverhalen. Dit is nog niet getest geweest, enkel bevraagd, dus dit geeft een aanleiding naar de volgende test develop 3. 
 ### Develop 3
