@@ -222,10 +222,76 @@ De research naar de doelgroep, hun painpoints, goals... werd vooral uitgevoerd i
 Het doel van de antropometrietest is achterhalen wat de ideale hoogte en plek is van het scherm en de draaiknop voor de gebruiker. Het scherm moet leesbaar zijn voor de gebruiker. De draaiknop dient om het scherm te bedienen. Deze moet ook op een hoogte hangen dat het aangenaam is voor de gebruiker om te bezigen. 
 #### Materiaal & methoden 
 Het concept wordt op een zeer simplistische manier voorgesteld aan de hand van een hoepel, wat touw en een bordje. Er worden enkele touwen aan de hoepel gehangen, de onderzoekers houden de touwen in 1 hand vast zodat de hoepel horizontaal komt te hangen boven de grond. Dit stelt de draaibeweging voor. Het scherm wordt voorgesteld aan de hand van een stukje karton met een gezichtje. Een boom wordt gebruikt om het bordje op hoogte te hangen en het gevoel te creeëren dat het een aaneenhangend product is.  
-Deze test wordt afgenomen met enkele kinderen van de chiro (N=6). Er wordt een uitleg gegeven over het project, wat het doel is en wat er bereikt wil worden. 
+
+Deze test wordt afgenomen met enkele kinderen van de chiro (N=6). Er wordt een uitleg gegeven over het project, wat het doel van deze test is en wat er bereikt wil worden met het product. 
 #### Resultaten 
+Het rubriek resultaten wordt verdeeld in 2 delen, namelijk de test voor het scherm + drukknop en de test voor de draaiknop. 
+##### Scherm 
+De gebruikers voeren het experiment uit. 
+
+De gebruiker (N=6) plaatst het scherm op haar ideale ooghoogte. 
+
+ 
+Figuur 4: Emma                                                                    Figuur 5: Marylou
+
+
+Vervolgens wordt er een sticker geplakt op de boom ter hoogte van de bovenkant van het scherm om alle hoogtes van de deelnemers bij te houden. 
+
+Deze hoogtes werden gemeten en hieruit het gemiddelde bepaald. De gemiddelde hoogte is 140cm. Dit is hoger dan de waarde uit de database van DINBelg. De gemiddelde ooghoogte van een 10-jarige is 128cm. Het verschil zit hem in de afstand van de gebruiker tot het scherm. Indien de gebruiker verder staat, mag het scherm een pak hoger dan de ooghoogte opgemeten zoals in dinbelg. 
+
+>Marylou: _‘Als je niet op het scherm moet drukken, maakt het me niet zoveel uit’_.
+
+
+
+Figuur 6: grootste en kleinste van de groep
+
+
+De tweede vraag van dit deel gaat over de drukknop. Er wordt meegedeeld dat er gebruik kan gemaakt worden van een drukknop. De vraag die aan hen gesteld wordt is ‘Waar zou je de drukknop plaatsen en waarom?’. 
+Er werden verschillende antwoorden gegeven zoals net onder het scherm en dichtbij het scherm. Maar er waren 2 antwoorden die eruit sprongen namelijk ‘waarom een drukknop als er een draaiknop is?’ en waarop volgde ‘moet je niet drukken op de draaiknop ook?’. Hiermee zijn we aan de slag gegaan in onze volgende gebruikerstest (deelopdracht 4). 
+
+Er werd vervolgens ook gevraagd aan de testpersonen waarom ze bepaalde keuzes maakten. 
+
+Waarom wil de gebruiker het scherm op die hoogte en niet hoger of lager? De antwoorden worden opgedeeld in 3 categoriën. 
+
+•	Eerste categorie: niet lager. 
+>_‘Ik wil me niet bukken’_
+
+>_‘Als het lager hangt is dat voor kleine kindjes!’_
+
+
+•	Tweede categorie: niet hoger. 
+
+>_‘Als het te hoog is zie ik het niet goed’_
+
+>_'Mijn nek doet pijn als ik te hoog moet kijken’_
+
+
+•	Derde categorie: het maakt niet uit.
+
+>_‘Als ik het niet goed zie stap ik wel gewoon achteruit’_
+
+>_‘Als je niet op het scherm moet drukken, maakt het me niet zoveel uit’_
+##### Draaiknop 
+Er wordt gevraagd aan de gebruiker om de hoepel op haar ideale hoogte te houden. Er wordt gedraaid aan de knop. Vervolgens wordt nog eens gevraagd om het hoger of lager te zetten.
+ 
+Figuur 8: gebruikers draaien
+
+
+De gemiddelde hoogte wordt afgemeten en komt neer op 70cm met de grond als referentie. De uitgekomen waarde is wat hoger dan de vuisthoogte van 61cm die in DINBelg terug te vinden is. Dit was ook te verwachten. Indien de gebruiker kracht zet gaat zij door haar knienen en heft haar armen op. 
+
+
+Er werd vervolgens aan de testpersonen gevraagd waarom ze bepaalde keuzes maakten. 
+
+De gebruiker vindt het aangenamer als de draaiknop lager staat. De redenen hiervoor zijn dat ze graag veel kracht zetten en dat het makkelijker is om kracht te zetten als het wat lager staat. Dit kan herkent worden als vooral een physical requirement.
+
+‘Hoog is moeilijk’
+
+‘Beter te laag dan te hoog’
+
+‘Ik zet graag veel kracht’
 
 #### Conclusies & implicaties
+Er worden grotendeels visual en physical requirements waargenomen. Het scherm moet een goede hoogte zijn zodat bv de nek of rug niet pijndoet als ze ernaar kijken en het moet ook gewoonweg zichtbaar zijn. Het scherm zal iets hoger dan de gemiddelde ooghoogte worden geplaatst. De gemiddelde ooghoogte van een 10-jarige is 128cm, terug te vinden in de database van DINBelg.
 ### Develop 2 
 #### Spontane test in het park 
 #### Doelstellingen
