@@ -218,7 +218,7 @@ Het uiteindelijke product is gemaakt in de vorm van een grote paddenstoel met ee
 
 De research naar de doelgroep, hun painpoints, goals... werd vooral uitgevoerd in semester 1. In semester 2 wordt er meer gefocused op design & prototype. Eerst wordt er een low-fidelity prototype gemaakt (hoepel die draaiknop voorstelt + bordje dat het scherm voorstelt). Hiermee wordt de antropometrietest afgenomen. In het park wordt er gewerkt aan een 2e prototype. Het prototype wordt geupgraded naar een paddenstoel met vorm en kleur en een simplistisch, maar werkend scherm. Hiermee wordt het expert interview afgenomen. Later wordt het niveau naar een eerder high-fidelity getrokken. Het programma in protopie wordt verfijnd en de feedback van vorige testen wordt geimplementeerd. Gebruikerstest 2 wordt met dit prototype afgenomen. Hieruit worden keuzes in vraag gesteld en/ of bevestigd en wordt er een laatste test uitgevoerd met de gebruiker (gebruikerstest 3) die helpt met de laatste keuzes maken en onderbouwen. 
 ## Develop (sem2)
-### Develop 1 antropometrie
+### Develop 1 antropometrie (N=6) 
 #### Doelstellingen
 Het doel van de antropometrietest is achterhalen wat de ideale hoogte en plek is van het scherm en de draaiknop voor de gebruiker. Het scherm moet leesbaar zijn voor de gebruiker. De draaiknop dient om het scherm te bedienen. Deze moet ook op een hoogte hangen dat het aangenaam is voor de gebruiker om te bezigen. 
 #### Materiaal & methoden 
@@ -298,17 +298,17 @@ Het hangt af van gebruiker tot gebruiker hoe hoog/laag zij de draaiknop wensen, 
 
 De drukknop was nog niet aanwezig in de test, maar er werd wel ondervraagd op welk plek zij deze zouden zetten. Het idee om de draaiknop te combineren met de drukknop klinkt gunstig, dus daarom wordt er daarop verdergegaan in de volgende testen. 
 ### Develop 2 
-#### Spontane test in het park 
+#### Spontane test in het park ( N = 5 )
 #### Doelstellingen
 #### Materiaal & methoden 
 #### Resultaten 
 #### Conclusies & implicaties
-#### Expert interviews
+#### Expert interviews ( N = 2 ) 
 #### Doelstellingen
 #### Materiaal & methoden 
 #### Resultaten 
 #### Conclusies & implicaties
-#### Gebruikerstest 2
+#### Gebruikerstest 2 ( N = 4 )
 In gebruikerstest 2 wordt er getest met 4 personen uit de doelgroep, 2 jongens en 2 meisjes. Deze proef vindt plaats in Bergelputten, een park in Moorsele, wat een realistische plaats kan zijn voor ons product. 
 #### Doelstellingen
 Het doel van deze test is aftoetsen of de gemaakte keuzes een succes zijn. De feedback van de vorige testen is meegenomen en geimplementeerd in het prototype voor gebruikerstest 2. Er zal gelet worden op de interactie van de gebruiker met het product, hoe vlot dit gaat, wat er beter kan. De ouders krijgen een informed consent aangeboden en de kinderen een beetje uitleg over het project. Er wordt vermeld wat het doel is van ons product, kinderen helpen buitenspelen en e.v. verveling tegengaan. Dit aan de hand van technologie, maar zo min mogelijk in combinatie met de gsm. Het doel van deze test wordt ook meegedeeld met de testpersonen.  
