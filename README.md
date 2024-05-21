@@ -330,13 +330,163 @@ De kinderen gebruiken het product en zoeken uit hoe het werkt zonder onze uitleg
 Er wordt eerst getest zonder audio, naar mate de test vordert zal er audio aan toegevoegd worden om de beide interacties waar te nemen. 
 
 #### Resultaten 
+##### Ontdekken 
+Wij nemen een stapje terug en laten de kinderen interageren met het product. In het begin roept het veel vragen op. ‘Wat moet ik doen?’ ‘Mag ik hieraan draaien?’ 
+Na een 2-tal minuten te kijken, begonnen ze te drukken op het scherm. Hier hadden de kinderen al snel door dat dat niets deed. De aandacht werd verlegd van het scherm naar de kleine paddenstoel. ‘Die zal niet voor niets staan he’ 
+De drukfunctie werd snel ontdekt, maar deze activeert de champignon nog niet. Na een klein minuutje werd de draaifunctie ontdekt, wat meteen de spelletjesreeks op het scherm tevoorschijn laat komen, het spelen kan beginnen!
+ 
+            Figure : kinderen zoeken uit hoe het werkt
+
+De vragen die in het begin gesteld worden, zijn vooral omdat wij nog in de buurt zijn. Maar dit vormt geen probleem, ofwel stellen ze die vragen aan elkaar wat het zoeken bevordert, ofwel stellen ze die vragen aan de ouders die in de buurt zijn. 
+Het duurt even voordat de kinderen doorhebben hoe de champignon bediend wordt. Dit kan opgelost worden met de draaipijl op de kleine champignon, deze hebben we meteen geïntegreerd in de volgende fase. 
+
+##### Spelen 
+
+De kinderen draaien aan de kleine paddenstoel en kijken tegelijk naar het scherm. De neiging om erop te drukken alsof het touch is blijft. Ze hadden vrij snel door wat elk icoontje voorstelde en hoe ze moesten navigeren tussen de verschillende schermen door. De kinderen reageerden wat verward, iedereen wou het scherm lezen op hetzelfde moment, maar dat gaat niet altijd. 
+Na 1 spel gespeeld te hebben is de audio toegevoegd. De audio leest instructies en bij de zoekopdracht op tijd geeft het bepaalde tijdsintervallen aan bv ‘nog 10 seconden’. De kinderen speelden vrij vlot en leken de spelen snel te snappen. In het begin waren ze wat verlegen, maar na een tijdje zeer enthousiast. 
+
+Veel schermen werken met touch, dat is ook de reden waarom dit meteen met elkaar geassocieerd wordt. Tijdens het bedienen van de paddenstoel zonder audio verliep het oke tot vlot, maar niet alle kinderen begrepen op hetzelfde moment wat ze moesten doen wat wel crutiaal kan zijn bij een opdracht op tijd. Bij de test met audio is dit probleem weggewerkt. Iedereen hoorde wat de paddenstoel zei en kon meteen in actie schieten. Indien ze het niet hoorden, werd het nagelezen op het scherm. 
+Er waren 3 categoriën ( zoekopdracht, verzamelboek en spelletje) met elk 1 uitgewerkt voorbeeld. Hieronder worden ze elk apart besproken. 
+
+**Zoekopdracht op tijd**
+
+
+•	Vlotter/duidelijker met audio omdat de paddenstoel kan aftellen en de kinderen horen het (als het enkel geprojecteerd wordt op het scherm kan dit niet gezien worden tijdens het zoeken) 
+ 
+•	Kinderen waren zeer enthousiast en creerden competitie onder elkaar. 
+ 
+•	Indien het voorwerp tijdig gevonden werd, kregen ze een weetje te zien. Hieraan hadden ze hun niet verwacht, maar reageerden verrast en enthousiast, zeker een pluspunt! Dit zorgt ervoor dat het leerrijk    wordt op een leuke en speelse manier. 
+ 
+ 
+                                  Figure 2: kinderen lezen het weetje
+                  
+**Verzamelboek**
+
+
+•	Vlotter/duidelijker met audio omdat het de instructies luidop kan meegeven. Dat toont wat op dat moment het belangrijkste is, luisteren dus en dan de opdracht uitvoeren. 
+ 
+•	Indien een voorwerp uit het verzamelboek gevonden werd, ervaarden ze een soort vreugde omdat ze bijdragen aan iets groots met andere kinderen. Het is samenspelen.  
+
+ 
+**Spelletje** (tiktak boem)
+
+
+•	Vlotter/duidelijker met audio. Het ‘tik tak tik tak…’ geluid speelde af door de box. Ze verschoten bij de boem wat een grappig moment creëerde. 
+ 
+•	Het spel spelen ging vlot, de instructies waren duidelijk. Er waren geen onduidelijkheden. 
+ 
+•	Wanneer het onduidelijk was wie er verloor bij de ‘boem’, speelden ze het gewoon eens opnieuw. Indien er een onenigheid bestaat, zijn de ouders in de buurt om dit uit te praten.   
+ 
+                                         Figure 3: tik tak boem
+
+##### Gesprek
+•	Wat vond je leuk/ makkelijk om te gebruiken? Waarom?
+- De paddenstoel is mooi 
+- Eens we het gevonden hadden hoe het werkte was het duidelijk.
+  
+•	Wat vond je moeilijk/ niet leuk om te gebruiken? Waarom? 
+- Bij het opstarten van de champignon was het niet zo duidelijk. We wisten niet goed wat we moesten doen. 
+- Het draaien en het beginnen was moeilijk. Een pijl zou duidelijker zijn.
+  
+•	Is er iets dat je zou veranderen of bijvoegen aan de opdrachtjes, spelletjes, uiterlijk van de tablet (de interface en opties)? Waarom? 
+- Bordje met uitleg over de champignon
+- Duidelijker maken dat de kleine champignon om te draaien is door bijvoorbeeld een draaipijl. Anders vinden we dat het een beetje te lang duurt om het op te starten.
+
+•	Zou je ook alleen de paddenstoel gebruiken als je vrienden er niet waren? Waarom?
+- 	Ja, want als je iets gaat zoeken kan je dat ook alleen doen. 
+- 	Als je alleen bent kan je wel niet alle spelletjes doen.
+- 	Als je alleen bent en je gaat naar de paddenstoel heb je eigenlijk wel een soort vriend. 
+
+•	Indien er ook spelletjes waren om alleen te spelen, zou je die dan doen? 
+- Het valt te zien welke spelletjes
+- Ik zou hier niet vaak alleen zjin, als ik zonder vrienden ben zal ik hier met mijn gezin zijn en dat is ook leuk. 
+
+•	De werking werkt volledig via de kleine paddenstoel, dus niet via touch, is dat goed of kan dat beter? 
+-	Mischien kan je er nog een bordje voor zetten ‘draaien’.
+
+•	Is die pijl die we toegevoegd hebben dan niet voldoende, want jullie hebben het toch vrij snel doorgehad? 
+-	We snapten niet of je erop moest drukken of draaien. Bij een bordje heb je meer zekerheid. 
+
+•	Stel de paddenstoel had in het park gestaan, zonder dat wij iets van uitleg vooraf hadden gegeven. Hoe denk je dat je zou reageren, zou je proberen prutsen en draaien, of eerder eraf blijven? Waarom?
+-	Ik zou eens gaan kijken of er iets opstaat op het scherm. 
+-	Als er een tablet is zou ik wel denken dat ik eraan mag prutsen omdat dat er voor iets staat. Je verwacht een interactie. 
+-	ik zou toch liever iets extra hebben zoals een bordje of een indicatie dat ik aan de paddenstoel mag draaien bv ‘draai mij’.
+  
+•	Als je 1 ding mag toevoegen, wat zou je toevoegen? 
+-	Het geluid in de paddenstoel in plaats van uit die box. 
+-	Het bordje met uitleg om het duidelijker te maken 
+-	Lichtjes aan de grote paddenstoel voor als het een klein beetje donkerder wordt ofzo
+-	Sporen toevoegen aan de grote paddenstoel om het een beetje echter te maken. 
+
+•	Als je 1 ding mag weghalen of veranderen dat niet echt goed is, wat zou je veranderen? 
+-	Beter materiaal dat tegen de regen kan 
+
+•	Bij de spelletjes dachten wij ook nog aan een 4e bolletje, namelijk luisterverhalen. Wat vinden jullie daarvan? 
+-	Leuk, maar als er luisterverhalen zijn moet er ook wel een bankje ofzo in de buurt zijn dat we kunnen zitten. Of allemaal kleine paddenstoeljes waar je op kan zitten. 
+
+•	Extra opmerkingen? 
+-	Een achtergrondmuziekje laten spelen 
+-	Maar niet te luid als je hem gebruikt, anders hoor je de spelletjes niet meer
+-	Ik heb een vraag; gaan jullie meerdere paddenstoelen in dit park zetten, of enkel of deze plek? 
+
+•	Dit is ons prototype, dus dit project is nog niet gerealiseerd, momenteel waren we niet echt van plan om dat in dit park te zetten. Het is puur een test en straks is de paddenstoel weer weg. 
+-	Ah, jammer. 
+
+•	Zou je dat dan leuk vinden als deze paddenstoel echt op plaatsen komt? 
+-	Ja super leuk, maar dan niet enkel in een bos maar ook zo bij een speeltuin of een pleintje. 
+
+•	Stel het is neutraal weer, de zon schijnt niet maar het regent ook niet, niet te warm, niet te koud en je hebt de keuze om ofwel naar buiten te gaan en te spelen met de champignon of binnen te blijven en op een schermpje spelen. Wat kies en waarom? 
+-	Met vrienden is het wel leuker om buiten te spelen
+-	Zonder vrienden zou ik eerder kiezen voor binnen. 
+
+•	Vond je het leuk om deel te nemen aan ons project? 
+-	Ja, geslaagd
+
+  
+Figure : kinderen leggen uit wat ze zouden toevoegen/veranderen
+
+ 
+Figure : Plutchik's Wheel of Emotions met stippen van de gebruikers
+
+
+Gebruiker 1: blijdschap 
+	Ik speel spelletjes dus ik ben blij. Het is leuk om buiten te spelen.
+Gebruiker 2: verwachting + bewondering
+Als ik de paddenstoel voor het eerst zie verwacht ik iets omdat er een ipad bij is. Het ziet er wel cool uit. Ik vind het ook wel mooi en het lijkt een beetje op een sprookje (bewondering). 
+Gebruiker 3: verrassing
+Ik verwacht geen paddenstoel in een park daarom ben ik ook wel verrast bij het zien van het product. 
+Gebruiker 4: afleiding 
+Als ik zou passeren leidt de paddenstoel mij af omdat het er zo speciaal uit ziet. Ik wil gaan kijken wat het is. 
+
 #### Conclusies & implicaties
+
+De test is geslaagd. De gebruiker is al zeer tevreden van het product, maar wil nog enkele dingen / verduidelijkingen toevoegen zoals:
+•	Pijl op de kleine paddenstoel
+•	(eventueel) bordje met uitleg
+•	achtergrondmuziek die uit de paddenstoel komt
+•	Luisterverhaal => dit wordt in de volgende test getest
+•	De paddenstoel dichtbij een bankje 
+
+Verschillende keuzes die gemaakt waren, zijn met deze test bevestigd, namelijk:
+•	De vorm + kleuren 
+•	Audio toevoegen 
+•	De interface op protopie
+•	Het gebruiken van een draaiknop + drukknop in plaats van een touchscreen 
+•	Het gebruik van een terugknop die zich ook op de kleine paddenstoel bevindt
+
+Er is 1 element dat eruit springt en dat zijn luisterverhalen. Dit is nog niet getest geweest, enkel bevraagd, dus dit geeft een aanleiding naar de volgende test develop 3. 
 ### Develop 3
 luisterverhalen 
 #### Doelstellingen
 #### Materiaal & methoden 
 #### Resultaten 
 #### Conclusies & implicaties
+## Finale prototype 
+### Vormgeving 
+Uitleg hoe de champignon is gemaakt (papier mache + verf enz)
+### Scherm + programma 
+Uitleg van protopie + arduino => technische kant + theoretische kant 
+
 ## Kritische reflectie
 ## Bronnen
 
