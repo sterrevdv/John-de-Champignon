@@ -212,7 +212,7 @@ Tenslotte zal in het tweede semester verder worden gewerkt aan het prototype, de
 
 ## Semester 2 
 ### Samenvatting visie 
-Het uiteindelijke product is gemaakt in de vorm van een grote paddenstoel met een scherm en een kleine paddenstoel die dienst doet als draai-en drukknop. De doelgroep zijn hoofdzakelijk kinderen tussen 9 en 12 jaar oud. Het product zal te vinden zijn in parken, op pleintjes, bij speeltuinen... Het doel van dit product is kinderen (terug) de magie van de natuur laten ontdekken. Het product geeft hen inspiratie voor spelen, begeleidt hun in zoekopdrachten en als ze het even rustiger aan willen doen kunnen ze genieten van een luisterverhaal. John de champignon heeft als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers. 
+Het uiteindelijke product is gemaakt in de vorm van een grote paddenstoel met een scherm en een kleine paddenstoel die dienst doet als draai-en drukknop. De doelgroep zijn hoofdzakelijk kinderen tussen 9 en 13 jaar oud. Het product zal te vinden zijn in parken, op pleintjes, bij speeltuinen... Het doel van dit product is kinderen (terug) de magie van de natuur laten ontdekken. Het product geeft hen inspiratie voor spelen, begeleidt hun in zoekopdrachten en als ze het even rustiger aan willen doen kunnen ze genieten van een luisterverhaal. John de champignon heeft als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers. 
 ### Methodologie 
 (foto miro ontwerpmethodologie inzetten) 
 
