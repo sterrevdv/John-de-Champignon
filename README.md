@@ -486,7 +486,15 @@ luisterverhalen
 #### Conclusies & implicaties
 ## Finale prototype 
 ### Vormgeving 
-Uitleg hoe de champignon is gemaakt (papier mache + verf enz)
+Het finale prototype bestaat uit twee paddenstoelen, een grote en een kleine. De grote beschikt over een scherm en de kleine bezit de bediening van dit scherm.
+#### De kleine paddenstoel (Patrick)
+De basis van de stam is een zware hardhouten blok waarin in het centrum een houten paal is bevestigd. Aan de bovenkant van deze paal is een ronde plank aan vastgelijmt waar de kippen gaas aan werd bevestigd en de top van de paddenstoel op steunt. Een deel van deze paal steekt nog uit de plank. De kippengaas is vastgemaakt aan de basisblok met nietjes. De hoed van de paddenstoel is gemaakt uit PU-schuim en vestevigd met een ronde houten plank. door deze hoed werd een gat geboord zodat het over de paal van de stam past. heel deze paddenstoel is met krantenpapier en behangerslijm behangen en dan geschilderd. Voor de elektronica is deze paddenstoel werd een Arduino NANO gebruikt met een encoder, een powerbank en enkele kabels die bevestigd werden aan de onderkant van een ronde plank die in het midden van de hoeg kon geplaatst worden. de encoder wordt vastgehouden door een ge-3Dprint stuk dat op de houten paal werd bevestigd. Deze plank met de elektronica en de rest van de hoed zit vast genoeg aan elkaar om in één geheel mee te draaien. Als afwerking werd er een grote witte stip geprintdie om de elekronica af te dekken.
+figure: verzameling van fotos opbouw kleine champ
+
+#### De grote paddenstoel (John)
+De grote paddenstoel is vrij gelijkaardig qua opbouw aan de kleine paddenstoel. De basis van de stam is een zware hardhouten blok waarin in het centrum een ijzeren paal is bevestigd. Aan de bovenkant van deze paal is een ronde stuk PU-schuim aan vastgelijmt. Verdere vorm werd gegeven door aluminium staven rondom de centrale paal die in de basis en het stuk PU-schuim werden vastgemaakt. Kippengaas Werd hier ook nog gebruikt. Weerop steek een deel van de centrale paal uit het ronde stuk PU-schuim bovenaan. De hoed bestaat uit een cilindervormig middenstuk van PU-schuim met daarin gebogen 'spaken' van aluminium staven die de hoed zijn vorm geven samen met kippengaas. Deze twee delen werden ook behangen en geverfd. Op te stam is een bult voorzien om de tablet op te kunnen positioneren.
+figure: verzameling van fotos opbouw Grote champ
+
 ### Scherm + programma 
 Uitleg van protopie + arduino => technische kant + theoretische kant 
 
@@ -513,7 +521,7 @@ Spontaan interview semester 1:
 
 •	[Info](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764568974682759&cot=14)
 
-Test met groot prototype:
+Test met groot prototype (gebruikerstest 1):
 
 •	[Protocol](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764576681095195&cot=14)
 
@@ -533,6 +541,30 @@ Interview met klein prototype:
 
 •	[Conclusie]( https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764579196145928&cot=14)
 
+Antropometrie metingen:
+
+•	[Protocol]()
+
+•	[Conclusie]()
+
+Expert interviews + Spontaan interview semester 2:
+
+•	[Protocol]()
+
+•	[Conclusie]()	
+
+Gebruikerstest 2:
+
+•	[Protocol]()
+
+•	[Conclusie]()
+
+Gebruikerstest 3:
+
+•	[Protocol]()
+
+•	[Conclusie]()
+
 Extra bijlagen:
 
 •	[Template figma discovery](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764568974345920&cot=14)
@@ -543,7 +575,7 @@ Extra bijlagen:
 
 •	[Pitch](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764579193120922&cot=14)
 
-• [Schetsen, renders en storyboard](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764576594359020&cot=14)
+•	[Schetsen, renders en storyboard](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764576594359020&cot=14)
 
 
 
