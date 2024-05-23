@@ -558,7 +558,7 @@ Daarna in de zoekfase is de timing het belangrijkste, daarom staat deze centraal
 #### Arduinocodes 
 Er wordt gebruik gemaakt van 2 arduino NANO's met bluetooth. Arduino 1 is geplaatst in de top van de kleine champignon samen met een encoder. Hier worden de draaibewegingen naar links en rechts en het indrukken van de drukknop geregistreerd. Deze worden met bluetooth verzonden naar de andere Arduino 2. Deze ontvangt de cijfercode (bv 01) en zet dit om naar een commando (bv 'rechts'), wat op zijn beurt kan gelezen worden door protopie.connect. Protopie.connect zorgt ervoor dat het scherm reageert op de commando's. 
 
-De kleine Patrick de Paddenstoel ontvangt, hieronder wordt de gebruikte code weergegeven. De signalen worden doorgestuurd als cijfers (0, 1, 2, 3)
+De kleine Patrick de Paddenstoel ontvangt de beweging van de gebruiker, hieronder wordt de gebruikte code weergegeven. De signalen worden doorgestuurd als cijfers (0, 1, 2, 3)
 ```py
 #include <ArduinoBLE.h>
 #define outputA 2
