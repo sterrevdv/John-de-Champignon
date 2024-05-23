@@ -773,7 +773,7 @@ Kortom, voor ons is dit project geslaagd. Wij hebben keuzes moeten maken en knop
 Zo rest er ons nog 1 vraag; is ons doel bereikt? 'Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen a.d.h.v. technologie?' 
 Ons doel is bereikt. Ons concept werkt en de gebruikers zijn er zeer tevreden mee. Onze keuzes zijn onderbouwd dankzij gebruikerstesten en user-experience-theorieën. Onze oplossing voor dit probleem klinkt als volgt: 
 
->_'John de Champignon en Patrick de Paddenstoel, een duo met als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers, waar het gebruik van gsm's en andere toestellen niet aan te pas komen'._
+'John de Champignon en Patrick de Paddenstoel, een duo met als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers, waar het gebruik van gsm's en andere toestellen niet aan te pas komen'.
 
 >_'Verbind kinderen opnieuw met moeder natuur's betoverende magie.'_
 ## Bronnen
