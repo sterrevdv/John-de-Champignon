@@ -216,7 +216,7 @@ Het uiteindelijke product is gemaakt in de vorm van een grote paddenstoel met ee
 ### Methodologie 
 (foto miro ontwerpmethodologie inzetten) 
 
-De research naar de doelgroep, hun painpoints, goals... werd vooral uitgevoerd in semester 1. In semester 2 wordt er meer gefocused op design & prototype. Eerst wordt er een low-fidelity prototype gemaakt (hoepel die draaiknop voorstelt + bordje dat het scherm voorstelt). Hiermee wordt de antropometrietest afgenomen. In het park wordt er gewerkt aan een 2e prototype. Het prototype wordt geupgraded naar een paddenstoel met vorm en kleur en een simplistisch, maar werkend scherm. Hiermee wordt het expert interview afgenomen. Later wordt het niveau naar een eerder high-fidelity getrokken. Het programma in protopie wordt verfijnd en de feedback van vorige testen wordt geïmplementeerd. Gebruikerstest 2 wordt met dit prototype afgenomen. Hieruit worden keuzes in vraag gesteld en/ of bevestigd en wordt er een laatste test uitgevoerd met de gebruiker (gebruikerstest 3) die helpt met de laatste keuzes maken en onderbouwen. 
+De research naar de doelgroep, hun painpoints, goals... werd vooral uitgevoerd in semester 1. In semester 2 wordt er meer gefocused op design & prototype. Eerst wordt er een low-fidelity prototype gemaakt (hoepel die draaiknop voorstelt + bordje dat het scherm voorstelt). Hiermee wordt de antropometrietest afgenomen. In het park wordt er gewerkt aan een 2e prototype. Het prototype wordt geupgraded naar een paddenstoel met vorm en kleur en een simplistisch, maar werkend scherm. Hiermee wordt het expert interview afgenomen. Later wordt het niveau naar een eerder high-fidelity getrokken. Het programma in ProtoPie wordt verfijnd en de feedback van vorige testen wordt geïmplementeerd. Gebruikerstest 2 wordt met dit prototype afgenomen. Hieruit worden keuzes in vraag gesteld en/ of bevestigd en wordt er een laatste test uitgevoerd met de gebruiker (gebruikerstest 3) die helpt met de laatste keuzes maken en onderbouwen. 
 ## Develop (sem2)
 ### Develop 1 antropometrie (N=6) 
 #### Doelstellingen
@@ -303,7 +303,7 @@ De test vond plaats in het Magdalenapark. De prototypes werden verder afgewerkt 
 #### Doelstellingen
 Het doel van deze proef is spontane reacties uitlokken bij voorbijgangers, een idee krijgen over de eerste indruk over ons project en prototype. Zo kan er een gesprek beginnen, hieruit proberen we een andere bredere kijk te creeëren, onze denkpatronen wat te verleggen. 
 #### Materiaal & methoden 
-Er werd gewerkt aan het prototype met papier mache en vervolgens verf en lak. De arduino en de ipad met protopie waren aanwezig, zodat er al eens een opstelling kon gemaakt worden. Er werd een gesprek aangegaan met de voorbijgangers. Ons project en het concept van ons product werden toegelicht om zo een spontaan gesprek te creeëren. Interessante/nieuwe aanmerkingen worden meegenomen naar de volgende testen. 
+Er werd gewerkt aan het prototype met papier mache en vervolgens verf en lak. De arduino en de ipad met ProtoPie waren aanwezig, zodat er al eens een opstelling kon gemaakt worden. Er werd een gesprek aangegaan met de voorbijgangers. Ons project en het concept van ons product werden toegelicht om zo een spontaan gesprek te creeëren. Interessante/nieuwe aanmerkingen worden meegenomen naar de volgende testen. 
 #### Resultaten 
 #### Conclusies & implicaties
 #### Expert interviews ( N = 2 ) 
@@ -316,14 +316,14 @@ In gebruikerstest 2 wordt er getest met 4 personen uit de doelgroep, 2 jongens e
 #### Doelstellingen
 Het doel van deze test is aftoetsen of de gemaakte keuzes een succes zijn. De feedback van de vorige testen is meegenomen en geimplementeerd in het prototype voor gebruikerstest 2. Er zal gelet worden op de interactie van de gebruiker met het product, hoe vlot dit gaat, wat er beter kan. De ouders krijgen een informed consent aangeboden en de kinderen een beetje uitleg over het project. Er wordt vermeld wat het doel is van ons product, kinderen helpen buitenspelen en e.v. verveling tegengaan. Dit aan de hand van technologie, maar zo min mogelijk in combinatie met de gsm. Het doel van deze test wordt ook meegedeeld met de testpersonen.  
 
-‘We hebben een vereenvoudigde, maar wel uitgewerkt prototype gemaakt zowel qua vorm als qua programma (protopie). Jullie zullen verschillende opties zien die je kan kiezen zoals bv een spelletje. Het is simplistisch gemaakt, dat wil zeggen dat het echte product later bv meer spelletjes zal hebben. Er zullen meer opties zijn om uit te kiezen. 
+‘We hebben een vereenvoudigde, maar wel uitgewerkt prototype gemaakt zowel qua vorm als qua programma (ProtoPie). Jullie zullen verschillende opties zien die je kan kiezen zoals bv een spelletje. Het is simplistisch gemaakt, dat wil zeggen dat het echte product later bv meer spelletjes zal hebben. Er zullen meer opties zijn om uit te kiezen. 
 
 Wij willen vooral testen met jullie hoe jullie interactie is met het product. Wat jullie goed vinden en wat beter kan, wat stroef verloopt en wat vlot verloopt.’
 “Het is de bedoeling dat jullie het product gaan gebruiken zonder dat wij iets van uitleg geven over de werking ervan.”
 (Indien het niet lukt, krijgen ze subtiele hints) 
 
 #### Materiaal & methoden 
-De vorm en uiterlijk van de champignon is volledig gemaakt, maar staat nog open voor veranderingen en aanpassingen. Het scherm dat geïllustreerd wordt aan de hand van de Ipad past erin. Het programma dat via Protopie gemaakt is, is meer en beter uitgewerkt (rekening houdend met het expert interview en het spontaan interview). Alles is te bedienen door de kinderen (adhv de 2 arduino nano’s met bluotooth + protopieconnect). 
+De vorm en uiterlijk van de champignon is volledig gemaakt, maar staat nog open voor veranderingen en aanpassingen. Het scherm dat geïllustreerd wordt aan de hand van de Ipad past erin. Het programma dat via ProtoPie gemaakt is, is meer en beter uitgewerkt (rekening houdend met het expert interview en het spontaan interview). Alles is te bedienen door de kinderen (adhv de 2 arduino nano’s met bluotooth + ProtoPieconnect). 
 Enkele functies zijn geprogrammeerd dat ze handmatig in het commando scherm kunnen worden ingegeven door ons om zo het testen eenvoudiger en veelzijdiger te maken (zoals bv de terugknop). Deze werd fictief op de paddenstoel geplakt zodat de kinderen het wel kunnen ervaren om met de terugknop te werken. Het voordeel is dat dit niet veel extra programmeerwerk vraagt, maar wel veel inzichten kan meegeven tijdens het testen.  
 Een extra aspect aan deze test is audio. Er wordt een Bluetooth box naast de champignon gelegd. Deze wordt verbonden met de gsm en zo kunnen vooraf opgenomen instructies en deuntjes worden afgespeeld. 
 
@@ -476,7 +476,7 @@ De test is geslaagd. De gebruiker is al zeer tevreden van het product, maar wil 
 Verschillende keuzes die gemaakt waren, zijn met deze test bevestigd, namelijk:
 - De vorm + kleuren 
 - Audio toevoegen 
-- De interface op protopie
+- De interface op ProtoPie
 - Het gebruiken van een draaiknop + drukknop in plaats van een touchscreen 
 - Het gebruik van een terugknop die zich ook op de kleine paddenstoel bevindt
 
@@ -501,7 +501,7 @@ De grote paddenstoel is vrij gelijkaardig qua opbouw aan de kleine paddenstoel. 
 figure: verzameling van fotos opbouw Grote champ
 
 ### Scherm + programma 
-#### Protopie 
+#### ProtoPie 
 
 Het scherm is gedesigned zodat het aansluit bij de kleuren en de stijl van de paddenstoelen. 
 Hieronder worden de verschillende schermen overlopen. Er is rekening gehouden met de gestaltwetten, deze worden toegelicht. Het bekomen programma van het prototype is alles behalve het finale programma. Er wordt telkens beschreven wat het programma nu inhoudt en welke veranderingen we nog graag in de toekomst zouden zien. Het bekomen programma had als hoofddoel af te toetsen welke concepten een succes zijn en waarop er kan verder gebouwd worden. Er is bewust niet uitgebreid naar meerdere spelen omdat dit niet tot de essentie behoort.  
@@ -516,7 +516,7 @@ Good figure => de drie elementen ( 2 bolletjes en een kromme) worden ervaren als
 `Home`
 
 Dit is het menu waar verschillende categorieën te kiezen zijn. 
-In protopie: spelletje, verzamelboek, zoekopdracht tegen de tijd
+In ProtoPie: spelletje, verzamelboek, zoekopdracht tegen de tijd
 In de toekomst: luisterverhalen
 Symmetrie => zorgt ervoor dat het midden als centrum ervaren wordt, wat in het centrum staat is hier ook het belangrijkste 
 
@@ -527,7 +527,7 @@ Good figure => de tekst ‘verzamelboek’ en de afbeelding vormen 1 geheel
 
 `Spelletje`
 
-In protopie: speluitleg van tiktak boem in tekst + video => als het spel van start gaat komt er een bom op het scherm 
+In ProtoPie: speluitleg van tiktak boem in tekst + video => als het spel van start gaat komt er een bom op het scherm 
 
 In de toekomst: extra (2e) menu met keuzes uit verschillende spelen (ev gecategoriseerd per aantal kinderen die willen spelen, hoe energiek ze het spel wensen) 
 
@@ -540,7 +540,7 @@ Bij het spelen van het spel staat de bom centraal en groot weergegeven omdat dat
 
 `Verzamelboek – niet op tijd`
 
-In protopie: een afbeelding van zaken uit de natuur die nog niet zijn gevonden (bladeren..) en een eikenblad dat al reeds gevonden is door een andere speler
+In ProtoPie: een afbeelding van zaken uit de natuur die nog niet zijn gevonden (bladeren..) en een eikenblad dat al reeds gevonden is door een andere speler
 
 In de toekomst: je kan wel degelijk echt scannen, als het correct is wordt er een foto van jouw voorwerp gemaakt (onherkenbaar – wet van privacy) en wordt deze opgenomen in het systeem. Nu wordt dat voorwerp als gevonden aangegeven met de foto die zojuist getrokken is. 
 
@@ -549,7 +549,7 @@ Good figure => er zijn 12 elementen te zien op dit scherm. De schim en de cirkel
 
 `Zoekopdracht - tegen de tijd` 
 
-In protopie: een aftelklok die start als er naar deze pagina wordt doorgeklikt. Een opdracht zoals ‘zoek een …’ , kan een dennenappel, flesje.. zijn. 
+In ProtoPie: een aftelklok die start als er naar deze pagina wordt doorgeklikt. Een opdracht zoals ‘zoek een …’ , kan een dennenappel, flesje.. zijn. 
 
 In de toekomst: meer advanced maken, aftelklok stopt wanneer de kinderen kunnen scannen wat ze gevonden hebben. Er wordt een foto gemaakt van het gevonden voorwerp en deze komt in de ranglijst te staan van de top 5 snelste mensen. 
 
@@ -559,7 +559,7 @@ Het element ‘dennenappel’ is hier het belangrijkste. Bij de eerste keer spel
 Daarna in de zoekfase is de timing het belangrijkste, daarom staat deze centraal. 
  
 #### Arduinocodes 
-Er wordt gebruik gemaakt van 2 arduino NANO's met bluetooth. Arduino 1 is geplaatst in de top van de kleine champignon samen met een encoder. Hier worden de draaibewegingen naar links en rechts en het indrukken van de drukknop geregistreerd (encoder kan draaibewegingen én drukbewegingen voelen). Deze worden met bluetooth verzonden naar de andere Arduino 2. Deze ontvangt de cijfercode (bv 01) en zet dit om naar een commando (bv 'rechts'), wat op zijn beurt kan gelezen worden door protopie.connect. Protopie.connect zorgt ervoor dat het scherm reageert op de commando's. 
+Er wordt gebruik gemaakt van 2 arduino NANO's met bluetooth. Arduino 1 is geplaatst in de top van de kleine champignon samen met een encoder. Hier worden de draaibewegingen naar links en rechts en het indrukken van de drukknop geregistreerd (encoder kan draaibewegingen én drukbewegingen voelen). Deze worden met bluetooth verzonden naar de andere Arduino 2. Deze ontvangt de cijfercode (bv 01) en zet dit om naar een commando (bv 'rechts'), wat op zijn beurt kan gelezen worden door ProtoPie.connect. ProtoPie.connect zorgt ervoor dat het scherm reageert op de commando's. 
 
 De kleine Patrick de Paddenstoel ontvangt de beweging van de gebruiker, hieronder wordt de gebruikte code weergegeven. De signalen worden doorgestuurd als cijfers (0, 1, 2, 3)
 ```py
@@ -607,12 +607,12 @@ void loop() {
       return;
     }
     BLE.stopScan();
-    outputProtopie(patrick);
+    outputProtoPie(patrick);
     BLE.scanForUuid("19b10000-e8f2-537e-4f6c-d104768a1214");
   }
 }
 
-void outputProtopie(BLEDevice patrick) {
+void outputProtoPie(BLEDevice patrick) {
   Serial.println("Connecting ...");
   if (patrick.connect()) {
     Serial.println("Connected");
@@ -758,6 +758,24 @@ void loop() {
 ```
 
 ## Kritische reflectie
+Na een jaar vol testen is het project afgerond binnen dit vak. Het idee begon bij een robot, zeer industrieel, niet echt passend in de natuur... We ondervonden al gauw dat dit niet de ideale vorm was voor de gebruiker alsook een willekeurige voorbijganger, waardoor het evolueerde naar een andere, aantrekkelijkere vorm. Het concept daarintegen zat meteen vrij goed; een machine in een (toen nog) onbekende vorm die ideeën geeft voor spelletjes. Later is dit geëvolueerd en uitgebreid naar zoekopdrachten op tijd of niet en luisterverhalen. 
+
+In semester 1 werd er vooral nog gefocused op de doelgroep en de probleemruimte, 'welk concreet probleem willen we oplossen met ons product?'. Daaruit werd onze _'how can we?'_ geformuleerd, namelijk 'Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen a.d.h.v. technologie?'. Er werd snel beslist dat onze doelgroep vooral ligt bij kinderen tussen 9 en 13 jaar oud. Op deze leeftijd zijn kinderen nog speels, maar kunnen al sneller zaken snappen, perfect voor ons product dus. Er werd een schets gemaakt van het idee en enkele snelle prototypes om het concept te testen. 
+
+In semester 2 werd lag de focus meer naar de user-experience en interactie met ons product. De vormgeving en interface spelen daar een zeer belangrijke factor in. De vorm werd bepaald a.d.h.v. testen en bevragingen, namelijk een paddenstoel en begon het prototypen meteen. Het maken van de twee paddenstoelen nam veel tijd in beslag, misschien iets veel in verhouding met de tijd waarover we beschikten omdat we hierdoor niet meteen konden testen. Achteraf gezien was dit een goede zet geweest.  Dit maakte onze testen meer kwaliteitsvol omdat de gebruiker zich op die manier volledig in het verhaal kon inleven. Zo werd er ingespeeld op het _Aesthetic usability effect_ ‘Aesthetically pleasing designs are often perceived as being easier to use’.
+Het gemaakte prototype had 1 groot nadeel, het is relatief groot dus om te testen viel dit af en toe in ons nadeel (we hadden de noodzaak om een auto ter beschikking te hebben). Het prototype is vervaardigd uit papier maché wat voor problemen zorgde indien het regende, gelukkig was dit geen al te grote probleemfactor aangezien het zonnetje vaak scheen bij onze testen. 
+
+Het enthousiasme van de testpersonen en gebruikers steeg doorheen het project. Tijdens de laatste testen in context leek het wel echt, er werd zelfs naar gevraagd wanneer het effectief in het park komt zodat ze konden spelen. Dat bracht een lach op ons gezicht. 
+Wij hebben veel bijgeleerd. Op vlak van teamwork en op elkaar inspelen, vormgeving, testen en raporteren en op vlak van Arduino en ProtoPie, de kennis van deze programma's op (deels) zelfstandige basis opzoeken, zorgde ervoor dat het echt goed begrepen werd en op een correcte wijze kon worden toegepast. 
+
+Kortom, voor ons is dit project geslaagd. Wij hebben keuzes moeten maken en knopen doorhakken en de juiste zijn bevestigd geweest door de gebruikerstesten en uit de verkeerde hebben we geleerd. Er is een hoop kennis en ervaring vergaard tijdens dit proces. Al doende leerden we uit de fouten, proberen om de volgende test beter te maken dan de vorige en zo steeds bij te leren. 
+
+Zo rest er ons nog 1 vraag; is ons doel bereikt? 'Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen a.d.h.v. technologie?' 
+Ons doel is bereikt. Ons concept werkt en de gebruikers zijn er zeer tevreden mee. Onze keuzes zijn onderbouwd dankzij gebruikerstesten en user-experience-theorieën. Onze oplossing voor dit probleem klinkt als volgt: 
+
+>_'John de Champignon en Patrick de Paddenstoel, een duo met als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers, waar het gebruik van gsm's en andere toestellen niet aan te pas komen'._
+
+>_'Verbind kinderen opnieuw met moeder natuur's betoverende magie.'_
 ## Bronnen
 
 Columbia University, University of Maryland, & Smithsonian Institution. (sd). Leafsnap.
