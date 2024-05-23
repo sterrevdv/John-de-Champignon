@@ -511,6 +511,7 @@ Good figure => de drie elementen ( 2 bolletjes en een kromme) worden ervaren als
 
 
 `Home`
+
 Dit is het menu waar verschillende categorieën te kiezen zijn. 
 In protopie: spelletje, verzamelboek, zoekopdracht tegen de tijd
 In de toekomst: luisterverhalen
@@ -522,6 +523,7 @@ Good figure => de tekst ‘verzamelboek’ en de afbeelding vormen 1 geheel
 
 
 `Spelletje`
+
 In protopie: speluitleg van tiktak boem in tekst + video => als het spel van start gaat komt er een bom op het scherm 
 
 In de toekomst: extra (2e) menu met keuzes uit verschillende spelen (ev gecategoriseerd per aantal kinderen die willen spelen, hoe energiek ze het spel wensen) 
@@ -534,6 +536,7 @@ Bij het spelen van het spel staat de bom centraal en groot weergegeven omdat dat
   
 
 `Verzamelboek – niet op tijd`
+
 In protopie: een afbeelding van zaken uit de natuur die nog niet zijn gevonden (bladeren..) en een eikenblad dat al reeds gevonden is door een andere speler
 
 In de toekomst: je kan wel degelijk echt scannen, als het correct is wordt er een foto van jouw voorwerp gemaakt (onherkenbaar – wet van privacy) en wordt deze opgenomen in het systeem. Nu wordt dat voorwerp als gevonden aangegeven met de foto die zojuist getrokken is. 
@@ -542,6 +545,7 @@ Good figure => er zijn 12 elementen te zien op dit scherm. De schim en de cirkel
  
 
 `Zoekopdracht - tegen de tijd` 
+
 In protopie: een aftelklok die start als er naar deze pagina wordt doorgeklikt. Een opdracht zoals ‘zoek een …’ , kan een dennenappel, flesje.. zijn. 
 
 In de toekomst: meer advanced maken, aftelklok stopt wanneer de kinderen kunnen scannen wat ze gevonden hebben. Er wordt een foto gemaakt van het gevonden voorwerp en deze komt in de ranglijst te staan van de top 5 snelste mensen. 
@@ -661,7 +665,7 @@ void outputProtopie(BLEDevice patrick) {
         if (richting == 0 && laatsteRichting == 0) {
           Serial.println("dir0");
           john.writeValue((byte)0x00);
-          richting = 1; //dit is echt shitty code, om 3 klikjes te negeren: begin helemaal opnieuw
+          richting = 1; 
         }
         laatsteRichting = richting;
       } else {
@@ -669,7 +673,7 @@ void outputProtopie(BLEDevice patrick) {
         if (richting == 1 && laatsteRichting == 1) {
           Serial.println("dir1");
           john.writeValue((byte)0x01);
-          richting = 0; //dit is echt shitty code, om 3 klikjes te negeren: begin helemaal opnieuw
+          richting = 0; 
         }
         laatsteRichting = richting;
       }
