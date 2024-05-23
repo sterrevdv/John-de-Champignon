@@ -299,8 +299,11 @@ Het hangt af van gebruiker tot gebruiker hoe hoog/laag zij de draaiknop wensen, 
 De drukknop was nog niet aanwezig in de test, maar er werd wel ondervraagd op welk plek zij deze zouden zetten. Het idee om de draaiknop te combineren met de drukknop klinkt gunstig, dus daarom wordt er daarop verdergegaan in de volgende testen. 
 ### Develop 2 
 #### Spontane test in het park ( N = 5 )
+De test vond plaats in het Magdalenapark. De prototypes werden verder afgewerkt in de natuurlijke omgeving waar af en toe wat mensen passeren. 
 #### Doelstellingen
+Het doel van deze proef is spontane reacties uitlokken bij voorbijgangers, een idee krijgen over de eerste indruk over ons project en prototype. Zo kan er een gesprek beginnen, hieruit proberen we een andere bredere kijk te creeëren, onze denkpatronen wat te verleggen. 
 #### Materiaal & methoden 
+Er werd gewerkt aan het prototype met papier mache en vervolgens verf en lak. De arduino en de ipad met protopie waren aanwezig, zodat er al eens een opstelling kon gemaakt worden. Er werd een gesprek aangegaan met de voorbijgangers. Ons project en het concept van ons product werden toegelicht om zo een spontaan gesprek te creeëren. Interessante/nieuwe aanmerkingen worden meegenomen naar de volgende testen. 
 #### Resultaten 
 #### Conclusies & implicaties
 #### Expert interviews ( N = 2 ) 
@@ -556,7 +559,7 @@ Het element ‘dennenappel’ is hier het belangrijkste. Bij de eerste keer spel
 Daarna in de zoekfase is de timing het belangrijkste, daarom staat deze centraal. 
  
 #### Arduinocodes 
-Er wordt gebruik gemaakt van 2 arduino NANO's met bluetooth. Arduino 1 is geplaatst in de top van de kleine champignon samen met een encoder. Hier worden de draaibewegingen naar links en rechts en het indrukken van de drukknop geregistreerd. Deze worden met bluetooth verzonden naar de andere Arduino 2. Deze ontvangt de cijfercode (bv 01) en zet dit om naar een commando (bv 'rechts'), wat op zijn beurt kan gelezen worden door protopie.connect. Protopie.connect zorgt ervoor dat het scherm reageert op de commando's. 
+Er wordt gebruik gemaakt van 2 arduino NANO's met bluetooth. Arduino 1 is geplaatst in de top van de kleine champignon samen met een encoder. Hier worden de draaibewegingen naar links en rechts en het indrukken van de drukknop geregistreerd (encoder kan draaibewegingen én drukbewegingen voelen). Deze worden met bluetooth verzonden naar de andere Arduino 2. Deze ontvangt de cijfercode (bv 01) en zet dit om naar een commando (bv 'rechts'), wat op zijn beurt kan gelezen worden door protopie.connect. Protopie.connect zorgt ervoor dat het scherm reageert op de commando's. 
 
 De kleine Patrick de Paddenstoel ontvangt de beweging van de gebruiker, hieronder wordt de gebruikte code weergegeven. De signalen worden doorgestuurd als cijfers (0, 1, 2, 3)
 ```py
