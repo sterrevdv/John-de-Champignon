@@ -1,4 +1,4 @@
-# John de Champignon
+# John de Champignon 
 
 *John de champignon heeft als doel een natuurvriend vol weetjes te zijn, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal voor zijn gebruikers.*
 
@@ -498,12 +498,13 @@ De grote paddenstoel is vrij gelijkaardig qua opbouw aan de kleine paddenstoel. 
 figure: verzameling van fotos opbouw Grote champ
 
 ### Scherm + programma 
-#### Protopie
+#### Protopie 
+
 Het scherm is gedesigned zodat het aansluit bij de kleuren en de stijl van de paddenstoelen. 
-Hieronder worden de verschillende schermen overlopen. Er is rekening gehouden met de gestaltwetten, deze worden toegelicht. 
+Hieronder worden de verschillende schermen overlopen. Er is rekening gehouden met de gestaltwetten, deze worden toegelicht. Het bekomen programma van het prototype is alles behalve het finale programma. Er wordt telkens beschreven wat het programma nu inhoudt en welke veranderingen we nog graag in de toekomst zouden zien. Het bekomen programma had als hoofddoel af te toetsen welke concepten een succes zijn en waarop er kan verder gebouwd worden. Er is bewust niet uitgebreid naar meerdere spelen omdat dit niet tot de essentie behoort.  
 
 `Startscherm`
-(foto van scherm)
+>_(foto van scherm)_
 
 Het startscherm heeft de vorm van een rood gezichtje. De rode kleur is zo gekozen dat ze overeenstemt met de hoed van de paddenstoelen. Het gezicht is vrolijk, maar simplistisch weergegeven. De functie is de aandacht trekken van voorbijgangers. 
 Good figure => de drie elementen ( 2 bolletjes en een kromme) worden ervaren als 1 geheel, namelijk een gezichtje.
@@ -517,7 +518,6 @@ Symmetrie => zorgt ervoor dat het midden als centrum ervaren wordt, wat in het c
 
 Good figure => de tekst ‘verzamelboek’ en de afbeelding vormen 1 geheel
 
- 
 
 
 
@@ -554,6 +554,147 @@ Daarna in de zoekfase is de timing het belangrijkste, daarom staat deze centraal
 #### Arduinocodes 
 Er wordt gebruik gemaakt van 2 arduino NANO's met bluetooth. Arduino 1 is geplaatst in de top van de kleine champignon samen met een encoder. Hier worden de draaibewegingen naar links en rechts en het indrukken van de drukknop geregistreerd. Deze worden met bluetooth verzonden naar de andere Arduino 2. Deze ontvangt de cijfercode (bv 01) en zet dit om naar een commando (bv 'rechts'), wat op zijn beurt kan gelezen worden door protopie.connect. Protopie.connect zorgt ervoor dat het scherm reageert op de commando's. 
 
+De kleine Patrick de Paddenstoel ontvangt, hieronder wordt de gebruikte code weergegeven. De signalen worden doorgestuurd als cijfers (0, 1, 2, 3)
+```py
+#include <ArduinoBLE.h>
+#define outputA 2
+#define outputB 3
+#define SW 4
+
+int counter = 0;
+int aState = 0;
+int aLastState = 0;
+int waarde = 0;
+int oudewaarde = 0;
+int gevoeligheid = 10;
+int tijdisoverconstantevariabele = 40000;
+// tijdisover na 40 seconden => kan aangepast worden
+
+unsigned long t0 = 0;
+unsigned long t1 = 0;
+unsigned long dt = 0;
+
+int richting = 0;
+int laatsteRichting = 0;
+
+void setup() {
+  Serial.begin(9600);
+  BLE.begin();
+  Serial.println("Bluetooth® Low Energy john - patrick");
+  BLE.scanForUuid("19b10000-e8f2-537e-4f6c-d104768a1214");  //19b10000-e8f2-537e-4f6c-d104768a1214
+  // rotary encoder code van op voorhand
+  pinMode(outputA, INPUT);
+  pinMode(outputB, INPUT);
+  pinMode(SW, INPUT);
+  aLastState = digitalRead(outputA);
+}
+
+void loop() {
+  BLEDevice patrick = BLE.available();
+  if (patrick) {
+    Serial.print("Found ");
+    Serial.print(" '");
+    Serial.print(patrick.localName());
+    Serial.println("' ");
+    if (patrick.localName() != "john") {
+      return;
+    }
+    BLE.stopScan();
+    outputProtopie(patrick);
+    BLE.scanForUuid("19b10000-e8f2-537e-4f6c-d104768a1214");
+  }
+}
+
+void outputProtopie(BLEDevice patrick) {
+  Serial.println("Connecting ...");
+  if (patrick.connect()) {
+    Serial.println("Connected");
+  } else {
+    Serial.println("Failed to connect!");
+    return;
+  }
+  Serial.println("Discovering attributes ...");
+  if (patrick.discoverAttributes()) {
+    Serial.println("Attributes discovered");
+  } else {
+    Serial.println("Attribute discovery failed!");
+    patrick.disconnect();
+    return;
+  }
+  BLECharacteristic john = patrick.characteristic("19b10001-e8f2-537e-4f6c-d104768a1214");
+  // in while lus alles schrijven
+  while (patrick.connected()) {
+    // draaien
+    t1 = millis();
+    dt = t1 - t0;
+    aState = digitalRead(outputA);  // Reads the "current" state of the outputA
+    // If the previous and the current state of the outputA are different, that means a Pulse has occured
+    /*if (aState != aLastState) {
+      // If the outputB state is different to the outputA state, that means the encoder is rotating clockwise
+
+      if (digitalRead(outputB) != aState) {
+        counter--;
+      } else {
+        counter++;
+      }
+      // Serial.print("Position: ");
+      waarde = map(counter, 0, gevoeligheid, 0, 1);
+      //  tweede getal kan je veranderen, hoe groter je het getal maakt, hoe meer je moet draaien om 1 prentje op te schuiven
+      // Serial.println(waarde);
+      if (waarde < oudewaarde) {
+        john.writeValue((byte)0x00);
+        // Serial.println("links");
+        t0 = millis();
+      } else {
+        if (waarde > oudewaarde) {
+          john.writeValue((byte)0x01);
+          // Serial.println("rechts");
+          t0 = millis();
+        }
+      }
+      oudewaarde = waarde;
+    }*/
+
+    if (aState != aLastState) {
+      if (digitalRead(outputB) != aState) {
+        richting = 0;
+        if (richting == 0 && laatsteRichting == 0) {
+          Serial.println("dir0");
+          john.writeValue((byte)0x00);
+          richting = 1; //dit is echt shitty code, om 3 klikjes te negeren: begin helemaal opnieuw
+        }
+        laatsteRichting = richting;
+      } else {
+        richting = 1;
+        if (richting == 1 && laatsteRichting == 1) {
+          Serial.println("dir1");
+          john.writeValue((byte)0x01);
+          richting = 0; //dit is echt shitty code, om 3 klikjes te negeren: begin helemaal opnieuw
+        }
+        laatsteRichting = richting;
+      }
+    }
+
+    aLastState = aState;  // Updates the previous state of the outputA with the current state
+
+    //  drukken
+    if (digitalRead(SW) == 0) {
+      // Serial.println("ingedrukt");
+      john.writeValue((byte)0x02);
+      delay(1000);
+      t0 = millis();
+    }
+
+    if (dt > tijdisoverconstantevariabele) {
+      // Serial.println("tijdisover");
+      john.writeValue((byte)0x03);
+      t0 = millis();
+    }
+  }
+  Serial.println("Peripheral disconnected");
+}
+```
+Arduino 2 ontvangt de cijfervormige signalen. In deze code worden ze omgezet naar commando's. 
 ```py
 #include <ArduinoBLE.h>
 
@@ -607,8 +748,8 @@ void loop() {
     Serial.println(john.address());
   }
 }
-
 ```
+
 ## Kritische reflectie
 ## Bronnen
 
