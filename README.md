@@ -486,18 +486,129 @@ luisterverhalen
 #### Conclusies & implicaties
 ## Finale prototype 
 ### Vormgeving 
-Het finale prototype bestaat uit twee paddenstoelen, een grote en een kleine. De grote beschikt over een scherm en de kleine bezit de bediening van dit scherm.
-#### De kleine paddenstoel (Patrick)
+Het finale prototype bestaat uit twee paddenstoelen, de grote John de Champignon en de kleine Patrick de Paddenstoel. John beschikt over het scherm en de audio terwijl Patrick dienst doet als draai-en drukknop. 
+#### De kleine Patrick de Paddenstoel 
 De basis van de stam is een zware hardhouten blok waarin in het centrum een houten paal is bevestigd. Aan de bovenkant van deze paal is een ronde plank aan vastgelijmt waar de kippen gaas aan werd bevestigd en de top van de paddenstoel op steunt. Een deel van deze paal steekt nog uit de plank. De kippengaas is vastgemaakt aan de basisblok met nietjes. De hoed van de paddenstoel is gemaakt uit PU-schuim en vestevigd met een ronde houten plank. door deze hoed werd een gat geboord zodat het over de paal van de stam past. heel deze paddenstoel is met krantenpapier en behangerslijm behangen en dan geschilderd. Voor de elektronica is deze paddenstoel werd een Arduino NANO gebruikt met een encoder, een powerbank en enkele kabels die bevestigd werden aan de onderkant van een ronde plank die in het midden van de hoeg kon geplaatst worden. de encoder wordt vastgehouden door een ge-3Dprint stuk dat op de houten paal werd bevestigd. Deze plank met de elektronica en de rest van de hoed zit vast genoeg aan elkaar om in één geheel mee te draaien. Als afwerking werd er een grote witte stip geprintdie om de elekronica af te dekken.
+
 figure: verzameling van fotos opbouw kleine champ
 
-#### De grote paddenstoel (John)
+#### De grote John de Champignon.  
 De grote paddenstoel is vrij gelijkaardig qua opbouw aan de kleine paddenstoel. De basis van de stam is een zware hardhouten blok waarin in het centrum een ijzeren paal is bevestigd. Aan de bovenkant van deze paal is een ronde stuk PU-schuim aan vastgelijmt. Verdere vorm werd gegeven door aluminium staven rondom de centrale paal die in de basis en het stuk PU-schuim werden vastgemaakt. Kippengaas Werd hier ook nog gebruikt. Weerop steek een deel van de centrale paal uit het ronde stuk PU-schuim bovenaan. De hoed bestaat uit een cilindervormig middenstuk van PU-schuim met daarin gebogen 'spaken' van aluminium staven die de hoed zijn vorm geven samen met kippengaas. Deze twee delen werden ook behangen en geverfd. Op te stam is een bult voorzien om de tablet op te kunnen positioneren.
+
 figure: verzameling van fotos opbouw Grote champ
 
 ### Scherm + programma 
-Uitleg van protopie + arduino => technische kant + theoretische kant 
+#### Protopie
+Het scherm is gedesigned zodat het aansluit bij de kleuren en de stijl van de paddenstoelen. 
+Hieronder worden de verschillende schermen overlopen. Er is rekening gehouden met de gestaltwetten, deze worden toegelicht. 
 
+`Startscherm`
+(foto van scherm)
+
+Het startscherm heeft de vorm van een rood gezichtje. De rode kleur is zo gekozen dat ze overeenstemt met de hoed van de paddenstoelen. Het gezicht is vrolijk, maar simplistisch weergegeven. De functie is de aandacht trekken van voorbijgangers. 
+Good figure => de drie elementen ( 2 bolletjes en een kromme) worden ervaren als 1 geheel, namelijk een gezichtje.
+
+
+`Home`
+Dit is het menu waar verschillende categorieën te kiezen zijn. 
+In protopie: spelletje, verzamelboek, zoekopdracht tegen de tijd
+In de toekomst: luisterverhalen
+Symmetrie => zorgt ervoor dat het midden als centrum ervaren wordt, wat in het centrum staat is hier ook het belangrijkste 
+
+Good figure => de tekst ‘verzamelboek’ en de afbeelding vormen 1 geheel
+
+ 
+
+
+
+`Spelletje`
+In protopie: speluitleg van tiktak boem in tekst + video => als het spel van start gaat komt er een bom op het scherm 
+
+In de toekomst: extra (2e) menu met keuzes uit verschillende spelen (ev gecategoriseerd per aantal kinderen die willen spelen, hoe energiek ze het spel wensen) 
+
+Voorbeelden van spelen: kiekeboe, boterpick, 3-stickies, varianten van tikkertje, katje wuif, pot pot iedereen vrij…
+
+Klik om te starten staat het grootste in een opvallende complementaire kleur aan rood. De titel van het spel staat ook groot afgebeeld. Indien ze het spelletje niet kennen, kan er gekeken worden naar het filmpje of de tekst (wat iets minder op de voorgrond staat). 
+
+Bij het spelen van het spel staat de bom centraal en groot weergegeven omdat dat het enige belangrijke is, de rest wordt meegegeven met de audio. 
+  
+
+`Verzamelboek – niet op tijd`
+In protopie: een afbeelding van zaken uit de natuur die nog niet zijn gevonden (bladeren..) en een eikenblad dat al reeds gevonden is door een andere speler
+
+In de toekomst: je kan wel degelijk echt scannen, als het correct is wordt er een foto van jouw voorwerp gemaakt (onherkenbaar – wet van privacy) en wordt deze opgenomen in het systeem. Nu wordt dat voorwerp als gevonden aangegeven met de foto die zojuist getrokken is. 
+
+Good figure => er zijn 12 elementen te zien op dit scherm. De schim en de cirkel errond worden aanschouwd als 1 geheel  
+ 
+
+`Zoekopdracht - tegen de tijd` 
+In protopie: een aftelklok die start als er naar deze pagina wordt doorgeklikt. Een opdracht zoals ‘zoek een …’ , kan een dennenappel, flesje.. zijn. 
+
+In de toekomst: meer advanced maken, aftelklok stopt wanneer de kinderen kunnen scannen wat ze gevonden hebben. Er wordt een foto gemaakt van het gevonden voorwerp en deze komt in de ranglijst te staan van de top 5 snelste mensen. 
+
+Verschillende voorwerpen (flesje, dennenappel, soort onschuldig bloemetje, koekjespapiertje…) de kinderen worden gestimuleerd om afval te rapen er zal dan een vuilbak in de buurt  staan (opletten!! Tegengaan dat er uit de vuilbakken vuil wordt gegraaid)
+
+Het element ‘dennenappel’ is hier het belangrijkste. Bij de eerste keer spelen kan ‘zoek een’ belangrijker zijn, maar als de gebruiker de champignon meerdere malen gebruikt is het onbekende element dennenappel. Daarom staat deze tekst het grootste afgebeeld. De afbeelding zorgt voor extra verduidelijking. 
+Daarna in de zoekfase is de timing het belangrijkste, daarom staat deze centraal. 
+ 
+#### Arduinocodes 
+Er wordt gebruik gemaakt van 2 arduino NANO's met bluetooth. Arduino 1 is geplaatst in de top van de kleine champignon samen met een encoder. Hier worden de draaibewegingen naar links en rechts en het indrukken van de drukknop geregistreerd. Deze worden met bluetooth verzonden naar de andere Arduino 2. Deze ontvangt de cijfercode (bv 01) en zet dit om naar een commando (bv 'rechts'), wat op zijn beurt kan gelezen worden door protopie.connect. Protopie.connect zorgt ervoor dat het scherm reageert op de commando's. 
+
+```py
+#include <ArduinoBLE.h>
+
+BLEService patrick("19B10000-E8F2-537E-4F6C-D104768A1214");  //19B10000-E8F2-537E-4F6C-D104768A1214
+BLEByteCharacteristic rotary("19B10001-E8F2-537E-4F6C-D104768A1214", BLERead | BLEWrite);
+
+void setup() {
+  Serial.begin(9600);
+
+  if (!BLE.begin()) {
+    Serial.println("starting Bluetooth® Low Energy module failed!");
+
+    while (1)
+      ;
+  }
+
+  BLE.setLocalName("john");
+  BLE.setAdvertisedService(patrick);
+  patrick.addCharacteristic(rotary);
+  BLE.addService(patrick);
+  rotary.writeValue(0);
+  BLE.advertise();
+  Serial.println("BLE john");
+}
+
+void loop() {
+  BLEDevice john = BLE.central();
+
+  if (john) {
+    Serial.print("Connected to john: ");
+    Serial.println(john.address());
+
+    while (john.connected()) {
+      if (rotary.written()) {
+        if (rotary.value() == 0) {
+          Serial.println('links');
+        }
+        if (rotary.value() == 1) {
+          Serial.println("rechts");
+        }
+        if (rotary.value() == 2) {
+          Serial.println("ingedrukt");
+        }
+        if (rotary.value() == 3) {
+          Serial.println("tijdisover");
+        }
+      }
+    }
+
+    Serial.print(F("Disconnected from john: "));
+    Serial.println(john.address());
+  }
+}
+
+```
 ## Kritische reflectie
 ## Bronnen
 
