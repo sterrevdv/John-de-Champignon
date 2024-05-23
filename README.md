@@ -305,6 +305,7 @@ Het doel van deze proef is spontane reacties uitlokken bij voorbijgangers, een i
 #### Materiaal & methoden 
 Er werd gewerkt aan het prototype met papier mache en vervolgens verf en lak. De arduino en de ipad met ProtoPie waren aanwezig, zodat er al eens een opstelling kon gemaakt worden. Er werd een gesprek aangegaan met de voorbijgangers. Ons project en het concept van ons product werden toegelicht om zo een spontaan gesprek te creeëren. Interessante/nieuwe aanmerkingen worden meegenomen naar de volgende testen. 
 #### Resultaten 
+
 #### Conclusies & implicaties
 #### Expert interviews ( N = 2 ) 
 #### Doelstellingen
@@ -489,7 +490,7 @@ luisterverhalen
 #### Conclusies & implicaties
 ## Finale prototype 
 ### Vormgeving 
-Het finale prototype bestaat uit twee paddenstoelen, de grote John de Champignon en de kleine Patrick de Paddenstoel. John beschikt over het scherm en de audio terwijl Patrick dienst doet als draai-en drukknop. 
+Het finale prototype bestaat uit twee paddenstoelen, de grote John de Champignon en de kleine Patrick de Paddenstoel. John beschikt over het scherm en de audio terwijl Patrick dienst doet als draai-en drukknop. Er is gebruik gemaakt van het concept antropomorfisme  '_het toekennen van menselijke eigenschappen aan niet-menselijke wezens_'. Eerst en vooral hebben de 2 paddenstoelen een naam. John beschikt over een scherm met een gezichtje. Wanneer het product in gebruik is, klinkt de mensenstem met instructies door de box. Dit kan bij de gebruiker zorgen voor het gevoel dat de paddenstoelen echt zijn. 
 #### De kleine Patrick de Paddenstoel 
 De basis van de stam is een zware hardhouten blok waarin in het centrum een houten paal is bevestigd. Aan de bovenkant van deze paal is een ronde plank aan vastgelijmt waar de kippen gaas aan werd bevestigd en de top van de paddenstoel op steunt. Een deel van deze paal steekt nog uit de plank. De kippengaas is vastgemaakt aan de basisblok met nietjes. De hoed van de paddenstoel is gemaakt uit PU-schuim en vestevigd met een ronde houten plank. door deze hoed werd een gat geboord zodat het over de paal van de stam past. heel deze paddenstoel is met krantenpapier en behangerslijm behangen en dan geschilderd. Voor de elektronica is deze paddenstoel werd een Arduino NANO gebruikt met een encoder, een powerbank en enkele kabels die bevestigd werden aan de onderkant van een ronde plank die in het midden van de hoeg kon geplaatst worden. de encoder wordt vastgehouden door een ge-3Dprint stuk dat op de houten paal werd bevestigd. Deze plank met de elektronica en de rest van de hoed zit vast genoeg aan elkaar om in één geheel mee te draaien. Als afwerking werd er een grote witte stip geprintdie om de elekronica af te dekken.
 
@@ -770,7 +771,7 @@ Wij hebben veel bijgeleerd. Op vlak van teamwork en op elkaar inspelen, vormgevi
 
 Kortom, voor ons is dit project geslaagd. Wij hebben keuzes moeten maken en knopen doorhakken en de juiste zijn bevestigd geweest door de gebruikerstesten en uit de verkeerde hebben we geleerd. Er is een hoop kennis en ervaring vergaard tijdens dit proces. Al doende leerden we uit de fouten, proberen om de volgende test beter te maken dan de vorige en zo steeds bij te leren. 
 
-Zo rest er ons nog 1 vraag; is ons doel bereikt? 'Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen a.d.h.v. technologie?' 
+Zo rest er ons nog 1 vraag, is ons doel bereikt? 'Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen a.d.h.v. technologie?' 
 Ons doel is bereikt. Ons concept werkt en de gebruikers zijn er zeer tevreden mee. Onze keuzes zijn onderbouwd dankzij gebruikerstesten en user-experience-theorieën. Onze oplossing voor dit probleem klinkt als volgt: 
 
 _'John de Champignon en Patrick de Paddenstoel, een duo met als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers, waar het gebruik van gsm's en andere toestellen niet aan te pas komen'._
