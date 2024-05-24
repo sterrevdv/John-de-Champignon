@@ -676,11 +676,11 @@ Good figure => er zijn 12 elementen te zien op dit scherm. De schim en de cirkel
 
 `Zoekopdracht - tegen de tijd` 
 
-In ProtoPie: een aftelklok die start als er naar deze pagina wordt doorgeklikt. Een opdracht zoals ‘zoek een …’ , kan een dennenappel, flesje.. zijn. 
+In ProtoPie: een aftelklok die start als er naar deze pagina wordt doorgeklikt. Een opdracht zoals ‘zoek een …’ , kan een dennenappel, eikenblad.. zijn. 
 
 In de toekomst: meer advanced maken, aftelklok stopt wanneer de kinderen kunnen scannen wat ze gevonden hebben. Er wordt een foto gemaakt van het gevonden voorwerp en deze komt in de ranglijst te staan van de top 5 snelste mensen. 
 
-Verschillende voorwerpen (flesje, dennenappel, soort onschuldig bloemetje, koekjespapiertje…) de kinderen worden gestimuleerd om afval te rapen er zal dan een vuilbak in de buurt  staan (opletten!! Tegengaan dat er uit de vuilbakken vuil wordt gegraaid)
+Verschillende voorwerpen (dennenappel, soort onschuldig bloemetje,…) de kinderen worden gestimuleerd om verschillende soorten planten en noten in de natuur te herkennen.
 
 Het element ‘dennenappel’ is hier het belangrijkste. Bij de eerste keer spelen kan ‘zoek een’ belangrijker zijn, maar als de gebruiker de champignon meerdere malen gebruikt is het onbekende element dennenappel. Daarom staat deze tekst het grootste afgebeeld. De afbeelding zorgt voor extra verduidelijking. 
 Daarna in de zoekfase is de timing het belangrijkste, daarom staat deze centraal. 
