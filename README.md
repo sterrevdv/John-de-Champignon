@@ -641,6 +641,7 @@ Good figure => de drie elementen ( 2 bolletjes en een kromme) worden ervaren als
 
 
 `Home`
+<img src= "extra/home.jpg" alt= "foto">
 
 Dit is het menu waar verschillende categorieën te kiezen zijn. 
 In ProtoPie: spelletje, verzamelboek, zoekopdracht tegen de tijd
@@ -653,6 +654,7 @@ Good figure => de tekst ‘verzamelboek’ en de afbeelding vormen 1 geheel
 
 
 `Spelletje`
+<img src= "extra/spelletje.jpg" alt= "foto">
 
 In ProtoPie: speluitleg van tiktak boem in tekst + video => als het spel van start gaat komt er een bom op het scherm 
 
@@ -666,6 +668,7 @@ Bij het spelen van het spel staat de bom centraal en groot weergegeven omdat dat
   
 
 `Verzamelboek – niet op tijd`
+<img src= "extra/verzamelboek.jpg" alt= "foto">
 
 In ProtoPie: een afbeelding van zaken uit de natuur die nog niet zijn gevonden (bladeren..) en een eikenblad dat al reeds gevonden is door een andere speler
 
@@ -675,6 +678,7 @@ Good figure => er zijn 12 elementen te zien op dit scherm. De schim en de cirkel
  
 
 `Zoekopdracht - tegen de tijd` 
+<img src= "extra/zoekopdracht.jpg" alt= "foto">
 
 In ProtoPie: een aftelklok die start als er naar deze pagina wordt doorgeklikt. Een opdracht zoals ‘zoek een …’ , kan een dennenappel, eikenblad.. zijn. 
 
@@ -903,6 +907,9 @@ Ons doel is bereikt. Ons concept werkt en de gebruikers zijn er zeer tevreden me
 _'John de Champignon en Patrick de Paddenstoel, een duo met als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers, waar het gebruik van gsm's en andere toestellen niet aan te pas komen'._
 
 >_'Verbind kinderen opnieuw met moeder natuur's betoverende magie.'_
+
+<img src= "extra/hero1.jpg" alt= "foto">	<img src= "extra/hero2.jpg" alt= "foto">
+
 ## Bronnen
 
 Columbia University, University of Maryland, & Smithsonian Institution. (sd). Leafsnap.
