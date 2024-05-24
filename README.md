@@ -1,11 +1,25 @@
 # John de Champignon 
 
-*John de champignon heeft als doel een natuurvriend vol weetjes te zijn, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal voor zijn gebruikers.*
+*John de Champignon heeft als doel een natuurvriend vol weetjes te zijn, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal voor zijn gebruikers.*
 
 *Projectteam: Sterre Van de Velde; Seppe Nijs*
 
 24/01/2024
 ## Overzicht 
+John de Champignon komt voort uit een heel traject vol met gebruikerstesten, prototypes, theoretische modellen ... De vraag waar wij een oplossing voor bieden met ons product luidt als volgt:
+
+>_'Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen aan de hand van technologie?'._
+
+
+ Doorheen het project zijn daar randvoorwaarden aan toegevoegd, de belangrijkste zijn:
+
+> [!IMPORTANT]
+> Randvoorwaarden:
+> - Geen gebruik van GSM tijdens het gebruik van ons product.
+> - Geen extra fysieke objecten die worden meegegeven met de kinderen.
+> - Kinderen laten (opnieuw) in contact komen met de natuur.
+> - Stapje terug zetten van alle interactieve schermen (bijvoorbeeld tablets, gsm's...).
+
 Dit verslag bestaat uit 2 grote delen, namelijk semester 1 en semester 2. Bij elk deel worden de methodologie en verschillende testen alsook conclusies en iteraties besproken. Op het einde van semester 1 volgt een kritische reflectie. Op het einde van semester 2 volgt er een algemene kritische reflectie over het hele traject. 
 ## Semester 1
 ### Samenvatting visie 
