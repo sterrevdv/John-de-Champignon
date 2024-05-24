@@ -377,10 +377,31 @@ Muziek is een ingewikkelder concept om te implementeren zonder de omgeving te ve
 De optie om luisterverhalen af te spelen is het testen waard, dit wordt meegenomen naar ‘develop 3’. Eventueel met beeldmateriaal op het scherm is niet in lijn met ons concept nl. tijd buiten (in de natuur) doorbrengen. Dit zal getest worden om te zien hoe de gebruiker erop reageert. 
 
 #### Expert interviews ( N = 2 ) 
+De expert interviews werden gedaan met 2 medestudenten. Deze interviews werden uitgevoerd in het IDC in Kortrijk.
+
 #### Doelstellingen
+Het doel van deze interviews was om een professionele menig te horen over de tot nu toe gemaakte keuzes vooral in relatie tot de interface en bediening.
+
 #### Materiaal & methoden 
+De experts mochten het product gebruiken dat toen beschikte over een zeer simplistische interface mogelijk gemaakt door ProtoPie en Arduino (a.d.h.v. 1 arduino nano’s met kabel + ProtoPieconnect) en minieme hoeveelheid audio geproduceerd door een persoon. Ze kregen dan een informed consent en een ‘heuristic evaluation’ invulblad.
+Eens de evaluatie klaar was werden er nog enkele verduidelijkende vragen gesteld over hun opgeschreven antwoorden en scores.
+
+foto koneer en foto warre
+
 #### Resultaten 
+De werkpunten volgens de experts werden hier opgelijst.
+>Key insights:
+>-	Het verzamelboek is te gelijkaardig aan de zoekopdrachten.
+>-	De interactie tussen de kleine paddenstoel en de grote paddenstoel verloopt te traag en is niet betrouwbaar. (slecht contact, slechte encoder, programma?)
+>-	Er is geen optie om terug te gaan je moet wachten tot hij vanzelf terug gaat.
+>-	Om de paddenstoel wakker te maken kan je enkel draaien, waarom niet drukken?
+>-	Audio toevoegen, maar enkel hoorbaar maken binnen 5 meter.
+>-	Veel uitgebreider verzamelboek: diertjes, bloemetjes,…
+>-	Bij de zoekopdracht een optie om afval te zoeken.
+
 #### Conclusies & implicaties
+De gelijkaardigheid is iets waar zo laat in het project niet meer aan gewerkt kan worden. Dit kan wel getest worden met kinderen om te zien wat zij ervan vinden en er kunnen zoals later vermeld in de verdere opvolging van het product nog extra spelen aan toegevoegd worden. De vertraging op de tablet ligt aan de kwaliteit van de encoder (hier is weinig aan te doen). De terugkeeroptie is geen knop maar een timer die na een bepaalt aantal seconden terugkeert naar de home screen, maar dit valt blijkbaar niet in de smaak. Dus zal de timer vervangen worden door een simpele knop die in de volgende gebruikerstest zal geïmplementeerd worden. Draaien is de enige optie om de paddenstoel wakker te maken omdat als er te veel gedrukt wordt op de knop in één keer de interface al te ver gaat zitten (bv. Ze klikken 4 keer kort na elkaar om de paddenstoel wakker te krijgen en tik tak boem begint zijn uitlegvideo af te spelen, zonder dat ze de andere opties gezien hebben). Er kan zeker audio toegevoegd worden met name: muziek, spraak en andere geluidjes. Dit zal ook in de volgende test getest worden. Diertjes en bloemen in het verzamelboek steken is geen goed idee, aangezien bloemen plukken in het park op neer gekeken wordt. Dieren zoals insecten in kinderhanden is ook geen goed idee voor vanzelfsprekende redenen. Een optie om afval te zoeken is iets wat uit het spontane interview ook is uitgekomen, maar dit komt van mensen die het product niet zullen gebruiken, afval is meestal ‘vuil’ en niet echt aantrekkelijk om aan te raken, noch is het gemakkelijk om het verschillend uitziend afval  door een Ai te laten herkennen. Alle bomen en noten die door het systeem zal laten zien worden zijn effectief te vinden in het park of bos. Het zou redelijk stom zijn als je een opdracht krijgt om een waterfles te zoeken in het bos als er geen liggen. Daarom wordt dit niet geïmplementeerd.
+
 #### Gebruikerstest 2 ( N = 4 )
 In gebruikerstest 2 wordt er getest met 4 personen uit de doelgroep, 2 jongens en 2 meisjes. Deze proef vindt plaats in Bergelputten, een park in Moorsele, wat een realistische plaats kan zijn voor ons product. 
 #### Doelstellingen
