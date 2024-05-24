@@ -549,15 +549,19 @@ Er waren 3 categoriën ( zoekopdracht, verzamelboek en spelletje) met elk 1 uitg
 
 
 Gebruiker 1: blijdschap 
+
 	Ik speel spelletjes dus ik ben blij. Het is leuk om buiten te spelen.
  
 Gebruiker 2: verwachting + bewondering
+
 Als ik de paddenstoel voor het eerst zie verwacht ik iets omdat er een ipad bij is. Het ziet er wel cool uit. Ik vind het ook wel mooi en het lijkt een beetje op een sprookje (bewondering). 
 
 Gebruiker 3: verrassing
+
 Ik verwacht geen paddenstoel in een park daarom ben ik ook wel verrast bij het zien van het product. 
 
 Gebruiker 4: afleiding 
+
 Als ik zou passeren leidt de paddenstoel mij af omdat het er zo speciaal uit ziet. Ik wil gaan kijken wat het is. 
 
 #### Conclusies & implicaties
