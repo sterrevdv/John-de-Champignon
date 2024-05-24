@@ -18,7 +18,7 @@ John de Champignon komt voort uit een heel traject vol met gebruikerstesten, pro
 > - Geen gebruik van GSM tijdens het gebruik van ons product.
 > - Geen extra fysieke objecten die worden meegegeven met de kinderen.
 > - Kinderen laten (opnieuw) in contact komen met de natuur.
-> - Stapje terug zetten van doemloos schermgebruik.
+> - Stapje terug zetten van doelloos schermgebruik.
 
 Dit verslag bestaat uit 2 grote delen, namelijk semester 1 en semester 2. Bij elk deel worden de methodologie en verschillende testen alsook conclusies en iteraties besproken. Op het einde van semester 1 volgt een kritische reflectie. Op het einde van semester 2 volgt er een algemene kritische reflectie over het hele traject. 
 ## Semester 1
