@@ -292,7 +292,7 @@ De gebruiker (N=6) plaatst het scherm op haar ideale ooghoogte.
 
 Vervolgens wordt er een sticker geplakt op de boom ter hoogte van de bovenkant van het scherm om alle hoogtes van de deelnemers bij te houden. 
 
-Deze hoogtes werden gemeten en hieruit het gemiddelde bepaald. De gemiddelde hoogte is 140cm. Dit is hoger dan de waarde uit de database van DINBelg. De gemiddelde ooghoogte van een 10-jarige is 128cm. Het verschil zit hem in de afstand van de gebruiker tot het scherm. Indien de gebruiker verder staat, mag het scherm een pak hoger dan de ooghoogte opgemeten zoals in dinbelg. 
+Deze hoogtes werden gemeten en hieruit het gemiddelde bepaald. De gemiddelde hoogte van de bovenkant is 140cm, het midden van het scherm bevindt zich op 140-7 = 133cm. Het verschil zit hem in de afstand van de gebruiker tot het scherm. Indien de gebruiker verder staat, mag het scherm een pak hoger dan de ooghoogte opgemeten zoals in dinbelg. 
 
 >Marylou:   _‘Als je niet op het scherm moet drukken, maakt het me niet zoveel uit’_.
 
@@ -332,7 +332,7 @@ Er wordt gevraagd aan de gebruiker om de hoepel op haar ideale hoogte te houden.
 <img src= "fotos sem2/gebruikers draaien.jpg" alt= "foto">
 
 
-De gemiddelde hoogte wordt afgemeten en komt neer op 70cm met de grond als referentie. De uitgekomen waarde is wat hoger dan de vuisthoogte van 61cm die in DINBelg terug te vinden is. Dit was ook te verwachten. Indien de gebruiker kracht zet gaat zij door haar knienen en heft haar armen op. 
+De gemiddelde hoogte wordt afgemeten en komt neer op 70cm met de grond als referentie. De uitgekomen waarde is wat hoger dan de berekende vuistwaarde (65.4cm). DDit was ook te verwachten en is vermeld in het protocol. Indien de gebruiker kracht zet gaat zij door haar knienen en heft haar armen op. 
 
 
 Er werd vervolgens aan de testpersonen gevraagd waarom ze bepaalde keuzes maakten. 
@@ -348,7 +348,7 @@ De gebruiker vindt het aangenamer als de draaiknop lager staat. De redenen hierv
 #### Conclusies & implicaties
 Er worden grotendeels visual en physical requirements waargenomen. Het scherm moet een goede hoogte zijn zodat bv de nek of rug niet pijndoet als ze ernaar kijken en het moet ook gewoonweg zichtbaar zijn. Het scherm zal iets hoger dan de gemiddelde ooghoogte worden geplaatst. De gemiddelde ooghoogte van een 10-jarige is 128cm, terug te vinden in de database van DINBelg. 
 
-Het hangt af van gebruiker tot gebruiker hoe hoog/laag zij de draaiknop wensen, maar wij moeten hier een gemiddelde in nemen (design for the mean). Daarom kiezen wij een waarde die iets hoger is dan de gemiddelde vuigsthoogte van een 10-jarige Belg. Iets hoger dan 61cm, wat terug te vinden is in de database van DINBelg. 
+Het hangt af van gebruiker tot gebruiker hoe hoog/laag zij de draaiknop wensen, maar wij moeten hier een gemiddelde in nemen (design for the mean). Daarom kiezen wij een waarde die iets hoger is dan de gemiddelde vuigsthoogte van een 10-jarige Belg, wij kiezen rond de 70cm.
 
 De drukknop was nog niet aanwezig in de test, maar er werd wel ondervraagd op welk plek zij deze zouden zetten. Het idee om de draaiknop te combineren met de drukknop klinkt gunstig, dus daarom wordt er daarop verdergegaan in de volgende testen. 
 ### Develop 2 
