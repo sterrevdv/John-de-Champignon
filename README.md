@@ -20,7 +20,7 @@ John de Champignon komt voort uit een heel traject vol met gebruikerstesten, pro
 > - Kinderen laten (opnieuw) in contact komen met de natuur.
 > - Stapje terug zetten van doelloos schermgebruik.
 
-Dit verslag bestaat uit 2 grote delen, namelijk semester 1 en semester 2. Bij elk deel worden de methodologie en verschillende testen alsook conclusies en iteraties besproken. Op het einde van semester 1 volgt een kritische reflectie. Op het einde van semester 2 volgt er een algemene kritische reflectie over het hele traject. 
+Dit verslag bestaat uit 2 grote delen, namelijk semester 1 en semester 2. Bij elk deel worden de methodologie en verschillende testen alsook conclusies en iteraties besproken. Op het einde van semester 1 volgt een kritische reflectie. Op het einde van semester 2 volgt er een algemene kritische reflectie over het hele traject. Protocollen en verslagen zijn uitgebreid bijgehouden in aparte documenten (zie bijlagen), onze miro geeft een overzicht van ons doorlopen traject zowel theoretisch als praktisch. 
 ## Semester 1
 ### Samenvatting visie 
 Om stadsparken en openbare ruimten aantrekkelijker te maken voor kinderen zonder een overmatige focus op mobiele telefoons, hebben we een diepgaand onderzoek uitgevoerd door kinderen, ouders en experts binnen de doelgroep te interviewen. Met behulp van benchmarks en deze interviews hebben we een gestructureerde ideeëngeneratie bereikt. 
