@@ -550,7 +550,7 @@ Er waren 3 categoriën ( zoekopdracht, verzamelboek en spelletje) met elk 1 uitg
 
 Gebruiker 1: blijdschap 
 
-	Ik speel spelletjes dus ik ben blij. Het is leuk om buiten te spelen.
+Ik speel spelletjes dus ik ben blij. Het is leuk om buiten te spelen.
  
 Gebruiker 2: verwachting + bewondering
 
