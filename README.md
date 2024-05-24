@@ -345,8 +345,23 @@ Het doel van deze proef is spontane reacties uitlokken bij voorbijgangers, een i
 #### Materiaal & methoden 
 Er werd gewerkt aan het prototype met papier mache en vervolgens verf en lak. De arduino en de ipad met ProtoPie waren aanwezig, zodat er al eens een opstelling kon gemaakt worden. Er werd een gesprek aangegaan met de voorbijgangers. Ons project en het concept van ons product werden toegelicht om zo een spontaan gesprek te creeëren. Interessante/nieuwe aanmerkingen worden meegenomen naar de volgende testen. 
 #### Resultaten 
+We werken aan het project in een publieke ruimte (een park). Voorbijgangers worden aangesproken.
+Tijdens het verven van de hoed van de paddenstoel kwam Bram (4IO) langs. Hij was benieuwd naar welk vak dit was en wat onze opdracht was. 
+Terwijl we de finetuning aan het verven waren op de hoed van de grote paddenstoel, kwamen er 4 voorbijgangers. Er werd interesse getoond en we geraakten aan de praat. Er werd gevraagd welk project dit was met welk doel waarop wij antwoord gaven. We meldden welke voortgang we geboekt hadden en welke zaken we nog van plan zijn in de toekomst. Hier hebben ze hun gedachten en ideeën gedeeld met ons. 
+
+>Key insights:
+>-	Er was nog vraag naar één of andere beloning.
+>-	Muziek in ruststand kan kinderen aantrekken tot het gebruiken van het product.
+>-	Een optie dat de paddenstoel verhaaltjes kan vertellen en eventueel hierbij ook videomateriaal afspelen.
+>-	Afval zoeken als opdracht
 
 #### Conclusies & implicaties
+Er is bewust beslist om geen fysieke beloningen te geven omdat kinderen niet altijd moet beloond worden om te spelen. Het spelen en het gevoel dat je daarbij krijgt is de beloning zelf. 
+Audio is zeker een element waarmee er nog geëxperimenteerd zal worden zoals eerder vermeld bv: een vriendelijke ‘hallo’ bij de initiële interactie, een ‘Goed zo’ bij het vinden van de juiste plant, een tiktak-geluid wanneer er een zoekopdracht bezig is,… 
+
+Muziek is een ingewikkelder concept om te implementeren zonder de omgeving te veel te storen, maar een passend muziekje tijdens een zoekopdracht terwijl de klok tikt is mogelijk of terwijl de paddenstoel in gebruik is dat er een constant achtergrongmuziekje afgespeeld worden. 
+De optie om luisterverhalen af te spelen is het testen waard, dit wordt meegenomen naar ‘develop 3’. Eventueel met beeldmateriaal op het scherm is niet in lijn met ons concept nl. tijd buiten (in de natuur) doorbrengen. Dit zal getest worden om te zien hoe de gebruiker erop reageert. 
+
 #### Expert interviews ( N = 2 ) 
 #### Doelstellingen
 #### Materiaal & methoden 
