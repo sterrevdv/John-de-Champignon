@@ -610,7 +610,7 @@ De kinderen gebruiken het product en zoeken uit hoe het werkt zonder onze uitleg
 >-	De paddenstoel moet dicht genoeg bij andere speeltuigen staan om spelen te optimaliseren.
 
 #### Conclusies & implicaties
-De indicaties zijn voldoende, maar een bordje kan het ‘af’ maken en dit is zeker doenbaar. Het filmpje was de favoriet en kan geïntegreerd worden in het systeem als vierde optie, hoewel de voorkeur van de ontwerpers toch bij het luistervehaal ligt (zonder beeld dus), maar dit zou nogmaals moeten getest worden met een grotere groep kinderen om hier een definitief beluit uit te kunnen trekken. Er zal intresse zijn van sommige kinderen en voor degene die liever geen verhaal beluisteren zijn er nog drie andere opties. Er moeten bankjes in de buurt van de paddenstoel zijn om goed van het verhaal te kunnen genieten. Deze bankjes zouden een vorm hebben van een korte dikke paddenstoel. 
+De indicaties zijn voldoende, maar een bordje kan het ‘af’ maken en dit is zeker doenbaar. Het filmpje was de favoriet en kan geïntegreerd worden in het systeem als vierde optie, hoewel de voorkeur van de ontwerpers toch bij het luistervehaal ligt, zonder beeld dus, omdat deze keuze in lijn ligt met de gedefinieerde randvoorwaarden.  Er zal intresse zijn van sommige kinderen in het luisterverhaal en voor degene die liever geen verhaal beluisteren zijn er nog drie andere opties. Er moeten bankjes in de buurt van de paddenstoel zijn om goed van het verhaal te kunnen genieten. Deze bankjes zouden een vorm hebben van een korte dikke paddenstoel. 
 
 <img src= "fotos sem2/paddenstoelbankjes.jpg" alt= "foto">
 
