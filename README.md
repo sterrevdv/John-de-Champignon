@@ -1019,5 +1019,7 @@ Extra bijlagen:
 
 •	[Explainer video](https://youtu.be/V8lK4su37Iw)
 
+• [Miro bord](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590187509657&cot=14)
+
 
 
