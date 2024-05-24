@@ -633,7 +633,7 @@ Het scherm is gedesigned zodat het aansluit bij de kleuren en de stijl van de pa
 Hieronder worden de verschillende schermen overlopen. Er is rekening gehouden met de gestaltwetten, deze worden toegelicht. Het bekomen programma van het prototype is alles behalve het finale programma. Er wordt telkens beschreven wat het programma nu inhoudt en welke veranderingen we nog graag in de toekomst zouden zien. Het bekomen programma had als hoofddoel af te toetsen welke concepten een succes zijn en waarop er kan verder gebouwd worden. Er is bewust niet uitgebreid naar meerdere spelen omdat dit niet tot de essentie behoort.  
 
 `Startscherm`
-<img src= "fotos sem2/startscherm.jpg" alt= "foto">
+<img src= "fotos sem2/startscherm.jpg" alt= "foto" width="40%">
 
 
 Het startscherm heeft de vorm van een rood gezichtje. De rode kleur is zo gekozen dat ze overeenstemt met de hoed van de paddenstoelen. Het gezicht is vrolijk, maar simplistisch weergegeven. De functie is de aandacht trekken van voorbijgangers. 
@@ -641,7 +641,7 @@ Good figure => de drie elementen ( 2 bolletjes en een kromme) worden ervaren als
 
 
 `Home`
-<img src= "extra/home.jpg" alt= "foto">
+<img src= "extra2/home.jpg" alt= "foto" width="40%">
 
 Dit is het menu waar verschillende categorieën te kiezen zijn. 
 In ProtoPie: spelletje, verzamelboek, zoekopdracht tegen de tijd
@@ -654,7 +654,7 @@ Good figure => de tekst ‘verzamelboek’ en de afbeelding vormen 1 geheel
 
 
 `Spelletje`
-<img src= "extra/spelletje.jpg" alt= "foto">
+<img src= "extra2/spelletje.jpg" alt= "foto" width="40%">
 
 In ProtoPie: speluitleg van tiktak boem in tekst + video => als het spel van start gaat komt er een bom op het scherm 
 
@@ -668,7 +668,7 @@ Bij het spelen van het spel staat de bom centraal en groot weergegeven omdat dat
   
 
 `Verzamelboek – niet op tijd`
-<img src= "extra/verzamelboek.jpg" alt= "foto">
+<img src= "extra2/verzamelboek.jpg" alt= "foto" width="40%">
 
 In ProtoPie: een afbeelding van zaken uit de natuur die nog niet zijn gevonden (bladeren..) en een eikenblad dat al reeds gevonden is door een andere speler
 
@@ -678,7 +678,7 @@ Good figure => er zijn 12 elementen te zien op dit scherm. De schim en de cirkel
  
 
 `Zoekopdracht - tegen de tijd` 
-<img src= "extra/zoekopdracht.jpg" alt= "foto">
+<img src= "extra2/zoekopdracht.jpg" alt= "foto" width="40%">
 
 In ProtoPie: een aftelklok die start als er naar deze pagina wordt doorgeklikt. Een opdracht zoals ‘zoek een …’ , kan een dennenappel, eikenblad.. zijn. 
 
@@ -908,7 +908,7 @@ _'John de Champignon en Patrick de Paddenstoel, een duo met als doel een natuurv
 
 >_'Verbind kinderen opnieuw met moeder natuur's betoverende magie.'_
 
-<img src= "extra/hero1.jpg" alt= "foto">	<img src= "extra/hero2.jpg" alt= "foto">
+<img src= "extra2/hero1.jpg" alt= "foto" width="50%">	<img src= "extra2/hero2.jpg" alt= "foto" width="50%">
 
 ## Bronnen
 
