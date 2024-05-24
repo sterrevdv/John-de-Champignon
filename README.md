@@ -972,7 +972,7 @@ Gebruikerstest 2:
 
 •	[Protocol](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590054740586&cot=14)
 
-•	[Conclusie](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764589739326172&cot=14)
+•	[Conclusie](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590172104054&cot=14)
 
 Gebruikerstest 3:
 
