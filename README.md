@@ -947,27 +947,27 @@ Interview met klein prototype:
 
 Antropometrie metingen:
 
-•	[Protocol]()
+•	[Protocol](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590163914864&cot=14)
 
-•	[Conclusie]()
+•	[Conclusie](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590164162368&cot=14)
 
 Expert interviews + Spontaan interview semester 2:
 
-•	[Protocol]()
+•	[Protocol](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590054740586&cot=14)
 
-•	[Conclusie]()	
+•	[Conclusie](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590061021153&cot=14)	
 
 Gebruikerstest 2:
 
-•	[Protocol]()
+•	[Protocol](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590054740586&cot=14)
 
-•	[Conclusie]()
+•	[Conclusie](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764589739326172&cot=14)
 
 Gebruikerstest 3:
 
-•	[Protocol]()
+•	[Protocol](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590164963945&cot=14)
 
-•	[Conclusie]()
+•	[Conclusie](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764590164964516&cot=14)
 
 Extra bijlagen:
 
@@ -979,7 +979,17 @@ Extra bijlagen:
 
 •	[Pitch](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764579193120922&cot=14)
 
-•	[Schetsen, renders en storyboard](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764576594359020&cot=14)
+•	[Schetsen, renders en storyboard 1](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764576594359020&cot=14)
+
+•	[Conclusie Google forms, nieuw uiterlijk](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764579514339492&cot=14)
+
+•	[ProtoPie uitleg](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764589739502229&cot=14) 
+
+•	[Theorie toegepast op het finaal prototype](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764589739326735&cot=14)
+
+•	[Storyboard 2](https://miro.com/app/board/uXjVNbl3VH0=/?moveToWidget=3458764589810956344&cot=14)
+
+•	[Explainer video](https://youtu.be/V8lK4su37Iw)
 
 
 
