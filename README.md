@@ -225,6 +225,46 @@ Het doel van de antropometrietest is achterhalen wat de ideale hoogte en plek is
 Het concept wordt op een zeer simplistische manier voorgesteld aan de hand van een hoepel, wat touw en een bordje. Er worden enkele touwen aan de hoepel gehangen, de onderzoekers houden de touwen in 1 hand vast zodat de hoepel horizontaal komt te hangen boven de grond. Dit stelt de draaibeweging voor. Het scherm wordt voorgesteld aan de hand van een stukje karton met een gezichtje. Een boom wordt gebruikt om het bordje op hoogte te hangen en het gevoel te creeëren dat het een aaneenhangend product is.  
 
 Deze test wordt afgenomen met enkele kinderen van de chiro (N=6). Er wordt een uitleg gegeven over het project, wat het doel van deze test is en wat er bereikt wil worden met het product. 
+
+Hieronder worden de verwachte waarden besproken voor het scherm en de draaiknop. 
+De verwachte waarde van de hoogte voor het centrum van het scherm ligt tussen de waarden van lichaamslengte en ooghoogte. 
+We kiezen als designstrategie _design for the mean_. We beslissen dat het scherm op goede hoogte moet hangen voor 90% van de gebruikers. Het is belangrijk dat het scherm gezien kan worden, maar het is niet van uiterst belang dat het door iedereen optimaal gezien kan worden. De kleinere van de groep kunnen bijvoorbeeld aan de draaiknop draaien. Het scherm blijft leesbaar als het ‘te hoog’ staat, het is gewoon minder gunstig. We berekenen P90 voor de lichaamslengte en de ooghoogte, de waarde zal hier ergens tussen liggen.
+
+`Lichaamslengte:`
+
+Indien we gebruik maken van DINBelg kunnen we µ = 1286 mm en σ = 61 mm terugvinden. 
+
+90% dus z = +1.282 (bron: tabel PP 8. Stakeholders & populations)
+
+P90 = µ+z∙σ = 1286+1,282*61 = 1364.202 mm
+
+
+`Ooghoogte:`
+
+Indien we gebruik maken van DINBelg kunnen we µ = 1403 mm en σ = 63 mm terugvinden. 
+
+90% dus z = +1.282
+
+P90 = µ+z∙σ = 1403+1.282∙63 = 1483.766 mm
+
+
+>_De verwachte ideale hoogte van het centrum van het scherm zal tussen 136,4 cm en 148,8 cm liggen._
+
+De verwachte hoogte van de drukknop en draaiknop ligt iets hoger dan de vuisthoogte. Er wordt verwacht dat de gebruiker zich licht bukt en de armen een beetje omhoog tilt en plooit om de draaibeweging uit te voeren. 
+ 
+Figure 2: DINBelg 10 jaar gemengd
+
+`Vuisthoogte:`
+
+Indien we gebruik maken van DINBelg kunnen we µ = 610 mm en σ = 34 mm terugvinden.
+
+90% dus z = +1.282
+
+P90 = µ+z∙σ = 610 +1.282∙34 = 653,588 mm
+
+>_De verwachte ideale hoogte van de draaiknop ligt enkele centimeters hoger dan 65,4 cm._
+
+
 #### Resultaten 
 Het rubriek resultaten wordt verdeeld in 2 delen, namelijk de test voor het scherm + drukknop en de test voor de draaiknop. 
 ##### Scherm 
