@@ -573,11 +573,37 @@ Verschillende keuzes die gemaakt waren, zijn met deze test bevestigd, namelijk:
 
 Er is 1 element dat eruit springt en dat zijn luisterverhalen. Dit is nog niet getest geweest, enkel bevraagd, dus dit geeft een aanleiding naar de volgende test develop 3. 
 ### Develop 3
-luisterverhalen 
+#### Gebruikerstest 3 (N=2)
+Deze test is een vervolg op gebruikerstest 2. Het verloop van de test leek op de vorige met als uitzondering dat er enkele nieuwe elementen werden toegevoegd en getest waaronder een vierde verhaaloptie met en zonder beeld, meer gebruik van muziek en duidelijkere indicaties bij de bediening. De test vond plaats op het speelpleintje in de Elzenstraat van Sinaai.
 #### Doelstellingen
+●	Positieve bevestiging krijgen over de terugpijl, ‘draai aan mij’, muziek en de verhaaloptie. 
+●	Extra bevestiging krijgen over het concept en de werking van de paddenstoel.
+
 #### Materiaal & methoden 
+Dit is grotendeels gelijk aan Gebruikerstest 2. De vorm en uiterlijk van de champignon is volledig gemaakt, maar staat nog open voor veranderingen en aanpassingen. Het scherm dat geïllustreerd wordt aan de hand van de Ipad past erin. Het programma dat via ProtoPie gemaakt is. Alles is te bedienen door de kinderen (adhv de 2 arduino nano’s met bluotooth + ProtoPieconnect). 
+Enkele functies zijn geprogrammeerd dat ze handmatig in het commando scherm kunnen worden ingegeven door ons om zo het testen eenvoudiger en veelzijdiger te maken (zoals bv de terugknop). Het verhaal zal via YouTube handmatig opgezet worden door de overziende.
+Er wordt een Bluetooth box op de champignon gelegd. Deze wordt verbonden met de gsm en zo kunnen vooraf opgenomen instructies en deuntjes worden afgespeeld. 
+
+
+De test bestaat uit meerdere fasen die in elkaar overlopen. Eerst vindt de uitleg over ons product, concept en project plaats zodat er context geschept wordt voor de kinderen (1). Daarna is het aan hen. Ze proberen te achterhalen hoe het product werkt en hoe het bediend kan worden (2) . Wanneer ze dit doorhebben kan het spelen beginnen. De kinderen kunnen alle functies testen, zoveel ze wensen (3). Achteraf volgt er nog gesprekje van +- 20 minuten waarin we hen vragen stellen en zij aan ons. Zo kunnen we onze ideeën uitwisselen en tot nieuwe inzichten komen (4). 
+De kinderen gebruiken het product en zoeken uit hoe het werkt zonder onze uitleg. Wij evalueren hoe gemakkelijk de interacties gaan en achteraf worden er nog vragen gesteld, vooral ‘wat’ en ‘waarom’.
+
+foto luisterfragment
+
 #### Resultaten 
+>Key insights:
+>-	De toegevoegde indicaties waren duidelijk, enkel de vorm was niet ‘mooi’ genoeg.
+>-	Het verhaal met beeld is beter. De aandachtspanne is langer en de filmpjes zijn korter dan luisterfragmenten omdat zij ook beeld gebruiken.
+>-	Het toegevoegde verhaal is de moeite waard voor sommigen, volgens Camille (12) was zij te oud hiervoor. Pière (9) vond dit zeker een goede toevoeging.
+>-	Bankjes in de buurt zijn nodig om het verhaal te bekijken.
+>-	Muziek mag gebruikt worden tijdens het gebruik van het product, maar indien het niet wordt gebruikt liever niet, want dat kan vervelend worden.
+>-	De paddenstoel moet dicht genoeg bij andere speeltuigen staan om spelen te optimaliseren.
+
 #### Conclusies & implicaties
+De indicaties zijn voldoende, maar een bordje kan het ‘af’ maken en dit is zeker doenbaar. Het filmpje was de favoriet en kan geïntegreerd worden in het systeem als vierde optie, hoewel de voorkeur van de ontwerpers toch bij het luistervehaal ligt (zonder beeld dus), maar dit zou nogmaals moeten getest worden met een grotere groep kinderen om hier een definitief beluit uit te kunnen trekken. Er zal intresse zijn van sommige kinderen en voor degene die liever geen verhaal beluisteren zijn er nog drie andere opties. Er moeten bankjes in de buurt van de paddenstoel zijn om goed van het verhaal te kunnen genieten. Deze bankjes zouden een vorm hebben van een korte dikke paddenstoel. 
+
+foto paddenstoelbankjes
+
 ## Finale prototype 
 ### Vormgeving 
 Het finale prototype bestaat uit twee paddenstoelen, de grote John de Champignon en de kleine Patrick de Paddenstoel. John beschikt over het scherm en de audio terwijl Patrick dienst doet als draai-en drukknop. Er is gebruik gemaakt van het concept antropomorfisme  '_het toekennen van menselijke eigenschappen aan niet-menselijke wezens_'. Eerst en vooral hebben de 2 paddenstoelen een naam. John beschikt over een scherm met een gezichtje. Wanneer het product in gebruik is, klinkt de mensenstem met instructies door de box. Dit kan bij de gebruiker zorgen voor het gevoel dat de paddenstoelen echt zijn. 
@@ -853,7 +879,7 @@ Na een jaar vol testen is het project afgerond binnen dit vak. Het idee begon bi
 
 In semester 1 werd er vooral nog gefocused op de doelgroep en de probleemruimte, 'welk concreet probleem willen we oplossen met ons product?'. Daaruit werd onze _'how can we?'_ geformuleerd, namelijk 'Hoe kunnen we publieke plaatsen aantrekkelijker maken voor kinderen a.d.h.v. technologie?'. Er werd snel beslist dat onze doelgroep vooral ligt bij kinderen tussen 9 en 13 jaar oud. Op deze leeftijd zijn kinderen nog speels, maar kunnen al sneller zaken snappen, perfect voor ons product dus. Er werd een schets gemaakt van het idee en enkele snelle prototypes om het concept te testen. 
 
-In semester 2 werd lag de focus meer naar de user-experience en interactie met ons product. De vormgeving en interface spelen daar een zeer belangrijke factor in. De vorm werd bepaald a.d.h.v. testen en bevragingen, namelijk een paddenstoel en begon het prototypen meteen. Het maken van de twee paddenstoelen nam veel tijd in beslag, misschien iets veel in verhouding met de tijd waarover we beschikten omdat we hierdoor niet meteen konden testen. Achteraf gezien was dit een goede zet geweest.  Dit maakte onze testen meer kwaliteitsvol omdat de gebruiker zich op die manier volledig in het verhaal kon inleven. Zo werd er ingespeeld op het _Aesthetic usability effect_  ‘_Aesthetically pleasing designs are often perceived as being easier to use_’.
+In semester 2 werd lag de focus meer naar de user-experience en interactie met ons product. De vormgeving en interface spelen daar een zeer belangrijke factor in. De vorm werd bepaald a.d.h.v. testen en bevragingen, namelijk een paddenstoel en begon het prototypen meteen. Het maken van de twee paddenstoelen nam veel tijd in beslag, misschien iets te veel in verhouding met de tijd waarover we beschikten omdat we hierdoor niet meteen konden testen. Achteraf gezien was dit een goede zet geweest.  Dit maakte onze testen meer kwaliteitsvol omdat de gebruiker zich op die manier volledig in het verhaal kon inleven. Zo werd er ingespeeld op het _Aesthetic usability effect_  ‘_Aesthetically pleasing designs are often perceived as being easier to use_’.
 Het gemaakte prototype had 1 groot nadeel, het is relatief groot dus om te testen viel dit af en toe in ons nadeel (we hadden de noodzaak om een auto ter beschikking te hebben). Het prototype is vervaardigd uit papier maché wat voor problemen zorgde indien het regende, gelukkig was dit geen al te grote probleemfactor aangezien het zonnetje vaak scheen bij onze testen. 
 
 Het enthousiasme van de testpersonen en gebruikers steeg doorheen het project. Tijdens de laatste testen in context leek het wel echt, er werd zelfs naar gevraagd wanneer het effectief in het park komt zodat ze konden spelen. Dat bracht een lach op ons gezicht. 
