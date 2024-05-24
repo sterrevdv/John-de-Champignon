@@ -228,7 +228,8 @@ Tenslotte zal in het tweede semester verder worden gewerkt aan het prototype, de
 ### Samenvatting visie 
 Het uiteindelijke product is gemaakt in de vorm van een grote paddenstoel met een scherm en een kleine paddenstoel die dienst doet als draai-en drukknop. De doelgroep zijn hoofdzakelijk kinderen tussen 9 en 13 jaar oud. Het product zal te vinden zijn in parken, op pleintjes, bij speeltuinen... Het doel van dit product is kinderen (terug) de magie van de natuur laten ontdekken. Het product geeft hen inspiratie voor spelen, begeleidt hun in zoekopdrachten en als ze het even rustiger aan willen doen kunnen ze genieten van een luisterverhaal. John de champignon heeft als doel een natuurvriend vol weetjes, een inspiratiebron voor spelletjes en een ruststop met een fantasierijk verhaal te zijn voor zijn gebruikers. 
 ### Methodologie 
-(foto miro ontwerpmethodologie inzetten) 
+
+<img src= "fotos sem2/ontwerpmethodologie.jpg" alt= "foto">
 
 De research naar de doelgroep, hun painpoints, goals... werd vooral uitgevoerd in semester 1. In semester 2 wordt er meer gefocused op design & prototype. Eerst wordt er een low-fidelity prototype gemaakt (hoepel die draaiknop voorstelt + bordje dat het scherm voorstelt). Hiermee wordt de antropometrietest afgenomen. In het park wordt er gewerkt aan een 2e prototype. Het prototype wordt geupgraded naar een paddenstoel met vorm en kleur en een simplistisch, maar werkend scherm. Hiermee wordt het expert interview afgenomen. Later wordt het niveau naar een eerder high-fidelity getrokken. Het programma in ProtoPie wordt verfijnd en de feedback van vorige testen wordt geïmplementeerd. Gebruikerstest 2 wordt met dit prototype afgenomen. Hieruit worden keuzes in vraag gesteld en/ of bevestigd en wordt er een laatste test uitgevoerd met de gebruiker (gebruikerstest 3) die helpt met de laatste keuzes maken en onderbouwen. 
 ## Develop (sem2)
@@ -266,7 +267,7 @@ P90 = µ+z∙σ = 1403+1.282∙63 = 1483.766 mm
 
 De verwachte hoogte van de drukknop en draaiknop ligt iets hoger dan de vuisthoogte. Er wordt verwacht dat de gebruiker zich licht bukt en de armen een beetje omhoog tilt en plooit om de draaibeweging uit te voeren. 
  
-Figure 2: DINBelg 10 jaar gemengd
+<img src= "fotos sem2/DINBelg.jpg" alt= "foto">
 
 `Vuisthoogte:`
 
@@ -286,9 +287,8 @@ De gebruikers voeren het experiment uit.
 
 De gebruiker (N=6) plaatst het scherm op haar ideale ooghoogte. 
 
- 
-Figuur : Emma                                                                    Figuur : Marylou
-
+                                                                     
+<img src= "fotos sem2/Emma.jpg" alt= "foto" width="30%">	<img src= "fotos sem2/Marylou.jpg" alt= "foto" width="30%">
 
 Vervolgens wordt er een sticker geplakt op de boom ter hoogte van de bovenkant van het scherm om alle hoogtes van de deelnemers bij te houden. 
 
@@ -298,8 +298,7 @@ Deze hoogtes werden gemeten en hieruit het gemiddelde bepaald. De gemiddelde hoo
 
 
 
-Figuur : grootste en kleinste van de groep
-
+<img src= "fotos sem2/grootste en kleinste van de groep.jpg" alt= "foto">
 
 De tweede vraag van dit deel gaat over de drukknop. Er wordt meegedeeld dat er gebruik kan gemaakt worden van een drukknop. De vraag die aan hen gesteld wordt is ‘Waar zou je de drukknop plaatsen en waarom?’. 
 Er werden verschillende antwoorden gegeven zoals net onder het scherm en dichtbij het scherm. Maar er waren 2 antwoorden die eruit sprongen namelijk ‘waarom een drukknop als er een draaiknop is?’ en waarop volgde ‘moet je niet drukken op de draaiknop ook?’. Hiermee zijn we aan de slag gegaan in onze volgende gebruikerstest (deelopdracht 4). 
@@ -329,7 +328,8 @@ Waarom wil de gebruiker het scherm op die hoogte en niet hoger of lager? De antw
 ##### Draaiknop 
 Er wordt gevraagd aan de gebruiker om de hoepel op haar ideale hoogte te houden. Er wordt gedraaid aan de knop. Vervolgens wordt nog eens gevraagd om het hoger of lager te zetten.
  
-Figuur 8: gebruikers draaien
+
+<img src= "fotos sem2/gebruikers draaien.jpg" alt= "foto">
 
 
 De gemiddelde hoogte wordt afgemeten en komt neer op 70cm met de grond als referentie. De uitgekomen waarde is wat hoger dan de vuisthoogte van 61cm die in DINBelg terug te vinden is. Dit was ook te verwachten. Indien de gebruiker kracht zet gaat zij door haar knienen en heft haar armen op. 
@@ -363,6 +363,8 @@ We werken aan het project in een publieke ruimte (een park). Voorbijgangers word
 Tijdens het verven van de hoed van de paddenstoel kwam Bram (4IO) langs. Hij was benieuwd naar welk vak dit was en wat onze opdracht was. 
 Terwijl we de finetuning aan het verven waren op de hoed van de grote paddenstoel, kwamen er 4 voorbijgangers. Er werd interesse getoond en we geraakten aan de praat. Er werd gevraagd welk project dit was met welk doel waarop wij antwoord gaven. We meldden welke voortgang we geboekt hadden en welke zaken we nog van plan zijn in de toekomst. Hier hebben ze hun gedachten en ideeën gedeeld met ons. 
 
+<img src= "fotos sem2/Medewerkers IPO.jpg" alt= "foto">	<img src= "fotos sem2/Bram.jpg" alt= "foto">
+
 >Key insights:
 >-	Er was nog vraag naar één of andere beloning.
 >-	Muziek in ruststand kan kinderen aantrekken tot het gebruiken van het product.
@@ -386,7 +388,8 @@ Het doel van deze interviews was om een professionele menig te horen over de tot
 De experts mochten het product gebruiken dat toen beschikte over een zeer simplistische interface mogelijk gemaakt door ProtoPie en Arduino (a.d.h.v. 1 arduino nano’s met kabel + ProtoPieconnect) en minieme hoeveelheid audio geproduceerd door een persoon. Ze kregen dan een informed consent en een ‘heuristic evaluation’ invulblad.
 Eens de evaluatie klaar was werden er nog enkele verduidelijkende vragen gesteld over hun opgeschreven antwoorden en scores.
 
-foto koneer en foto warre
+
+<img src= "fotos sem2/Korneel.jpg" alt= "foto" width="30%">	<img src= "fotos sem2/Warre.jpg" alt= "foto" width="30%">
 
 #### Resultaten 
 De werkpunten volgens de experts werden hier opgelijst.
@@ -428,8 +431,9 @@ Er wordt eerst getest zonder audio, naar mate de test vordert zal er audio aan t
 Wij nemen een stapje terug en laten de kinderen interageren met het product. In het begin roept het veel vragen op. ‘Wat moet ik doen?’ ‘Mag ik hieraan draaien?’ 
 Na een 2-tal minuten te kijken, begonnen ze te drukken op het scherm. Hier hadden de kinderen al snel door dat dat niets deed. De aandacht werd verlegd van het scherm naar de kleine paddenstoel. ‘Die zal niet voor niets staan he’ 
 De drukfunctie werd snel ontdekt, maar deze activeert de champignon nog niet. Na een klein minuutje werd de draaifunctie ontdekt, wat meteen de spelletjesreeks op het scherm tevoorschijn laat komen, het spelen kan beginnen!
- 
-            Figure : kinderen zoeken uit hoe het werkt
+
+<img src= "fotos sem2/kinderen zoeken uit hoe het werkt.jpg" alt= "foto">
+           
 
 De vragen die in het begin gesteld worden, zijn vooral omdat wij nog in de buurt zijn. Maar dit vormt geen probleem, ofwel stellen ze die vragen aan elkaar wat het zoeken bevordert, ofwel stellen ze die vragen aan de ouders die in de buurt zijn. 
 Het duurt even voordat de kinderen doorhebben hoe de champignon bediend wordt. Dit kan opgelost worden met de draaipijl op de kleine champignon, deze hebben we meteen geïntegreerd in de volgende fase. 
@@ -449,10 +453,10 @@ Er waren 3 categoriën ( zoekopdracht, verzamelboek en spelletje) met elk 1 uitg
  
 •	Kinderen waren zeer enthousiast en creerden competitie onder elkaar. 
  
-•	Indien het voorwerp tijdig gevonden werd, kregen ze een weetje te zien. Hieraan hadden ze hun niet verwacht, maar reageerden verrast en enthousiast, zeker een pluspunt! Dit zorgt ervoor dat het leerrijk    wordt op een leuke en speelse manier. 
+•	Indien het voorwerp tijdig gevonden werd, kregen ze een weetje te zien. Hieraan hadden ze hun niet verwacht, maar reageerden verrast en enthousiast, zeker een pluspunt! Dit zorgt ervoor dat het leerrijk wordt op een leuke en speelse manier. 
  
- 
-                                  Figure 2: kinderen lezen het weetje
+ <img src= "fotos sem2/kinderen lezen een weetje.jpg" alt= "foto">
+                                  
                   
 **Verzamelboek**
 
@@ -470,8 +474,9 @@ Er waren 3 categoriën ( zoekopdracht, verzamelboek en spelletje) met elk 1 uitg
 •	Het spel spelen ging vlot, de instructies waren duidelijk. Er waren geen onduidelijkheden. 
  
 •	Wanneer het onduidelijk was wie er verloor bij de ‘boem’, speelden ze het gewoon eens opnieuw. Indien er een onenigheid bestaat, zijn de ouders in de buurt om dit uit te praten.   
- 
-                                         Figure 3: tik tak boem
+
+<img src= "fotos sem2/tik tak boem.jpg" alt= "foto">
+                                         
 
 ##### Gesprek
 •	Wat vond je leuk/ makkelijk om te gebruiken? Waarom?
@@ -536,11 +541,11 @@ Er waren 3 categoriën ( zoekopdracht, verzamelboek en spelletje) met elk 1 uitg
 •	Vond je het leuk om deel te nemen aan ons project? 
 -	Ja, geslaagd
 
-  
-Figure : kinderen leggen uit wat ze zouden toevoegen/veranderen
+<img src= "fotos sem2/kinderen toevoegen.jpg" alt= "foto">  
 
- 
-Figure : Plutchik's Wheel of Emotions met stippen van de gebruikers
+
+<img src= "fotos sem2/plutchik's wheel.jpg" alt= "foto"> 
+
 
 
 Gebruiker 1: blijdschap 
@@ -588,7 +593,8 @@ Er wordt een Bluetooth box op de champignon gelegd. Deze wordt verbonden met de 
 De test bestaat uit meerdere fasen die in elkaar overlopen. Eerst vindt de uitleg over ons product, concept en project plaats zodat er context geschept wordt voor de kinderen (1). Daarna is het aan hen. Ze proberen te achterhalen hoe het product werkt en hoe het bediend kan worden (2) . Wanneer ze dit doorhebben kan het spelen beginnen. De kinderen kunnen alle functies testen, zoveel ze wensen (3). Achteraf volgt er nog gesprekje van +- 20 minuten waarin we hen vragen stellen en zij aan ons. Zo kunnen we onze ideeën uitwisselen en tot nieuwe inzichten komen (4). 
 De kinderen gebruiken het product en zoeken uit hoe het werkt zonder onze uitleg. Wij evalueren hoe gemakkelijk de interacties gaan en achteraf worden er nog vragen gesteld, vooral ‘wat’ en ‘waarom’.
 
-foto luisterfragment
+<img src= "fotos sem2/luisterfragment.jpg" alt= "foto">
+
 
 #### Resultaten 
 >Key insights:
@@ -602,20 +608,23 @@ foto luisterfragment
 #### Conclusies & implicaties
 De indicaties zijn voldoende, maar een bordje kan het ‘af’ maken en dit is zeker doenbaar. Het filmpje was de favoriet en kan geïntegreerd worden in het systeem als vierde optie, hoewel de voorkeur van de ontwerpers toch bij het luistervehaal ligt (zonder beeld dus), maar dit zou nogmaals moeten getest worden met een grotere groep kinderen om hier een definitief beluit uit te kunnen trekken. Er zal intresse zijn van sommige kinderen en voor degene die liever geen verhaal beluisteren zijn er nog drie andere opties. Er moeten bankjes in de buurt van de paddenstoel zijn om goed van het verhaal te kunnen genieten. Deze bankjes zouden een vorm hebben van een korte dikke paddenstoel. 
 
-foto paddenstoelbankjes
+<img src= "fotos sem2/paddenstoelbankjes.jpg" alt= "foto">
+
 
 ## Finale prototype 
 ### Vormgeving 
 Het finale prototype bestaat uit twee paddenstoelen, de grote John de Champignon en de kleine Patrick de Paddenstoel. John beschikt over het scherm en de audio terwijl Patrick dienst doet als draai-en drukknop. Er is gebruik gemaakt van het concept antropomorfisme  '_het toekennen van menselijke eigenschappen aan niet-menselijke wezens_'. Eerst en vooral hebben de 2 paddenstoelen een naam. John beschikt over een scherm met een gezichtje. Wanneer het product in gebruik is, klinkt de mensenstem met instructies door de box. Dit kan bij de gebruiker zorgen voor het gevoel dat de paddenstoelen echt zijn. 
 #### De kleine Patrick de Paddenstoel 
-De basis van de stam is een zware hardhouten blok waarin in het centrum een houten paal is bevestigd. Aan de bovenkant van deze paal is een ronde plank aan vastgelijmt waar de kippen gaas aan werd bevestigd en de top van de paddenstoel op steunt. Een deel van deze paal steekt nog uit de plank. De kippengaas is vastgemaakt aan de basisblok met nietjes. De hoed van de paddenstoel is gemaakt uit PU-schuim en vestevigd met een ronde houten plank. door deze hoed werd een gat geboord zodat het over de paal van de stam past. heel deze paddenstoel is met krantenpapier en behangerslijm behangen en dan geschilderd. Voor de elektronica is deze paddenstoel werd een Arduino NANO gebruikt met een encoder, een powerbank en enkele kabels die bevestigd werden aan de onderkant van een ronde plank die in het midden van de hoeg kon geplaatst worden. de encoder wordt vastgehouden door een ge-3Dprint stuk dat op de houten paal werd bevestigd. Deze plank met de elektronica en de rest van de hoed zit vast genoeg aan elkaar om in één geheel mee te draaien. Als afwerking werd er een grote witte stip geprintdie om de elekronica af te dekken.
+De basis van de stam is een zware hardhouten blok waarin in het centrum een houten paal is bevestigd. Aan de bovenkant van deze paal is een ronde plank aan vastgelijmt waar de kippen gaas aan werd bevestigd en de top van de paddenstoel op steunt. Een deel van deze paal steekt nog uit de plank. De kippengaas is vastgemaakt aan de basisblok met nietjes. De hoed van de paddenstoel is gemaakt uit PU-schuim en vestevigd met een ronde houten plank. door deze hoed werd een gat geboord zodat het over de paal van de stam past. heel deze paddenstoel is met krantenpapier en behangerslijm behangen en dan geschilderd. Voor de elektronica is deze paddenstoel werd een Arduino NANO gebruikt met een encoder, een powerbank en enkele kabels die bevestigd werden aan de onderkant van een ronde plank die in het midden van de hoeg kon geplaatst worden. de encoder wordt vastgehouden door een ge-3Dprint stuk dat op de houten paal werd bevestigd. Deze plank met de elektronica en de rest van de hoed zit vast genoeg aan elkaar om in één geheel mee te draaien. Als afwerking werd er een grote witte stip geprint om de elekronica af te dekken.
 
-figure: verzameling van fotos opbouw kleine champ
+<img src= "fotos sem2/opbouw kleine champ.jpg" alt= "foto">
+
 
 #### De grote John de Champignon.  
 De grote paddenstoel is vrij gelijkaardig qua opbouw aan de kleine paddenstoel. De basis van de stam is een zware hardhouten blok waarin in het centrum een ijzeren paal is bevestigd. Aan de bovenkant van deze paal is een ronde stuk PU-schuim aan vastgelijmt. Verdere vorm werd gegeven door aluminium staven rondom de centrale paal die in de basis en het stuk PU-schuim werden vastgemaakt. Kippengaas Werd hier ook nog gebruikt. Weerop steek een deel van de centrale paal uit het ronde stuk PU-schuim bovenaan. De hoed bestaat uit een cilindervormig middenstuk van PU-schuim met daarin gebogen 'spaken' van aluminium staven die de hoed zijn vorm geven samen met kippengaas. Deze twee delen werden ook behangen en geverfd. Op te stam is een bult voorzien om de tablet op te kunnen positioneren.
 
-figure: verzameling van fotos opbouw Grote champ
+<img src= "fotos sem2/opbouw grote champ.jpg" alt= "foto">
+
 
 ### Scherm + programma 
 #### ProtoPie 
@@ -624,7 +633,8 @@ Het scherm is gedesigned zodat het aansluit bij de kleuren en de stijl van de pa
 Hieronder worden de verschillende schermen overlopen. Er is rekening gehouden met de gestaltwetten, deze worden toegelicht. Het bekomen programma van het prototype is alles behalve het finale programma. Er wordt telkens beschreven wat het programma nu inhoudt en welke veranderingen we nog graag in de toekomst zouden zien. Het bekomen programma had als hoofddoel af te toetsen welke concepten een succes zijn en waarop er kan verder gebouwd worden. Er is bewust niet uitgebreid naar meerdere spelen omdat dit niet tot de essentie behoort.  
 
 `Startscherm`
->_(foto van scherm)_
+<img src= "fotos sem2/startscherm.jpg" alt= "foto">
+
 
 Het startscherm heeft de vorm van een rood gezichtje. De rode kleur is zo gekozen dat ze overeenstemt met de hoed van de paddenstoelen. Het gezicht is vrolijk, maar simplistisch weergegeven. De functie is de aandacht trekken van voorbijgangers. 
 Good figure => de drie elementen ( 2 bolletjes en een kromme) worden ervaren als 1 geheel, namelijk een gezichtje.
