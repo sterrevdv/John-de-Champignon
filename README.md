@@ -576,8 +576,8 @@ Er is 1 element dat eruit springt en dat zijn luisterverhalen. Dit is nog niet g
 #### Gebruikerstest 3 (N=2)
 Deze test is een vervolg op gebruikerstest 2. Het verloop van de test leek op de vorige met als uitzondering dat er enkele nieuwe elementen werden toegevoegd en getest waaronder een vierde verhaaloptie met en zonder beeld, meer gebruik van muziek en duidelijkere indicaties bij de bediening. De test vond plaats op het speelpleintje in de Elzenstraat van Sinaai.
 #### Doelstellingen
-●	Positieve bevestiging krijgen over de terugpijl, ‘draai aan mij’, muziek en de verhaaloptie. 
-●	Extra bevestiging krijgen over het concept en de werking van de paddenstoel.
+- Positieve bevestiging krijgen over de terugpijl, ‘draai aan mij’, muziek en de verhaaloptie. 
+- Extra bevestiging krijgen over het concept en de werking van de paddenstoel.
 
 #### Materiaal & methoden 
 Dit is grotendeels gelijk aan Gebruikerstest 2. De vorm en uiterlijk van de champignon is volledig gemaakt, maar staat nog open voor veranderingen en aanpassingen. Het scherm dat geïllustreerd wordt aan de hand van de Ipad past erin. Het programma dat via ProtoPie gemaakt is. Alles is te bedienen door de kinderen (adhv de 2 arduino nano’s met bluotooth + ProtoPieconnect). 
